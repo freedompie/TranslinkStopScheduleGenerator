@@ -1,0 +1,96 @@
+name: Update GTFS Data
+
+on:
+  schedule:
+    # Every Monday at 09:00 UTC (after TransLink's typical Friday publish)
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    # Also triggerable manually from the Actions tab
+
+jobs:
+  update-gtfs:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # Needed to push the updated data files
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Python 3 ships with ubuntu-latest — no setup step needed
+
+      # ── Download ──────────────────────────────────────────────────────────
+
+      - name: Download TransLink GTFS feed
+        run: |
+          echo "Downloading GTFS feed from TransLink..."
+          curl -L --progress-bar \
+            -o /tmp/google_transit.zip \
+            "https://gtfs-static.translink.ca/gtfs/google_transit.zip"
+          echo "Download complete. Size: $(du -h /tmp/google_transit.zip | cut -f1)"
+
+      # ── Extract ───────────────────────────────────────────────────────────
+
+      - name: Extract GTFS zip
+        run: |
+          mkdir -p /tmp/gtfs_extract
+          unzip -o /tmp/google_transit.zip -d /tmp/gtfs_extract
+          echo ""
+          echo "Extracted files:"
+          ls -lh /tmp/gtfs_extract/
+
+      # ── Copy small static files ───────────────────────────────────────────
+
+      - name: Copy static GTFS files (excluding large files)
+        run: |
+          mkdir -p google_transit
+          # Copy all files except stop_times.txt and shapes.txt (handled separately)
+          for f in \
+            stops.txt \
+            routes.txt \
+            trips.txt \
+            calendar.txt \
+            calendar_dates.txt \
+            agency.txt \
+            transfers.txt \
+            signup_periods.txt \
+            directions.txt \
+            direction_names_exceptions.txt \
+            route_names_exceptions.txt \
+            stop_order_exceptions.txt \
+            translations.txt; do
+            if [ -f "/tmp/gtfs_extract/$f" ]; then
+              cp "/tmp/gtfs_extract/$f" "google_transit/$f"
+              echo "  Copied $f ($(du -h google_transit/$f | cut -f1))"
+            fi
+          done
+          echo ""
+          echo "Skipped: stop_times.txt (will be processed into per-stop JSON)"
+          echo "Skipped: shapes.txt (not used by this app)"
+
+      # ── Process stop_times ────────────────────────────────────────────────
+
+      - name: Process stop_times into per-stop JSON files
+        run: |
+          mkdir -p data/stop_times
+          python3 scripts/process-gtfs.py /tmp/gtfs_extract/stop_times.txt
+
+      # ── Commit & push ─────────────────────────────────────────────────────
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push updated data
+        run: |
+          git add google_transit/ data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit — data is already up to date."
+          else
+            UPDATED_AT=$(date -u '+%Y-%m-%d')
+            git commit -m "chore: update GTFS data (${UPDATED_AT})"
+            git push
+            echo "Changes committed and pushed successfully."
+          fi

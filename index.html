@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TransLink Stop Schedule | Bus Times by Stop Number</title>
+  <meta name="description" content="Look up hour-by-hour bus schedules for any TransLink bus stop in Metro Vancouver. Enter a stop number to see all arrivals grouped by hour." />
+  <meta name="theme-color" content="#0b0f1a" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚌</text></svg>" />
+</head>
+<body>
+  <div class="app-wrapper">
+
+    <!-- ── Header ───────────────────────────────────────────── -->
+    <header class="app-header">
+      <div class="logo-badge">
+        <span class="badge-dot"></span>
+        TransLink GTFS · Metro Vancouver
+      </div>
+      <h1 class="app-title">Stop Schedule Generator</h1>
+      <p class="app-subtitle">Enter any bus stop number to see hour-by-hour departures</p>
+    </header>
+
+    <!-- ── Search Panel ─────────────────────────────────────── -->
+    <section class="search-panel" aria-label="Stop search">
+      <div class="search-row">
+        <div class="search-input-wrapper">
+          <!-- Bus stop icon -->
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none"
+               stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+               aria-hidden="true">
+            <rect x="3" y="3" width="18" height="14" rx="2"/>
+            <path d="M3 9h18M8 3v6M16 3v6M8 21l-2-4h12l-2 4M10 21h4"/>
+          </svg>
+          <input
+            id="stopInput"
+            type="text"
+            inputmode="numeric"
+            pattern="[0-9]*"
+            placeholder="e.g. 61522"
+            maxlength="6"
+            autocomplete="off"
+            autocorrect="off"
+            spellcheck="false"
+            aria-label="Bus stop number"
+          />
+        </div>
+        <button id="searchBtn" aria-label="Look up schedule">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+               stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+               aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          Look Up
+        </button>
+      </div>
+
+      <!-- Day Type Selector -->
+      <div class="day-selector-row" role="group" aria-label="Day type">
+        <span class="day-selector-label">Day:</span>
+        <button class="day-btn active" data-day="today"    id="dayToday">Today</button>
+        <button class="day-btn"        data-day="weekday"  id="dayWeekday">Weekday</button>
+        <button class="day-btn"        data-day="saturday" id="daySaturday">Saturday</button>
+        <button class="day-btn"        data-day="sunday"   id="daySunday">Sunday</button>
+      </div>
+    </section>
+
+    <!-- ── Status / Progress ─────────────────────────────────── -->
+    <div id="statusArea" aria-live="polite" aria-atomic="false">
+      <div class="progress-card" id="progressCard" role="status">
+        <div class="progress-header">
+          <span class="progress-label" id="progressLabel">Loading schedule data…</span>
+          <span class="progress-pct" id="progressPct">0%</span>
+        </div>
+        <div class="progress-bar-track">
+          <div class="progress-bar-fill" id="progressFill"></div>
+        </div>
+        <div class="progress-detail" id="progressDetail"></div>
+      </div>
+
+      <div class="error-card" id="errorCard" role="alert">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+             aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <line x1="12" y1="8" x2="12" y2="12"/>
+          <line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+        <span id="errorMsg"></span>
+      </div>
+    </div>
+
+    <!-- ── Stop Info Banner ──────────────────────────────────── -->
+    <div id="stopBanner" aria-live="polite">
+      <div class="stop-badge" id="stopCodeBadge"></div>
+      <div class="stop-info">
+        <div class="stop-name" id="stopNameText"></div>
+        <div class="stop-meta" id="stopMetaText"></div>
+      </div>
+      <div class="result-count-badge" id="resultCountBadge"></div>
+      <button id="pdfBtn" class="pdf-btn" aria-label="Export schedule as PDF" title="Export as PDF">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"
+             aria-hidden="true">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+          <polyline points="14 2 14 8 20 8"/>
+          <line x1="12" y1="18" x2="12" y2="12"/>
+          <line x1="9" y1="15" x2="15" y2="15"/>
+        </svg>
+        Export PDF
+      </button>
+    </div>
+
+    <!-- ── Route Filter Bar ─────────────────────────────────── -->
+    <div id="routeFilter" aria-label="Filter by route" role="group"></div>
+
+    <!-- ── Schedule Output ───────────────────────────────────── -->
+    <main id="scheduleOutput" aria-label="Hour-by-hour schedule">
+      <div class="empty-state" id="emptyState">
+        <div class="empty-state-icon">🚌</div>
+        <h3>Enter a stop number above</h3>
+        <p>Find your stop number on the bus stop sign or at translink.ca</p>
+      </div>
+    </main>
+
+    <!-- ── Footer ───────────────────────────────────────────── -->
+    <footer class="app-footer">
+      <p>Data from <a href="https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs" target="_blank" rel="noopener">TransLink GTFS Static Feed</a></p>
+      <p id="feedUpdatedAt" class="feed-updated-at"></p>
+      <p>Schedules may not reflect real-time delays or service alerts</p>
+    </footer>
+
+  </div><!-- /app-wrapper -->
+
+  <script src="script.js?v=5"></script>
+</body>
+</html>

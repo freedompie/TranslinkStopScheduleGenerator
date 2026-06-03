@@ -1,0 +1,2 @@
+table_name,field_name,language,translation,record_id
+stops,stop_name,hur,šxʷməθkʷəy̓əmasəm Street,54

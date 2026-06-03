@@ -1,0 +1,11 @@
+# Large GTFS files — replaced by pre-processed data/stop_times/ directory
+google_transit/stop_times.txt
+google_transit/shapes.txt
+
+# Temporary download files
+*.zip
+/tmp/
+
+# Node
+node_modules/
+scripts/node_modules/
