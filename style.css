@@ -829,7 +829,7 @@ body::before {
 /* ── Print / PDF Stylesheet — Single Sheet ──────────────────── */
 @page {
   size: A4 landscape;
-  margin: 8mm 10mm;
+  margin: 6mm 8mm;
 }
 
 @media print {
@@ -842,12 +842,12 @@ body::before {
     box-shadow: none !important;
   }
 
-  body {
+  html, body {
     background: #fff !important;
     color: #111 !important;
-    font-size: 7pt;
-    line-height: 1.25;
     font-family: 'Inter', system-ui, sans-serif;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
   body::before { display: none !important; }
@@ -867,6 +867,9 @@ body::before {
     max-width: 100%;
     padding: 0;
     margin: 0;
+    /* Zoom scales the layout engine so content genuinely reflows smaller.
+       78% keeps text readable while fitting ~20 hour-blocks on one page. */
+    zoom: 78%;
   }
 
   /* ── Slim branded header bar ── */
@@ -877,7 +880,7 @@ body::before {
     background: #0057a8 !important;
     border-radius: 3pt !important;
     padding: 4pt 9pt !important;
-    margin-bottom: 6pt !important;
+    margin-bottom: 5pt !important;
     color: #fff !important;
     border: none !important;
   }
@@ -934,12 +937,16 @@ body::before {
     flex-shrink: 0;
   }
 
-  /* ── Schedule grid: 3 equal columns ── */
+  /* ── Schedule: CSS multi-column layout ──────────────────────────────────────
+     column-count fills top-to-bottom within each column before starting the
+     next — this naturally balances the columns and eliminates the wasted
+     whitespace that a row-based grid leaves when blocks have uneven heights.
+  ── */
   #scheduleOutput {
-    display: grid !important;
-    grid-template-columns: repeat(3, 1fr) !important;
-    gap: 4pt !important;
-    align-items: start !important;
+    display: block !important;
+    column-count: 4 !important;
+    column-gap: 5pt !important;
+    column-fill: balance !important;
   }
 
   #scheduleOutput > .empty-state { display: none !important; }
@@ -948,25 +955,31 @@ body::before {
   .hour-block {
     background: #fff !important;
     border: 0.5pt solid #c4cfdf !important;
-    border-radius: 3pt !important;
+    border-radius: 2pt !important;
     overflow: visible !important;
     backdrop-filter: none !important;
+    /* Keep each hour block together; don't split it across columns */
     break-inside: avoid;
+    column-break-inside: avoid;
     page-break-inside: avoid;
+    /* Small bottom margin so blocks don't butt up against each other */
+    margin-bottom: 4pt;
+    display: inline-block;
+    width: 100%;
   }
 
   .hour-header {
     display: flex !important;
     align-items: center !important;
-    gap: 4pt !important;
+    gap: 3pt !important;
     background: #edf2fa !important;
     border-bottom: 0.5pt solid #c4cfdf !important;
-    padding: 2.5pt 5pt !important;
+    padding: 2pt 4pt !important;
   }
 
   .hour-label {
     color: #0057a8 !important;
-    font-size: 8pt !important;
+    font-size: 7.5pt !important;
     font-weight: 700 !important;
     min-width: auto !important;
     font-family: 'JetBrains Mono', monospace;
@@ -974,27 +987,27 @@ body::before {
 
   .hour-period {
     color: #555 !important;
-    font-size: 6pt !important;
+    font-size: 5.5pt !important;
     text-transform: uppercase;
     letter-spacing: 0.05em;
   }
 
   .hour-trip-count {
     margin-left: auto !important;
-    font-size: 5.5pt !important;
+    font-size: 5pt !important;
     color: #555 !important;
     background: #dae3f3 !important;
     border: none !important;
-    padding: 0.5pt 4pt !important;
+    padding: 0.5pt 3pt !important;
     border-radius: 100pt !important;
   }
 
-  /* ── Departures: compact inline rows ── */
+  /* ── Departures: ultra-compact inline rows ── */
   .departures-grid {
     display: flex !important;
     flex-direction: column !important;
     gap: 0 !important;
-    padding: 1.5pt 0 !important;
+    padding: 1pt 0 !important;
   }
 
   .dep-chip {
@@ -1005,7 +1018,7 @@ body::before {
     border: none !important;
     border-bottom: 0.4pt solid #eef0f5 !important;
     border-radius: 0 !important;
-    padding: 1.5pt 5pt !important;
+    padding: 1pt 4pt !important;
     min-width: 0 !important;
     transform: none !important;
   }
@@ -1016,9 +1029,9 @@ body::before {
 
   /* Route pill */
   .route-pill {
-    font-size: 5.5pt !important;
-    padding: 0.5pt 3pt !important;
-    min-width: 20pt !important;
+    font-size: 5pt !important;
+    padding: 0.5pt 2.5pt !important;
+    min-width: 18pt !important;
     border-radius: 2pt !important;
     font-weight: 700 !important;
     text-align: center !important;
