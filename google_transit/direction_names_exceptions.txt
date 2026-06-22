@@ -1,6 +1,6 @@
 ﻿route_name,direction_id,direction_name,direction_do
 1,0,Downtown South Circulator to Yaletown,0
-1,1,Downtown South Circulator to Uptown,1
+1,1,Downtown South Circulator to Downtown,1
 2,0,Burrard Station,0
 2,1,Dunbar Loop/Macdonald-16th Ave,1
 3,0,Waterfront Station,0
