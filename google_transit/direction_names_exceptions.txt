@@ -385,7 +385,7 @@
 563,1,Fernridge,1
 564,0,Willowbrook,0
 564,1,Langley Centre,1
-566,0,Langely Centre,0
+566,0,Langley Centre,0
 566,1,Campbell Valley,1
 595,0,Maple Meadows Station,0
 595,1,Langley Centre,1
