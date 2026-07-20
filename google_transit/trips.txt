@@ -9701,104 +9701,104 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6629,3,15220176,27 Rupert/To Joyce Station,,1,2186028,317468,0,1
 6629,3,15220177,27 Rupert/To Joyce Station,,1,2186717,317468,0,1
 6629,3,15220178,27 Rupert/To Joyce Station,,1,2186717,317468,0,1
-6630,2,15220324,28 Boundary/To Phibbs Exchange,,0,2189725,318483,0,1
-6630,2,15220325,28 Boundary/To Phibbs Exchange,,0,2186018,318483,0,1
-6630,2,15220326,28 Boundary/To Phibbs Exchange,,0,2186042,318483,0,1
-6630,2,15220327,28 Boundary/To Phibbs Exchange,,0,2186022,318483,0,1
-6630,2,15220328,28 Boundary/To Phibbs Exchange,,0,2186025,318483,0,1
-6630,2,15220329,28 Boundary/To Phibbs Exchange,,0,2189740,318483,0,1
-6630,2,15220330,28 Boundary/To Phibbs Exchange,,0,2186021,318483,0,1
-6630,2,15220331,28 Boundary/To Phibbs Exchange,,0,2186018,318485,0,1
-6630,2,15220332,28 Boundary/To Phibbs Exchange,,0,2189740,318483,0,1
-6630,2,15220333,28 Boundary/To Phibbs Exchange,,0,2186022,318483,0,1
-6630,2,15220334,28 Boundary/To Phibbs Exchange,,0,2189513,318483,0,1
-6630,2,15220335,28 Boundary/To Phibbs Exchange,,0,2186055,318483,0,1
-6630,2,15220336,28 Boundary/To Phibbs Exchange,,0,2189728,318483,0,1
-6630,2,15220337,28 Boundary/To Phibbs Exchange,,0,2189729,318483,0,1
-6630,2,15220338,28 Boundary/To Phibbs Exchange,,0,2189740,318483,0,1
-6630,2,15220339,28 Boundary/To Phibbs Exchange,,0,2186020,318483,0,1
-6630,2,15220340,28 Boundary/To Phibbs Exchange,,0,2186055,318483,0,1
-6630,2,15220341,28 Boundary/To Phibbs Exchange,,0,2186018,318483,0,1
-6630,2,15220342,28 Boundary/To Phibbs Exchange,,0,2186025,318483,0,1
-6630,2,15220343,28 Boundary/To Phibbs Exchange,,0,2189513,318483,0,1
-6630,2,15220344,28 Boundary/To Phibbs Exchange,,0,2186018,318483,0,1
-6630,2,15220345,28 Boundary/To Phibbs Exchange,,0,2189513,318483,0,1
+6630,2,15220324,28 Boundary/To Phibbs Exchange,,0,2189725,317474,0,1
+6630,2,15220325,28 Boundary/To Phibbs Exchange,,0,2186018,317474,0,1
+6630,2,15220326,28 Boundary/To Phibbs Exchange,,0,2186042,317474,0,1
+6630,2,15220327,28 Boundary/To Phibbs Exchange,,0,2186022,317474,0,1
+6630,2,15220328,28 Boundary/To Phibbs Exchange,,0,2186025,317474,0,1
+6630,2,15220329,28 Boundary/To Phibbs Exchange,,0,2189740,317474,0,1
+6630,2,15220330,28 Boundary/To Phibbs Exchange,,0,2186021,317474,0,1
+6630,2,15220331,28 Boundary/To Phibbs Exchange,,0,2186018,317473,0,1
+6630,2,15220332,28 Boundary/To Phibbs Exchange,,0,2189740,317474,0,1
+6630,2,15220333,28 Boundary/To Phibbs Exchange,,0,2186022,317474,0,1
+6630,2,15220334,28 Boundary/To Phibbs Exchange,,0,2189513,317474,0,1
+6630,2,15220335,28 Boundary/To Phibbs Exchange,,0,2186055,317474,0,1
+6630,2,15220336,28 Boundary/To Phibbs Exchange,,0,2189728,317474,0,1
+6630,2,15220337,28 Boundary/To Phibbs Exchange,,0,2189729,317474,0,1
+6630,2,15220338,28 Boundary/To Phibbs Exchange,,0,2189740,317474,0,1
+6630,2,15220339,28 Boundary/To Phibbs Exchange,,0,2186020,317474,0,1
+6630,2,15220340,28 Boundary/To Phibbs Exchange,,0,2186055,317474,0,1
+6630,2,15220341,28 Boundary/To Phibbs Exchange,,0,2186018,317474,0,1
+6630,2,15220342,28 Boundary/To Phibbs Exchange,,0,2186025,317474,0,1
+6630,2,15220343,28 Boundary/To Phibbs Exchange,,0,2189513,317474,0,1
+6630,2,15220344,28 Boundary/To Phibbs Exchange,,0,2186018,317474,0,1
+6630,2,15220345,28 Boundary/To Phibbs Exchange,,0,2189513,317474,0,1
 6630,2,15220346,28 Boundary/To Kootenay Loop,,0,2189740,317471,0,1
-6630,2,15220347,28 Boundary/To Phibbs Exchange,,0,2186018,318483,0,1
-6630,2,15220348,28 Boundary/To Phibbs Exchange,,0,2189728,318483,0,1
-6630,2,15220349,28 Boundary/To Phibbs Exchange,,0,2186019,318483,0,1
-6630,2,15220350,28 Boundary/To Phibbs Exchange,,0,2186027,318483,0,1
-6630,2,15220351,28 Boundary/To Phibbs Exchange,,0,2189742,318483,0,1
-6630,2,15220352,28 Boundary/To Phibbs Exchange,,0,2189744,318483,0,1
-6630,2,15220353,28 Boundary/To Phibbs Exchange,,0,2189726,318483,0,1
-6630,2,15220354,28 Boundary/To Phibbs Exchange,,0,2186024,318483,0,1
-6630,2,15220355,28 Boundary/To Phibbs Exchange,,0,2189729,318483,0,1
-6630,2,15220356,28 Boundary/To Phibbs Exchange,,0,2189742,318483,0,1
-6630,2,15220357,28 Boundary/To Phibbs Exchange,,0,2189744,318483,0,1
-6630,2,15220358,28 Boundary/To Phibbs Exchange,,0,2189726,318483,0,1
-6630,2,15220359,28 Boundary/To Phibbs Exchange,,0,2186024,318483,0,1
-6630,2,15220360,28 Boundary/To Phibbs Exchange,,0,2186312,318483,0,1
-6630,2,15220361,28 Boundary/To Phibbs Exchange,,0,2186711,318483,0,1
-6630,2,15220362,28 Boundary/To Phibbs Exchange,,0,2186712,318483,0,1
-6630,2,15220363,28 Boundary/To Phibbs Exchange,,0,2189596,318483,0,1
-6630,2,15220364,28 Boundary/To Phibbs Exchange,,0,2189727,318483,0,1
-6630,2,15220365,28 Boundary/To Phibbs Exchange,,0,2186027,318483,0,1
-6630,2,15220366,28 Boundary/To Phibbs Exchange,,0,2189742,318483,0,1
-6630,2,15220367,28 Boundary/To Phibbs Exchange,,0,2186712,318483,0,1
-6630,2,15220368,28 Boundary/To Phibbs Exchange,,0,2189513,318483,0,1
-6630,2,15220369,28 Boundary/To Phibbs Exchange,,0,2186055,318483,0,1
-6630,2,15220370,28 Boundary/To Phibbs Exchange,,0,2189728,318483,0,1
-6630,2,15220371,28 Boundary/To Phibbs Exchange,,0,2189729,318483,0,1
-6630,2,15220372,28 Boundary/To Phibbs Exchange,,0,2189725,318483,0,1
-6630,2,15220373,28 Boundary/To Joyce Station,,1,2186022,318484,0,1
-6630,2,15220374,28 Boundary/To Joyce Station,,1,2186018,318484,0,1
-6630,2,15220375,28 Boundary/To Joyce Station,,1,2189744,318484,0,1
-6630,2,15220376,28 Boundary/To Joyce Station,,1,2186018,318484,0,1
-6630,2,15220377,28 Boundary/To Joyce Station,,1,2186020,318484,0,1
-6630,2,15220378,28 Boundary/To Joyce Station,,1,2186018,318484,0,1
-6630,2,15220379,28 Boundary/To Joyce Station,,1,2187116,318484,0,1
-6630,2,15220380,28 Boundary/To Joyce Station,,1,2189726,318484,0,1
-6630,2,15220381,28 Boundary/To Joyce Station,,1,2186024,318484,0,1
-6630,2,15220382,28 Boundary/To Joyce Station,,1,2189729,318484,0,1
-6630,2,15220383,28 Boundary/To Joyce Station,,1,2189742,318484,0,1
-6630,2,15220384,28 Boundary/To Joyce Station,,1,2189744,318484,0,1
-6630,2,15220385,28 Boundary/To Joyce Station,,1,2189726,318484,0,1
-6630,2,15220386,28 Boundary/To Joyce Station,,1,2186024,318484,0,1
-6630,2,15220387,28 Boundary/To Joyce Station,,1,2186312,318484,0,1
-6630,2,15220388,28 Boundary/To Joyce Station,,1,2186711,318484,0,1
-6630,2,15220389,28 Boundary/To Joyce Station,,1,2186712,318484,0,1
-6630,2,15220390,28 Boundary/To Joyce Station,,1,2189513,318484,0,1
-6630,2,15220391,28 Boundary/To Joyce Station,,1,2189596,318484,0,1
-6630,2,15220392,28 Boundary/To Joyce Station,,1,2189727,318484,0,1
-6630,2,15220393,28 Boundary/To Joyce Station,,1,2186027,318484,0,1
-6630,2,15220394,28 Boundary/To Joyce Station,,1,2189742,318484,0,1
-6630,2,15220395,28 Boundary/To Joyce Station,,1,2186712,318484,0,1
-6630,2,15220396,28 Boundary/To Joyce Station,,1,2189513,318484,0,1
-6630,2,15220397,28 Boundary/To Joyce Station,,1,2186055,318484,0,1
-6630,2,15220398,28 Boundary/To Joyce Station,,1,2189728,318484,0,1
-6630,2,15220399,28 Boundary/To Joyce Station,,1,2189729,318484,0,1
-6630,2,15220400,28 Boundary/To Joyce Station,,1,2189740,318484,0,1
-6630,2,15220401,28 Boundary/To Joyce Station,,1,2189725,318484,0,1
-6630,2,15220402,28 Boundary/To Joyce Station,,1,2189513,318484,0,1
-6630,2,15220403,28 Boundary/To Joyce Station,,1,2186055,318484,0,1
-6630,2,15220404,28 Boundary/To Joyce Station,,1,2189728,318484,0,1
-6630,2,15220405,28 Boundary/To Joyce Station,,1,2189729,318484,0,1
-6630,2,15220406,28 Boundary/To Joyce Station,,1,2189740,318484,0,1
-6630,2,15220407,28 Boundary/To Joyce Station,,1,2189744,318484,0,1
-6630,2,15220408,28 Boundary/To Joyce Station,,1,2186055,318484,0,1
-6630,2,15220409,28 Boundary/To Joyce Station,,1,2189728,318484,0,1
-6630,2,15220410,28 Boundary/To Joyce Station,,1,2189729,318484,0,1
-6630,2,15220411,28 Boundary/To Joyce Station,,1,2189742,318484,0,1
-6630,2,15220412,28 Boundary/To Joyce Station,,1,2186020,318484,0,1
-6630,2,15220413,28 Boundary/To Joyce Station,,1,2189740,318484,0,1
-6630,2,15220414,28 Boundary/To Joyce Station,,1,2186042,318484,0,1
-6630,2,15220415,28 Boundary/To Joyce Station,,1,2189740,318484,0,1
-6630,2,15220416,28 Boundary/To Joyce Station,,1,2186055,318484,0,1
-6630,2,15220417,28 Boundary/To Joyce Station,,1,2187119,318484,0,1
-6630,2,15220418,28 Boundary/To Joyce Station,,1,2186042,318484,0,1
-6630,2,15220419,28 Boundary/To Joyce Station,,1,2186018,318484,0,1
-6630,2,15220420,28 Boundary/To Joyce Station,,1,2186025,318484,0,1
-6630,2,15220421,28 Boundary/To Joyce Station,,1,2186018,318484,0,1
+6630,2,15220347,28 Boundary/To Phibbs Exchange,,0,2186018,317474,0,1
+6630,2,15220348,28 Boundary/To Phibbs Exchange,,0,2189728,317474,0,1
+6630,2,15220349,28 Boundary/To Phibbs Exchange,,0,2186019,317474,0,1
+6630,2,15220350,28 Boundary/To Phibbs Exchange,,0,2186027,317474,0,1
+6630,2,15220351,28 Boundary/To Phibbs Exchange,,0,2189742,317474,0,1
+6630,2,15220352,28 Boundary/To Phibbs Exchange,,0,2189744,317474,0,1
+6630,2,15220353,28 Boundary/To Phibbs Exchange,,0,2189726,317474,0,1
+6630,2,15220354,28 Boundary/To Phibbs Exchange,,0,2186024,317474,0,1
+6630,2,15220355,28 Boundary/To Phibbs Exchange,,0,2189729,317474,0,1
+6630,2,15220356,28 Boundary/To Phibbs Exchange,,0,2189742,317474,0,1
+6630,2,15220357,28 Boundary/To Phibbs Exchange,,0,2189744,317474,0,1
+6630,2,15220358,28 Boundary/To Phibbs Exchange,,0,2189726,317474,0,1
+6630,2,15220359,28 Boundary/To Phibbs Exchange,,0,2186024,317474,0,1
+6630,2,15220360,28 Boundary/To Phibbs Exchange,,0,2186312,317474,0,1
+6630,2,15220361,28 Boundary/To Phibbs Exchange,,0,2186711,317474,0,1
+6630,2,15220362,28 Boundary/To Phibbs Exchange,,0,2186712,317474,0,1
+6630,2,15220363,28 Boundary/To Phibbs Exchange,,0,2189596,317474,0,1
+6630,2,15220364,28 Boundary/To Phibbs Exchange,,0,2189727,317474,0,1
+6630,2,15220365,28 Boundary/To Phibbs Exchange,,0,2186027,317474,0,1
+6630,2,15220366,28 Boundary/To Phibbs Exchange,,0,2189742,317474,0,1
+6630,2,15220367,28 Boundary/To Phibbs Exchange,,0,2186712,317474,0,1
+6630,2,15220368,28 Boundary/To Phibbs Exchange,,0,2189513,317474,0,1
+6630,2,15220369,28 Boundary/To Phibbs Exchange,,0,2186055,317474,0,1
+6630,2,15220370,28 Boundary/To Phibbs Exchange,,0,2189728,317474,0,1
+6630,2,15220371,28 Boundary/To Phibbs Exchange,,0,2189729,317474,0,1
+6630,2,15220372,28 Boundary/To Phibbs Exchange,,0,2189725,317474,0,1
+6630,2,15220373,28 Boundary/To Joyce Station,,1,2186022,317478,0,1
+6630,2,15220374,28 Boundary/To Joyce Station,,1,2186018,317478,0,1
+6630,2,15220375,28 Boundary/To Joyce Station,,1,2189744,317478,0,1
+6630,2,15220376,28 Boundary/To Joyce Station,,1,2186018,317478,0,1
+6630,2,15220377,28 Boundary/To Joyce Station,,1,2186020,317478,0,1
+6630,2,15220378,28 Boundary/To Joyce Station,,1,2186018,317478,0,1
+6630,2,15220379,28 Boundary/To Joyce Station,,1,2187116,317478,0,1
+6630,2,15220380,28 Boundary/To Joyce Station,,1,2189726,317478,0,1
+6630,2,15220381,28 Boundary/To Joyce Station,,1,2186024,317478,0,1
+6630,2,15220382,28 Boundary/To Joyce Station,,1,2189729,317478,0,1
+6630,2,15220383,28 Boundary/To Joyce Station,,1,2189742,317478,0,1
+6630,2,15220384,28 Boundary/To Joyce Station,,1,2189744,317478,0,1
+6630,2,15220385,28 Boundary/To Joyce Station,,1,2189726,317478,0,1
+6630,2,15220386,28 Boundary/To Joyce Station,,1,2186024,317478,0,1
+6630,2,15220387,28 Boundary/To Joyce Station,,1,2186312,317478,0,1
+6630,2,15220388,28 Boundary/To Joyce Station,,1,2186711,317478,0,1
+6630,2,15220389,28 Boundary/To Joyce Station,,1,2186712,317478,0,1
+6630,2,15220390,28 Boundary/To Joyce Station,,1,2189513,317478,0,1
+6630,2,15220391,28 Boundary/To Joyce Station,,1,2189596,317478,0,1
+6630,2,15220392,28 Boundary/To Joyce Station,,1,2189727,317478,0,1
+6630,2,15220393,28 Boundary/To Joyce Station,,1,2186027,317478,0,1
+6630,2,15220394,28 Boundary/To Joyce Station,,1,2189742,317478,0,1
+6630,2,15220395,28 Boundary/To Joyce Station,,1,2186712,317478,0,1
+6630,2,15220396,28 Boundary/To Joyce Station,,1,2189513,317478,0,1
+6630,2,15220397,28 Boundary/To Joyce Station,,1,2186055,317478,0,1
+6630,2,15220398,28 Boundary/To Joyce Station,,1,2189728,317478,0,1
+6630,2,15220399,28 Boundary/To Joyce Station,,1,2189729,317478,0,1
+6630,2,15220400,28 Boundary/To Joyce Station,,1,2189740,317478,0,1
+6630,2,15220401,28 Boundary/To Joyce Station,,1,2189725,317478,0,1
+6630,2,15220402,28 Boundary/To Joyce Station,,1,2189513,317478,0,1
+6630,2,15220403,28 Boundary/To Joyce Station,,1,2186055,317478,0,1
+6630,2,15220404,28 Boundary/To Joyce Station,,1,2189728,317478,0,1
+6630,2,15220405,28 Boundary/To Joyce Station,,1,2189729,317478,0,1
+6630,2,15220406,28 Boundary/To Joyce Station,,1,2189740,317478,0,1
+6630,2,15220407,28 Boundary/To Joyce Station,,1,2189744,317478,0,1
+6630,2,15220408,28 Boundary/To Joyce Station,,1,2186055,317478,0,1
+6630,2,15220409,28 Boundary/To Joyce Station,,1,2189728,317478,0,1
+6630,2,15220410,28 Boundary/To Joyce Station,,1,2189729,317478,0,1
+6630,2,15220411,28 Boundary/To Joyce Station,,1,2189742,317478,0,1
+6630,2,15220412,28 Boundary/To Joyce Station,,1,2186020,317478,0,1
+6630,2,15220413,28 Boundary/To Joyce Station,,1,2189740,317478,0,1
+6630,2,15220414,28 Boundary/To Joyce Station,,1,2186042,317478,0,1
+6630,2,15220415,28 Boundary/To Joyce Station,,1,2189740,317478,0,1
+6630,2,15220416,28 Boundary/To Joyce Station,,1,2186055,317478,0,1
+6630,2,15220417,28 Boundary/To Joyce Station,,1,2187119,317478,0,1
+6630,2,15220418,28 Boundary/To Joyce Station,,1,2186042,317478,0,1
+6630,2,15220419,28 Boundary/To Joyce Station,,1,2186018,317478,0,1
+6630,2,15220420,28 Boundary/To Joyce Station,,1,2186025,317478,0,1
+6630,2,15220421,28 Boundary/To Joyce Station,,1,2186018,317478,0,1
 6631,1,15220516,29 29th Ave Station,,0,2186009,317480,0,1
 6631,1,15220517,29 29th Ave Station,,0,2186015,317480,0,1
 6631,1,15220518,29 29th Ave Station,,0,2186003,317480,0,1
@@ -18882,186 +18882,186 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6650,3,15229849,129 Patterson Station,,1,2186574,317592,0,1
 6650,3,15229850,129 Patterson Station,,1,2186629,317592,0,1
 6651,2,15230103,130 Willingdon/To Kootenay Loop,,0,2189745,317595,0,1
-6651,2,15230104,130 Willingdon/To Phibbs Exchange,,0,2189725,318491,0,1
-6651,2,15230105,130 Willingdon/To Phibbs Exchange,,0,2189744,318491,0,1
-6651,2,15230106,130 Willingdon/To Phibbs Exchange,,0,2186713,318491,0,1
-6651,2,15230107,130 Willingdon/To Phibbs Exchange,,0,2186024,318491,0,1
-6651,2,15230108,130 Willingdon/To Phibbs Exchange,,0,2186312,318491,0,1
-6651,2,15230109,130 Willingdon/To Phibbs Exchange,,0,2186711,318491,0,1
-6651,2,15230110,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
-6651,2,15230111,130 Willingdon/To Phibbs Exchange,,0,2189744,318491,0,1
-6651,2,15230112,130 Willingdon/To Phibbs Exchange,,0,2186713,318491,0,1
-6651,2,15230113,130 Willingdon/To Phibbs Exchange,,0,2189596,318491,0,1
-6651,2,15230114,130 Willingdon/To Phibbs Exchange,,0,2189727,318491,0,1
-6651,2,15230115,130 Willingdon/To Phibbs Exchange,,0,2186024,318491,0,1
-6651,2,15230116,130 Willingdon/To Phibbs Exchange,,0,2189728,318491,0,1
-6651,2,15230117,130 Willingdon/To Phibbs Exchange,,0,2186312,318491,0,1
-6651,2,15230118,130 Willingdon/To Phibbs Exchange,,0,2186712,318491,0,1
-6651,2,15230119,130 Willingdon/To Phibbs Exchange,,0,2189744,318491,0,1
-6651,2,15230120,130 Willingdon/To Phibbs Exchange,,0,2189596,318491,0,1
+6651,2,15230104,130 Willingdon/To Phibbs Exchange,,0,2189725,317596,0,1
+6651,2,15230105,130 Willingdon/To Phibbs Exchange,,0,2189744,317596,0,1
+6651,2,15230106,130 Willingdon/To Phibbs Exchange,,0,2186713,317596,0,1
+6651,2,15230107,130 Willingdon/To Phibbs Exchange,,0,2186024,317596,0,1
+6651,2,15230108,130 Willingdon/To Phibbs Exchange,,0,2186312,317596,0,1
+6651,2,15230109,130 Willingdon/To Phibbs Exchange,,0,2186711,317596,0,1
+6651,2,15230110,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
+6651,2,15230111,130 Willingdon/To Phibbs Exchange,,0,2189744,317596,0,1
+6651,2,15230112,130 Willingdon/To Phibbs Exchange,,0,2186713,317596,0,1
+6651,2,15230113,130 Willingdon/To Phibbs Exchange,,0,2189596,317596,0,1
+6651,2,15230114,130 Willingdon/To Phibbs Exchange,,0,2189727,317596,0,1
+6651,2,15230115,130 Willingdon/To Phibbs Exchange,,0,2186024,317596,0,1
+6651,2,15230116,130 Willingdon/To Phibbs Exchange,,0,2189728,317596,0,1
+6651,2,15230117,130 Willingdon/To Phibbs Exchange,,0,2186312,317596,0,1
+6651,2,15230118,130 Willingdon/To Phibbs Exchange,,0,2186712,317596,0,1
+6651,2,15230119,130 Willingdon/To Phibbs Exchange,,0,2189744,317596,0,1
+6651,2,15230120,130 Willingdon/To Phibbs Exchange,,0,2189596,317596,0,1
 6651,2,15230121,130 Willingdon/To Kootenay Loop,,0,2189727,317595,0,1
 6651,2,15230122,130 Willingdon/To Kootenay Loop,,0,2189745,317595,0,1
 6651,2,15230123,130 Willingdon/To Kootenay Loop,,0,2189727,317595,0,1
-6651,2,15230124,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
-6651,2,15230125,130 Willingdon/To Phibbs Exchange,,0,2189727,318491,0,1
+6651,2,15230124,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
+6651,2,15230125,130 Willingdon/To Phibbs Exchange,,0,2189727,317596,0,1
 6651,2,15230126,130 Willingdon/To Kootenay Loop,,0,2186712,317595,0,1
 6651,2,15230127,130 Willingdon/To Kootenay Loop,,0,2189727,317595,0,1
 6651,2,15230128,130 Willingdon/To Kootenay Loop,,0,2186711,317595,0,1
-6651,2,15230129,130 Willingdon/To Phibbs Exchange,,0,2189596,318491,0,1
+6651,2,15230129,130 Willingdon/To Phibbs Exchange,,0,2189596,317596,0,1
 6651,2,15230130,130 Willingdon/To Kootenay Loop,,0,2189745,317595,0,1
 6651,2,15230131,130 Willingdon/To Kootenay Loop,,0,2189596,317595,0,1
-6651,2,15230132,130 Willingdon/To Phibbs Exchange,,0,2189725,318491,0,1
-6651,2,15230133,130 Willingdon/To Phibbs Exchange,,0,2189744,318491,0,1
-6651,2,15230134,130 Willingdon/To Phibbs Exchange,,0,2186027,318491,0,1
+6651,2,15230132,130 Willingdon/To Phibbs Exchange,,0,2189725,317596,0,1
+6651,2,15230133,130 Willingdon/To Phibbs Exchange,,0,2189744,317596,0,1
+6651,2,15230134,130 Willingdon/To Phibbs Exchange,,0,2186027,317596,0,1
 6651,2,15230135,130 Willingdon/To Kootenay Loop,,0,2189745,317595,0,1
-6651,2,15230136,130 Willingdon/To Phibbs Exchange,,0,2189726,318491,0,1
-6651,2,15230137,130 Willingdon/To Phibbs Exchange,,0,2186024,318491,0,1
-6651,2,15230138,130 Willingdon/To Phibbs Exchange,,0,2189727,318491,0,1
-6651,2,15230139,130 Willingdon/To Phibbs Exchange,,0,2186312,318491,0,1
+6651,2,15230136,130 Willingdon/To Phibbs Exchange,,0,2189726,317596,0,1
+6651,2,15230137,130 Willingdon/To Phibbs Exchange,,0,2186024,317596,0,1
+6651,2,15230138,130 Willingdon/To Phibbs Exchange,,0,2189727,317596,0,1
+6651,2,15230139,130 Willingdon/To Phibbs Exchange,,0,2186312,317596,0,1
 6651,2,15230140,130 Willingdon/To Kootenay Loop,,0,2189727,317595,0,1
-6651,2,15230141,130 Willingdon/To Phibbs Exchange,,0,2189729,318491,0,1
-6651,2,15230142,130 Willingdon/To Phibbs Exchange,,0,2186027,318491,0,1
-6651,2,15230143,130 Willingdon/To Phibbs Exchange,,0,2189726,318491,0,1
-6651,2,15230144,130 Willingdon/To Phibbs Exchange,,0,2189729,318491,0,1
-6651,2,15230145,130 Willingdon/To Phibbs Exchange,,0,2189707,318491,0,1
-6651,2,15230146,130 Willingdon/To Phibbs Exchange,,0,2189726,318491,0,1
-6651,2,15230147,130 Willingdon/To Phibbs Exchange,,0,2186027,318491,0,1
-6651,2,15230148,130 Willingdon/To Phibbs Exchange,,0,2189707,318491,0,1
-6651,2,15230149,130 Willingdon/To Phibbs Exchange,,0,2186024,318491,0,1
-6651,2,15230150,130 Willingdon/To Phibbs Exchange,,0,2186713,318491,0,1
-6651,2,15230151,130 Willingdon/To Phibbs Exchange,,0,2189596,318491,0,1
-6651,2,15230152,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
+6651,2,15230141,130 Willingdon/To Phibbs Exchange,,0,2189729,317596,0,1
+6651,2,15230142,130 Willingdon/To Phibbs Exchange,,0,2186027,317596,0,1
+6651,2,15230143,130 Willingdon/To Phibbs Exchange,,0,2189726,317596,0,1
+6651,2,15230144,130 Willingdon/To Phibbs Exchange,,0,2189729,317596,0,1
+6651,2,15230145,130 Willingdon/To Phibbs Exchange,,0,2189707,317596,0,1
+6651,2,15230146,130 Willingdon/To Phibbs Exchange,,0,2189726,317596,0,1
+6651,2,15230147,130 Willingdon/To Phibbs Exchange,,0,2186027,317596,0,1
+6651,2,15230148,130 Willingdon/To Phibbs Exchange,,0,2189707,317596,0,1
+6651,2,15230149,130 Willingdon/To Phibbs Exchange,,0,2186024,317596,0,1
+6651,2,15230150,130 Willingdon/To Phibbs Exchange,,0,2186713,317596,0,1
+6651,2,15230151,130 Willingdon/To Phibbs Exchange,,0,2189596,317596,0,1
+6651,2,15230152,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
 6651,2,15230153,130 Willingdon/To Kootenay Loop,,0,2189729,317595,0,1
-6651,2,15230154,130 Willingdon/To Phibbs Exchange,,0,2187117,318491,0,1
-6651,2,15230155,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
-6651,2,15230156,130 Willingdon/To Phibbs Exchange,,0,2186712,318491,0,1
-6651,2,15230157,130 Willingdon/To Phibbs Exchange,,0,2186711,318491,0,1
+6651,2,15230154,130 Willingdon/To Phibbs Exchange,,0,2187117,317596,0,1
+6651,2,15230155,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
+6651,2,15230156,130 Willingdon/To Phibbs Exchange,,0,2186712,317596,0,1
+6651,2,15230157,130 Willingdon/To Phibbs Exchange,,0,2186711,317596,0,1
 6651,2,15230158,130 Willingdon/To Kootenay Loop,,0,2187117,317595,0,1
-6651,2,15230159,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
-6651,2,15230160,130 Willingdon/To Phibbs Exchange,,0,2189596,318491,0,1
-6651,2,15230161,130 Willingdon/To Phibbs Exchange,,0,2189725,318491,0,1
-6651,2,15230162,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
-6651,2,15230163,130 Willingdon/To Phibbs Exchange,,0,2189725,318491,0,1
-6651,2,15230164,130 Willingdon/To Phibbs Exchange,,0,2189596,318491,0,1
-6651,2,15230165,130 Willingdon/To Phibbs Exchange,,0,2189727,318491,0,1
-6651,2,15230166,130 Willingdon/To Phibbs Exchange,,0,2189745,318491,0,1
-6651,2,15230167,130 Willingdon/To Phibbs Exchange,,0,2189742,318491,0,1
+6651,2,15230159,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
+6651,2,15230160,130 Willingdon/To Phibbs Exchange,,0,2189596,317596,0,1
+6651,2,15230161,130 Willingdon/To Phibbs Exchange,,0,2189725,317596,0,1
+6651,2,15230162,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
+6651,2,15230163,130 Willingdon/To Phibbs Exchange,,0,2189725,317596,0,1
+6651,2,15230164,130 Willingdon/To Phibbs Exchange,,0,2189596,317596,0,1
+6651,2,15230165,130 Willingdon/To Phibbs Exchange,,0,2189727,317596,0,1
+6651,2,15230166,130 Willingdon/To Phibbs Exchange,,0,2189745,317596,0,1
+6651,2,15230167,130 Willingdon/To Phibbs Exchange,,0,2189742,317596,0,1
 6651,2,15230168,130 Willingdon/To Kootenay Loop,,0,2186713,317595,0,1
-6651,2,15230169,130 Willingdon/To Phibbs Exchange,,0,2186713,318491,0,1
-6651,2,15230170,130 Willingdon/To Phibbs Exchange,,0,2189726,318491,0,1
-6651,2,15230171,130 Willingdon/To Phibbs Exchange,,0,2186027,318491,0,1
-6651,2,15230172,130 Willingdon/To Phibbs Exchange,,0,2189725,318491,0,1
-6651,2,15230173,130 Willingdon/To Phibbs Exchange,,0,2189729,318491,0,1
-6651,2,15230174,130 Willingdon/To Phibbs Exchange,,0,2189729,318491,0,1
-6651,2,15230175,130 Willingdon/To Phibbs Exchange,,0,2189728,318491,0,1
-6651,2,15230176,130 Willingdon/To Phibbs Exchange,,0,2186711,318491,0,1
-6651,2,15230177,130 Willingdon/To Phibbs Exchange,,0,2189513,318491,0,1
-6651,2,15230178,130 Willingdon/To Phibbs Exchange,,0,2186055,318491,0,1
-6651,2,15230179,130 Willingdon/To Phibbs Exchange,,0,2189728,318491,0,1
-6651,2,15230180,130 Willingdon/To Phibbs Exchange,,0,2189513,318491,0,1
-6651,2,15230181,130 Willingdon/To Phibbs Exchange,,0,2186055,318491,0,1
-6651,2,15230182,130 Willingdon/To Phibbs Exchange,,0,2186027,318491,0,1
-6651,2,15230183,130 Willingdon/To Phibbs Exchange,,0,2186711,318491,0,1
-6651,2,15230184,130 Willingdon/To Phibbs Exchange,,0,2186055,318491,0,1
-6651,2,15230185,130 Willingdon/To Phibbs Exchange,,0,2187117,318491,0,1
-6651,2,15230186,130 Willingdon/To Phibbs Exchange,,0,2189725,318491,0,1
-6651,2,15230187,130 Willingdon/To Phibbs Exchange,,0,2186312,318491,0,1
-6651,2,15230188,130 Willingdon/To Phibbs Exchange,,0,2186713,318491,0,1
-6651,2,15230189,130 Willingdon/To Metrotown Station,,1,2189727,318492,0,1
-6651,2,15230190,130 Willingdon/To Metrotown Station,,1,2186312,318492,0,1
-6651,2,15230191,130 Willingdon/To Metrotown Station,,1,2189707,318492,0,1
-6651,2,15230192,130 Willingdon/To Metrotown Station,,1,2186713,318492,0,1
+6651,2,15230169,130 Willingdon/To Phibbs Exchange,,0,2186713,317596,0,1
+6651,2,15230170,130 Willingdon/To Phibbs Exchange,,0,2189726,317596,0,1
+6651,2,15230171,130 Willingdon/To Phibbs Exchange,,0,2186027,317596,0,1
+6651,2,15230172,130 Willingdon/To Phibbs Exchange,,0,2189725,317596,0,1
+6651,2,15230173,130 Willingdon/To Phibbs Exchange,,0,2189729,317596,0,1
+6651,2,15230174,130 Willingdon/To Phibbs Exchange,,0,2189729,317596,0,1
+6651,2,15230175,130 Willingdon/To Phibbs Exchange,,0,2189728,317596,0,1
+6651,2,15230176,130 Willingdon/To Phibbs Exchange,,0,2186711,317596,0,1
+6651,2,15230177,130 Willingdon/To Phibbs Exchange,,0,2189513,317596,0,1
+6651,2,15230178,130 Willingdon/To Phibbs Exchange,,0,2186055,317596,0,1
+6651,2,15230179,130 Willingdon/To Phibbs Exchange,,0,2189728,317596,0,1
+6651,2,15230180,130 Willingdon/To Phibbs Exchange,,0,2189513,317596,0,1
+6651,2,15230181,130 Willingdon/To Phibbs Exchange,,0,2186055,317596,0,1
+6651,2,15230182,130 Willingdon/To Phibbs Exchange,,0,2186027,317596,0,1
+6651,2,15230183,130 Willingdon/To Phibbs Exchange,,0,2186711,317596,0,1
+6651,2,15230184,130 Willingdon/To Phibbs Exchange,,0,2186055,317596,0,1
+6651,2,15230185,130 Willingdon/To Phibbs Exchange,,0,2187117,317596,0,1
+6651,2,15230186,130 Willingdon/To Phibbs Exchange,,0,2189725,317596,0,1
+6651,2,15230187,130 Willingdon/To Phibbs Exchange,,0,2186312,317596,0,1
+6651,2,15230188,130 Willingdon/To Phibbs Exchange,,0,2186713,317596,0,1
+6651,2,15230189,130 Willingdon/To Metrotown Station,,1,2189727,317601,0,1
+6651,2,15230190,130 Willingdon/To Metrotown Station,,1,2186312,317601,0,1
+6651,2,15230191,130 Willingdon/To Metrotown Station,,1,2189707,317601,0,1
+6651,2,15230192,130 Willingdon/To Metrotown Station,,1,2186713,317601,0,1
 6651,2,15230193,130 Willingdon/To Metrotown Station,,1,2189729,317600,0,1
-6651,2,15230194,130 Willingdon/To Metrotown Station,,1,2186055,318492,0,1
-6651,2,15230195,130 Willingdon/To Metrotown Station,,1,2186027,318492,0,1
-6651,2,15230196,130 Willingdon/To Metrotown Station,,1,2186713,318492,0,1
-6651,2,15230197,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
-6651,2,15230198,130 Willingdon/To Metrotown Station,,1,2189725,318492,0,1
-6651,2,15230199,130 Willingdon/To Metrotown Station,,1,2186711,318492,0,1
-6651,2,15230200,130 Willingdon/To Metrotown Station,,1,2189727,318492,0,1
-6651,2,15230201,130 Willingdon/To Metrotown Station,,1,2189726,318492,0,1
-6651,2,15230202,130 Willingdon/To Metrotown Station,,1,2186024,318492,0,1
-6651,2,15230203,130 Willingdon/To Metrotown Station,,1,2186027,318492,0,1
-6651,2,15230204,130 Willingdon/To Metrotown Station,,1,2186712,318492,0,1
-6651,2,15230205,130 Willingdon/To Metrotown Station,,1,2189744,318492,0,1
-6651,2,15230206,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
-6651,2,15230207,130 Willingdon/To Metrotown Station,,1,2189727,318492,0,1
-6651,2,15230208,130 Willingdon/To Metrotown Station,,1,2186711,318492,0,1
-6651,2,15230209,130 Willingdon/To Metrotown Station,,1,2189513,318492,0,1
-6651,2,15230210,130 Willingdon/To Metrotown Station,,1,2189728,318492,0,1
-6651,2,15230211,130 Willingdon/To Metrotown Station,,1,2189513,318492,0,1
-6651,2,15230212,130 Willingdon/To Metrotown Station,,1,2186055,318492,0,1
-6651,2,15230213,130 Willingdon/To Metrotown Station,,1,2186027,318492,0,1
-6651,2,15230214,130 Willingdon/To Metrotown Station,,1,2189742,318492,0,1
-6651,2,15230215,130 Willingdon/To Metrotown Station,,1,2189744,318492,0,1
-6651,2,15230216,130 Willingdon/To Metrotown Station,,1,2186055,318492,0,1
-6651,2,15230217,130 Willingdon/To Metrotown Station,,1,2189729,318492,0,1
-6651,2,15230218,130 Willingdon/To Metrotown Station,,1,2189707,318492,0,1
-6651,2,15230219,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
-6651,2,15230220,130 Willingdon/To Metrotown Station,,1,2186713,318492,0,1
-6651,2,15230221,130 Willingdon/To Metrotown Station,,1,2186027,318492,0,1
-6651,2,15230222,130 Willingdon/To Metrotown Station,,1,2189725,318492,0,1
-6651,2,15230223,130 Willingdon/To Metrotown Station,,1,2189727,318492,0,1
-6651,2,15230224,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230225,130 Willingdon/To Metrotown Station,,1,2186312,318492,0,1
+6651,2,15230194,130 Willingdon/To Metrotown Station,,1,2186055,317601,0,1
+6651,2,15230195,130 Willingdon/To Metrotown Station,,1,2186027,317601,0,1
+6651,2,15230196,130 Willingdon/To Metrotown Station,,1,2186713,317601,0,1
+6651,2,15230197,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
+6651,2,15230198,130 Willingdon/To Metrotown Station,,1,2189725,317601,0,1
+6651,2,15230199,130 Willingdon/To Metrotown Station,,1,2186711,317601,0,1
+6651,2,15230200,130 Willingdon/To Metrotown Station,,1,2189727,317601,0,1
+6651,2,15230201,130 Willingdon/To Metrotown Station,,1,2189726,317601,0,1
+6651,2,15230202,130 Willingdon/To Metrotown Station,,1,2186024,317601,0,1
+6651,2,15230203,130 Willingdon/To Metrotown Station,,1,2186027,317601,0,1
+6651,2,15230204,130 Willingdon/To Metrotown Station,,1,2186712,317601,0,1
+6651,2,15230205,130 Willingdon/To Metrotown Station,,1,2189744,317601,0,1
+6651,2,15230206,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
+6651,2,15230207,130 Willingdon/To Metrotown Station,,1,2189727,317601,0,1
+6651,2,15230208,130 Willingdon/To Metrotown Station,,1,2186711,317601,0,1
+6651,2,15230209,130 Willingdon/To Metrotown Station,,1,2189513,317601,0,1
+6651,2,15230210,130 Willingdon/To Metrotown Station,,1,2189728,317601,0,1
+6651,2,15230211,130 Willingdon/To Metrotown Station,,1,2189513,317601,0,1
+6651,2,15230212,130 Willingdon/To Metrotown Station,,1,2186055,317601,0,1
+6651,2,15230213,130 Willingdon/To Metrotown Station,,1,2186027,317601,0,1
+6651,2,15230214,130 Willingdon/To Metrotown Station,,1,2189742,317601,0,1
+6651,2,15230215,130 Willingdon/To Metrotown Station,,1,2189744,317601,0,1
+6651,2,15230216,130 Willingdon/To Metrotown Station,,1,2186055,317601,0,1
+6651,2,15230217,130 Willingdon/To Metrotown Station,,1,2189729,317601,0,1
+6651,2,15230218,130 Willingdon/To Metrotown Station,,1,2189707,317601,0,1
+6651,2,15230219,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
+6651,2,15230220,130 Willingdon/To Metrotown Station,,1,2186713,317601,0,1
+6651,2,15230221,130 Willingdon/To Metrotown Station,,1,2186027,317601,0,1
+6651,2,15230222,130 Willingdon/To Metrotown Station,,1,2189725,317601,0,1
+6651,2,15230223,130 Willingdon/To Metrotown Station,,1,2189727,317601,0,1
+6651,2,15230224,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230225,130 Willingdon/To Metrotown Station,,1,2186312,317601,0,1
 6651,2,15230226,130 Willingdon/To Metrotown Station,,1,2186713,317600,0,1
-6651,2,15230227,130 Willingdon/To Metrotown Station,,1,2186027,318492,0,1
-6651,2,15230228,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230229,130 Willingdon/To Metrotown Station,,1,2189726,318492,0,1
+6651,2,15230227,130 Willingdon/To Metrotown Station,,1,2186027,317601,0,1
+6651,2,15230228,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230229,130 Willingdon/To Metrotown Station,,1,2189726,317601,0,1
 6651,2,15230230,130 Willingdon/To Metrotown Station,,1,2187117,317600,0,1
 6651,2,15230231,130 Willingdon/To Metrotown Station,,1,2186713,317600,0,1
-6651,2,15230232,130 Willingdon/To Metrotown Station,,1,2186712,318492,0,1
+6651,2,15230232,130 Willingdon/To Metrotown Station,,1,2186712,317601,0,1
 6651,2,15230233,130 Willingdon/To Metrotown Station,,1,2189727,317600,0,1
-6651,2,15230234,130 Willingdon/To Metrotown Station,,1,2187117,318492,0,1
+6651,2,15230234,130 Willingdon/To Metrotown Station,,1,2187117,317601,0,1
 6651,2,15230235,130 Willingdon/To Metrotown Station,,1,2189745,317600,0,1
-6651,2,15230236,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230237,130 Willingdon/To Metrotown Station,,1,2186027,318492,0,1
-6651,2,15230238,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
+6651,2,15230236,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230237,130 Willingdon/To Metrotown Station,,1,2186027,317601,0,1
+6651,2,15230238,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
 6651,2,15230239,130 Willingdon/To Metrotown Station,,1,2189729,317600,0,1
 6651,2,15230240,130 Willingdon/To Metrotown Station,,1,2189744,317600,0,1
-6651,2,15230241,130 Willingdon/To Metrotown Station,,1,2186713,318492,0,1
-6651,2,15230242,130 Willingdon/To Metrotown Station,,1,2189725,318492,0,1
-6651,2,15230243,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
-6651,2,15230244,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230245,130 Willingdon/To Metrotown Station,,1,2189727,318492,0,1
-6651,2,15230246,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230247,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230248,130 Willingdon/To Metrotown Station,,1,2186024,318492,0,1
-6651,2,15230249,130 Willingdon/To Metrotown Station,,1,2186713,318492,0,1
-6651,2,15230250,130 Willingdon/To Metrotown Station,,1,2189728,318492,0,1
-6651,2,15230251,130 Willingdon/To Metrotown Station,,1,2189726,318492,0,1
-6651,2,15230252,130 Willingdon/To Metrotown Station,,1,2186711,318492,0,1
-6651,2,15230253,130 Willingdon/To Metrotown Station,,1,2189745,318492,0,1
-6651,2,15230254,130 Willingdon/To Metrotown Station,,1,2189725,318492,0,1
-6651,2,15230255,130 Willingdon/To Metrotown Station,,1,2189744,318492,0,1
-6651,2,15230256,130 Willingdon/To Metrotown Station,,1,2189726,318492,0,1
-6651,2,15230257,130 Willingdon/To Metrotown Station,,1,2186712,318492,0,1
-6651,2,15230258,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
-6651,2,15230259,130 Willingdon/To Metrotown Station,,1,2186711,318492,0,1
+6651,2,15230241,130 Willingdon/To Metrotown Station,,1,2186713,317601,0,1
+6651,2,15230242,130 Willingdon/To Metrotown Station,,1,2189725,317601,0,1
+6651,2,15230243,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
+6651,2,15230244,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230245,130 Willingdon/To Metrotown Station,,1,2189727,317601,0,1
+6651,2,15230246,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230247,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230248,130 Willingdon/To Metrotown Station,,1,2186024,317601,0,1
+6651,2,15230249,130 Willingdon/To Metrotown Station,,1,2186713,317601,0,1
+6651,2,15230250,130 Willingdon/To Metrotown Station,,1,2189728,317601,0,1
+6651,2,15230251,130 Willingdon/To Metrotown Station,,1,2189726,317601,0,1
+6651,2,15230252,130 Willingdon/To Metrotown Station,,1,2186711,317601,0,1
+6651,2,15230253,130 Willingdon/To Metrotown Station,,1,2189745,317601,0,1
+6651,2,15230254,130 Willingdon/To Metrotown Station,,1,2189725,317601,0,1
+6651,2,15230255,130 Willingdon/To Metrotown Station,,1,2189744,317601,0,1
+6651,2,15230256,130 Willingdon/To Metrotown Station,,1,2189726,317601,0,1
+6651,2,15230257,130 Willingdon/To Metrotown Station,,1,2186712,317601,0,1
+6651,2,15230258,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
+6651,2,15230259,130 Willingdon/To Metrotown Station,,1,2186711,317601,0,1
 6651,2,15230260,130 Willingdon/To Metrotown Station,,1,2189745,317600,0,1
-6651,2,15230261,130 Willingdon/To Metrotown Station,,1,2189729,318492,0,1
+6651,2,15230261,130 Willingdon/To Metrotown Station,,1,2189729,317601,0,1
 6651,2,15230262,130 Willingdon/To Metrotown Station,,1,2189745,317600,0,1
-6651,2,15230263,130 Willingdon/To Metrotown Station,,1,2189725,318492,0,1
-6651,2,15230264,130 Willingdon/To Metrotown Station,,1,2186024,318492,0,1
+6651,2,15230263,130 Willingdon/To Metrotown Station,,1,2189725,317601,0,1
+6651,2,15230264,130 Willingdon/To Metrotown Station,,1,2186024,317601,0,1
 6651,2,15230265,130 Willingdon/To Metrotown Station,,1,2189727,317600,0,1
-6651,2,15230266,130 Willingdon/To Metrotown Station,,1,2186711,318492,0,1
+6651,2,15230266,130 Willingdon/To Metrotown Station,,1,2186711,317601,0,1
 6651,2,15230267,130 Willingdon/To Metrotown Station,,1,2189727,317600,0,1
 6651,2,15230268,130 Willingdon/To Metrotown Station,,1,2189596,317600,0,1
-6651,2,15230269,130 Willingdon/To Metrotown Station,,1,2189596,318492,0,1
-6651,2,15230270,130 Willingdon/To Metrotown Station,,1,2186312,318492,0,1
-6651,2,15230271,130 Willingdon/To Metrotown Station,,1,2186312,318492,0,1
-6651,2,15230272,130 Willingdon/To Metrotown Station,,1,2189725,318492,0,1
-6651,2,15230273,130 Willingdon/To Metrotown Station,,1,2189728,318492,0,1
-6651,2,15230274,130 Willingdon/To Metrotown Station,,1,2189729,318492,0,1
-6651,3,15230275,130 Willingdon/To Phibbs Exchange,,0,2186723,318491,0,1
-6651,3,15230276,130 Willingdon/To Phibbs Exchange,,0,2186036,318491,0,1
-6651,3,15230277,130 Willingdon/To Phibbs Exchange,,0,2186722,318491,0,1
-6651,3,15230278,130 Willingdon/To Phibbs Exchange,,0,2186031,318491,0,1
-6651,3,15230279,130 Willingdon/To Phibbs Exchange,,0,2186720,318491,0,1
-6651,3,15230280,130 Willingdon/To Phibbs Exchange,,0,2187176,318491,0,1
-6651,3,15230281,130 Willingdon/To Phibbs Exchange,,0,2186038,318491,0,1
-6651,3,15230282,130 Willingdon/To Phibbs Exchange,,0,2187122,318491,0,1
-6651,3,15230283,130 Willingdon/To Phibbs Exchange,,0,2186722,318491,0,1
+6651,2,15230269,130 Willingdon/To Metrotown Station,,1,2189596,317601,0,1
+6651,2,15230270,130 Willingdon/To Metrotown Station,,1,2186312,317601,0,1
+6651,2,15230271,130 Willingdon/To Metrotown Station,,1,2186312,317601,0,1
+6651,2,15230272,130 Willingdon/To Metrotown Station,,1,2189725,317601,0,1
+6651,2,15230273,130 Willingdon/To Metrotown Station,,1,2189728,317601,0,1
+6651,2,15230274,130 Willingdon/To Metrotown Station,,1,2189729,317601,0,1
+6651,3,15230275,130 Willingdon/To Phibbs Exchange,,0,2186723,317596,0,1
+6651,3,15230276,130 Willingdon/To Phibbs Exchange,,0,2186036,317596,0,1
+6651,3,15230277,130 Willingdon/To Phibbs Exchange,,0,2186722,317596,0,1
+6651,3,15230278,130 Willingdon/To Phibbs Exchange,,0,2186031,317596,0,1
+6651,3,15230279,130 Willingdon/To Phibbs Exchange,,0,2186720,317596,0,1
+6651,3,15230280,130 Willingdon/To Phibbs Exchange,,0,2187176,317596,0,1
+6651,3,15230281,130 Willingdon/To Phibbs Exchange,,0,2186038,317596,0,1
+6651,3,15230282,130 Willingdon/To Phibbs Exchange,,0,2187122,317596,0,1
+6651,3,15230283,130 Willingdon/To Phibbs Exchange,,0,2186722,317596,0,1
 6651,3,15230284,130 Willingdon/To Kootenay Loop,,0,2186720,317595,0,1
 6651,3,15230285,130 Willingdon/To Kootenay Loop,,0,2186038,317595,0,1
 6651,3,15230286,130 Willingdon/To Kootenay Loop,,0,2186720,317595,0,1
@@ -19078,61 +19078,61 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6651,3,15230297,130 Willingdon/To Kootenay Loop,,0,2186028,317595,0,1
 6651,3,15230298,130 Willingdon/To Kootenay Loop,,0,2187060,317595,0,1
 6651,3,15230299,130 Willingdon/To Kootenay Loop,,0,2186717,317595,0,1
-6651,3,15230300,130 Willingdon/To Phibbs Exchange,,0,2186037,318491,0,1
-6651,3,15230301,130 Willingdon/To Phibbs Exchange,,0,2186028,318491,0,1
-6651,3,15230302,130 Willingdon/To Phibbs Exchange,,0,2187060,318491,0,1
-6651,3,15230303,130 Willingdon/To Phibbs Exchange,,0,2186717,318491,0,1
-6651,3,15230304,130 Willingdon/To Phibbs Exchange,,0,2186721,318491,0,1
-6651,3,15230305,130 Willingdon/To Phibbs Exchange,,0,2186722,318491,0,1
-6651,3,15230306,130 Willingdon/To Phibbs Exchange,,0,2186031,318491,0,1
-6651,3,15230307,130 Willingdon/To Phibbs Exchange,,0,2186037,318491,0,1
-6651,3,15230308,130 Willingdon/To Phibbs Exchange,,0,2186028,318491,0,1
-6651,3,15230309,130 Willingdon/To Phibbs Exchange,,0,2186033,318491,0,1
-6651,3,15230310,130 Willingdon/To Phibbs Exchange,,0,2186030,318491,0,1
-6651,3,15230311,130 Willingdon/To Phibbs Exchange,,0,2186721,318491,0,1
-6651,3,15230312,130 Willingdon/To Phibbs Exchange,,0,2186031,318491,0,1
-6651,3,15230313,130 Willingdon/To Phibbs Exchange,,0,2189416,318491,0,1
-6651,3,15230314,130 Willingdon/To Phibbs Exchange,,0,2186720,318491,0,1
-6651,3,15230315,130 Willingdon/To Phibbs Exchange,,0,2186028,318491,0,1
-6651,3,15230316,130 Willingdon/To Phibbs Exchange,,0,2186033,318491,0,1
-6651,3,15230317,130 Willingdon/To Phibbs Exchange,,0,2186030,318491,0,1
-6651,3,15230318,130 Willingdon/To Phibbs Exchange,,0,2186721,318491,0,1
-6651,3,15230319,130 Willingdon/To Phibbs Exchange,,0,2189859,318491,0,1
-6651,3,15230320,130 Willingdon/To Phibbs Exchange,,0,2187060,318491,0,1
-6651,3,15230321,130 Willingdon/To Phibbs Exchange,,0,2186720,318491,0,1
-6651,3,15230322,130 Willingdon/To Phibbs Exchange,,0,2186028,318491,0,1
-6651,3,15230323,130 Willingdon/To Phibbs Exchange,,0,2189861,318491,0,1
-6651,3,15230324,130 Willingdon/To Phibbs Exchange,,0,2186722,318491,0,1
-6651,3,15230325,130 Willingdon/To Phibbs Exchange,,0,2186721,318491,0,1
-6651,3,15230326,130 Willingdon/To Phibbs Exchange,,0,2186723,318491,0,1
-6651,3,15230327,130 Willingdon/To Phibbs Exchange,,0,2186032,318491,0,1
-6651,3,15230328,130 Willingdon/To Phibbs Exchange,,0,2186038,318491,0,1
-6651,3,15230329,130 Willingdon/To Phibbs Exchange,,0,2186028,318491,0,1
-6651,3,15230330,130 Willingdon/To Phibbs Exchange,,0,2186037,318491,0,1
-6651,3,15230331,130 Willingdon/To Phibbs Exchange,,0,2186036,318491,0,1
-6651,3,15230332,130 Willingdon/To Phibbs Exchange,,0,2186031,318491,0,1
-6651,3,15230333,130 Willingdon/To Phibbs Exchange,,0,2186721,318491,0,1
-6651,3,15230334,130 Willingdon/To Phibbs Exchange,,0,2189859,318491,0,1
-6651,3,15230335,130 Willingdon/To Phibbs Exchange,,0,2187176,318491,0,1
-6651,3,15230336,130 Willingdon/To Phibbs Exchange,,0,2189416,318491,0,1
-6651,3,15230337,130 Willingdon/To Phibbs Exchange,,0,2186037,318491,0,1
-6651,3,15230338,130 Willingdon/To Phibbs Exchange,,0,2189861,318491,0,1
-6651,3,15230339,130 Willingdon/To Phibbs Exchange,,0,2186722,318491,0,1
-6651,3,15230340,130 Willingdon/To Phibbs Exchange,,0,2186721,318491,0,1
-6651,3,15230341,130 Willingdon/To Phibbs Exchange,,0,2186720,318491,0,1
-6651,3,15230342,130 Willingdon/To Phibbs Exchange,,0,2186032,318491,0,1
-6651,3,15230343,130 Willingdon/To Phibbs Exchange,,0,2186038,318491,0,1
-6651,3,15230344,130 Willingdon/To Metrotown Station,,1,2186723,318492,0,1
-6651,3,15230345,130 Willingdon/To Metrotown Station,,1,2186036,318492,0,1
-6651,3,15230346,130 Willingdon/To Metrotown Station,,1,2186722,318492,0,1
-6651,3,15230347,130 Willingdon/To Metrotown Station,,1,2186031,318492,0,1
-6651,3,15230348,130 Willingdon/To Metrotown Station,,1,2186720,318492,0,1
-6651,3,15230349,130 Willingdon/To Metrotown Station,,1,2187176,318492,0,1
-6651,3,15230350,130 Willingdon/To Metrotown Station,,1,2186038,318492,0,1
-6651,3,15230351,130 Willingdon/To Metrotown Station,,1,2187122,318492,0,1
-6651,3,15230352,130 Willingdon/To Metrotown Station,,1,2186722,318492,0,1
-6651,3,15230353,130 Willingdon/To Metrotown Station,,1,2186720,318492,0,1
-6651,3,15230354,130 Willingdon/To Metrotown Station,,1,2186038,318492,0,1
+6651,3,15230300,130 Willingdon/To Phibbs Exchange,,0,2186037,317596,0,1
+6651,3,15230301,130 Willingdon/To Phibbs Exchange,,0,2186028,317596,0,1
+6651,3,15230302,130 Willingdon/To Phibbs Exchange,,0,2187060,317596,0,1
+6651,3,15230303,130 Willingdon/To Phibbs Exchange,,0,2186717,317596,0,1
+6651,3,15230304,130 Willingdon/To Phibbs Exchange,,0,2186721,317596,0,1
+6651,3,15230305,130 Willingdon/To Phibbs Exchange,,0,2186722,317596,0,1
+6651,3,15230306,130 Willingdon/To Phibbs Exchange,,0,2186031,317596,0,1
+6651,3,15230307,130 Willingdon/To Phibbs Exchange,,0,2186037,317596,0,1
+6651,3,15230308,130 Willingdon/To Phibbs Exchange,,0,2186028,317596,0,1
+6651,3,15230309,130 Willingdon/To Phibbs Exchange,,0,2186033,317596,0,1
+6651,3,15230310,130 Willingdon/To Phibbs Exchange,,0,2186030,317596,0,1
+6651,3,15230311,130 Willingdon/To Phibbs Exchange,,0,2186721,317596,0,1
+6651,3,15230312,130 Willingdon/To Phibbs Exchange,,0,2186031,317596,0,1
+6651,3,15230313,130 Willingdon/To Phibbs Exchange,,0,2189416,317596,0,1
+6651,3,15230314,130 Willingdon/To Phibbs Exchange,,0,2186720,317596,0,1
+6651,3,15230315,130 Willingdon/To Phibbs Exchange,,0,2186028,317596,0,1
+6651,3,15230316,130 Willingdon/To Phibbs Exchange,,0,2186033,317596,0,1
+6651,3,15230317,130 Willingdon/To Phibbs Exchange,,0,2186030,317596,0,1
+6651,3,15230318,130 Willingdon/To Phibbs Exchange,,0,2186721,317596,0,1
+6651,3,15230319,130 Willingdon/To Phibbs Exchange,,0,2189859,317596,0,1
+6651,3,15230320,130 Willingdon/To Phibbs Exchange,,0,2187060,317596,0,1
+6651,3,15230321,130 Willingdon/To Phibbs Exchange,,0,2186720,317596,0,1
+6651,3,15230322,130 Willingdon/To Phibbs Exchange,,0,2186028,317596,0,1
+6651,3,15230323,130 Willingdon/To Phibbs Exchange,,0,2189861,317596,0,1
+6651,3,15230324,130 Willingdon/To Phibbs Exchange,,0,2186722,317596,0,1
+6651,3,15230325,130 Willingdon/To Phibbs Exchange,,0,2186721,317596,0,1
+6651,3,15230326,130 Willingdon/To Phibbs Exchange,,0,2186723,317596,0,1
+6651,3,15230327,130 Willingdon/To Phibbs Exchange,,0,2186032,317596,0,1
+6651,3,15230328,130 Willingdon/To Phibbs Exchange,,0,2186038,317596,0,1
+6651,3,15230329,130 Willingdon/To Phibbs Exchange,,0,2186028,317596,0,1
+6651,3,15230330,130 Willingdon/To Phibbs Exchange,,0,2186037,317596,0,1
+6651,3,15230331,130 Willingdon/To Phibbs Exchange,,0,2186036,317596,0,1
+6651,3,15230332,130 Willingdon/To Phibbs Exchange,,0,2186031,317596,0,1
+6651,3,15230333,130 Willingdon/To Phibbs Exchange,,0,2186721,317596,0,1
+6651,3,15230334,130 Willingdon/To Phibbs Exchange,,0,2189859,317596,0,1
+6651,3,15230335,130 Willingdon/To Phibbs Exchange,,0,2187176,317596,0,1
+6651,3,15230336,130 Willingdon/To Phibbs Exchange,,0,2189416,317596,0,1
+6651,3,15230337,130 Willingdon/To Phibbs Exchange,,0,2186037,317596,0,1
+6651,3,15230338,130 Willingdon/To Phibbs Exchange,,0,2189861,317596,0,1
+6651,3,15230339,130 Willingdon/To Phibbs Exchange,,0,2186722,317596,0,1
+6651,3,15230340,130 Willingdon/To Phibbs Exchange,,0,2186721,317596,0,1
+6651,3,15230341,130 Willingdon/To Phibbs Exchange,,0,2186720,317596,0,1
+6651,3,15230342,130 Willingdon/To Phibbs Exchange,,0,2186032,317596,0,1
+6651,3,15230343,130 Willingdon/To Phibbs Exchange,,0,2186038,317596,0,1
+6651,3,15230344,130 Willingdon/To Metrotown Station,,1,2186723,317601,0,1
+6651,3,15230345,130 Willingdon/To Metrotown Station,,1,2186036,317601,0,1
+6651,3,15230346,130 Willingdon/To Metrotown Station,,1,2186722,317601,0,1
+6651,3,15230347,130 Willingdon/To Metrotown Station,,1,2186031,317601,0,1
+6651,3,15230348,130 Willingdon/To Metrotown Station,,1,2186720,317601,0,1
+6651,3,15230349,130 Willingdon/To Metrotown Station,,1,2187176,317601,0,1
+6651,3,15230350,130 Willingdon/To Metrotown Station,,1,2186038,317601,0,1
+6651,3,15230351,130 Willingdon/To Metrotown Station,,1,2187122,317601,0,1
+6651,3,15230352,130 Willingdon/To Metrotown Station,,1,2186722,317601,0,1
+6651,3,15230353,130 Willingdon/To Metrotown Station,,1,2186720,317601,0,1
+6651,3,15230354,130 Willingdon/To Metrotown Station,,1,2186038,317601,0,1
 6651,3,15230355,130 Willingdon/To Metrotown Station,,1,2186720,317600,0,1
 6651,3,15230356,130 Willingdon/To Metrotown Station,,1,2186038,317600,0,1
 6651,3,15230357,130 Willingdon/To Metrotown Station,,1,2186720,317600,0,1
@@ -19149,44 +19149,44 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6651,3,15230368,130 Willingdon/To Metrotown Station,,1,2187060,317600,0,1
 6651,3,15230369,130 Willingdon/To Metrotown Station,,1,2186717,317600,0,1
 6651,3,15230370,130 Willingdon/To Metrotown Station,,1,2186722,317600,0,1
-6651,3,15230371,130 Willingdon/To Metrotown Station,,1,2186031,318492,0,1
-6651,3,15230372,130 Willingdon/To Metrotown Station,,1,2186037,318492,0,1
-6651,3,15230373,130 Willingdon/To Metrotown Station,,1,2186028,318492,0,1
-6651,3,15230374,130 Willingdon/To Metrotown Station,,1,2186033,318492,0,1
-6651,3,15230375,130 Willingdon/To Metrotown Station,,1,2186030,318492,0,1
-6651,3,15230376,130 Willingdon/To Metrotown Station,,1,2186721,318492,0,1
-6651,3,15230377,130 Willingdon/To Metrotown Station,,1,2186031,318492,0,1
-6651,3,15230378,130 Willingdon/To Metrotown Station,,1,2189416,318492,0,1
-6651,3,15230379,130 Willingdon/To Metrotown Station,,1,2186720,318492,0,1
-6651,3,15230380,130 Willingdon/To Metrotown Station,,1,2186028,318492,0,1
-6651,3,15230381,130 Willingdon/To Metrotown Station,,1,2186033,318492,0,1
-6651,3,15230382,130 Willingdon/To Metrotown Station,,1,2186030,318492,0,1
-6651,3,15230383,130 Willingdon/To Metrotown Station,,1,2186721,318492,0,1
-6651,3,15230384,130 Willingdon/To Metrotown Station,,1,2189859,318492,0,1
-6651,3,15230385,130 Willingdon/To Metrotown Station,,1,2187060,318492,0,1
-6651,3,15230386,130 Willingdon/To Metrotown Station,,1,2186720,318492,0,1
-6651,3,15230387,130 Willingdon/To Metrotown Station,,1,2186028,318492,0,1
-6651,3,15230388,130 Willingdon/To Metrotown Station,,1,2189861,318492,0,1
-6651,3,15230389,130 Willingdon/To Metrotown Station,,1,2186722,318492,0,1
-6651,3,15230390,130 Willingdon/To Metrotown Station,,1,2186721,318492,0,1
-6651,3,15230391,130 Willingdon/To Metrotown Station,,1,2186723,318492,0,1
-6651,3,15230392,130 Willingdon/To Metrotown Station,,1,2186032,318492,0,1
-6651,3,15230393,130 Willingdon/To Metrotown Station,,1,2186038,318492,0,1
-6651,3,15230394,130 Willingdon/To Metrotown Station,,1,2186028,318492,0,1
-6651,3,15230395,130 Willingdon/To Metrotown Station,,1,2186037,318492,0,1
-6651,3,15230396,130 Willingdon/To Metrotown Station,,1,2186036,318492,0,1
-6651,3,15230397,130 Willingdon/To Metrotown Station,,1,2186031,318492,0,1
-6651,3,15230398,130 Willingdon/To Metrotown Station,,1,2186721,318492,0,1
-6651,3,15230399,130 Willingdon/To Metrotown Station,,1,2189859,318492,0,1
-6651,3,15230400,130 Willingdon/To Metrotown Station,,1,2187176,318492,0,1
-6651,3,15230401,130 Willingdon/To Metrotown Station,,1,2189416,318492,0,1
-6651,3,15230402,130 Willingdon/To Metrotown Station,,1,2186037,318492,0,1
-6651,3,15230403,130 Willingdon/To Metrotown Station,,1,2189861,318492,0,1
-6651,3,15230404,130 Willingdon/To Metrotown Station,,1,2186722,318492,0,1
-6651,3,15230405,130 Willingdon/To Metrotown Station,,1,2186721,318492,0,1
-6651,3,15230406,130 Willingdon/To Metrotown Station,,1,2186720,318492,0,1
-6651,3,15230407,130 Willingdon/To Metrotown Station,,1,2186032,318492,0,1
-6651,3,15230408,130 Willingdon/To Metrotown Station,,1,2186038,318492,0,1
+6651,3,15230371,130 Willingdon/To Metrotown Station,,1,2186031,317601,0,1
+6651,3,15230372,130 Willingdon/To Metrotown Station,,1,2186037,317601,0,1
+6651,3,15230373,130 Willingdon/To Metrotown Station,,1,2186028,317601,0,1
+6651,3,15230374,130 Willingdon/To Metrotown Station,,1,2186033,317601,0,1
+6651,3,15230375,130 Willingdon/To Metrotown Station,,1,2186030,317601,0,1
+6651,3,15230376,130 Willingdon/To Metrotown Station,,1,2186721,317601,0,1
+6651,3,15230377,130 Willingdon/To Metrotown Station,,1,2186031,317601,0,1
+6651,3,15230378,130 Willingdon/To Metrotown Station,,1,2189416,317601,0,1
+6651,3,15230379,130 Willingdon/To Metrotown Station,,1,2186720,317601,0,1
+6651,3,15230380,130 Willingdon/To Metrotown Station,,1,2186028,317601,0,1
+6651,3,15230381,130 Willingdon/To Metrotown Station,,1,2186033,317601,0,1
+6651,3,15230382,130 Willingdon/To Metrotown Station,,1,2186030,317601,0,1
+6651,3,15230383,130 Willingdon/To Metrotown Station,,1,2186721,317601,0,1
+6651,3,15230384,130 Willingdon/To Metrotown Station,,1,2189859,317601,0,1
+6651,3,15230385,130 Willingdon/To Metrotown Station,,1,2187060,317601,0,1
+6651,3,15230386,130 Willingdon/To Metrotown Station,,1,2186720,317601,0,1
+6651,3,15230387,130 Willingdon/To Metrotown Station,,1,2186028,317601,0,1
+6651,3,15230388,130 Willingdon/To Metrotown Station,,1,2189861,317601,0,1
+6651,3,15230389,130 Willingdon/To Metrotown Station,,1,2186722,317601,0,1
+6651,3,15230390,130 Willingdon/To Metrotown Station,,1,2186721,317601,0,1
+6651,3,15230391,130 Willingdon/To Metrotown Station,,1,2186723,317601,0,1
+6651,3,15230392,130 Willingdon/To Metrotown Station,,1,2186032,317601,0,1
+6651,3,15230393,130 Willingdon/To Metrotown Station,,1,2186038,317601,0,1
+6651,3,15230394,130 Willingdon/To Metrotown Station,,1,2186028,317601,0,1
+6651,3,15230395,130 Willingdon/To Metrotown Station,,1,2186037,317601,0,1
+6651,3,15230396,130 Willingdon/To Metrotown Station,,1,2186036,317601,0,1
+6651,3,15230397,130 Willingdon/To Metrotown Station,,1,2186031,317601,0,1
+6651,3,15230398,130 Willingdon/To Metrotown Station,,1,2186721,317601,0,1
+6651,3,15230399,130 Willingdon/To Metrotown Station,,1,2189859,317601,0,1
+6651,3,15230400,130 Willingdon/To Metrotown Station,,1,2187176,317601,0,1
+6651,3,15230401,130 Willingdon/To Metrotown Station,,1,2189416,317601,0,1
+6651,3,15230402,130 Willingdon/To Metrotown Station,,1,2186037,317601,0,1
+6651,3,15230403,130 Willingdon/To Metrotown Station,,1,2189861,317601,0,1
+6651,3,15230404,130 Willingdon/To Metrotown Station,,1,2186722,317601,0,1
+6651,3,15230405,130 Willingdon/To Metrotown Station,,1,2186721,317601,0,1
+6651,3,15230406,130 Willingdon/To Metrotown Station,,1,2186720,317601,0,1
+6651,3,15230407,130 Willingdon/To Metrotown Station,,1,2186032,317601,0,1
+6651,3,15230408,130 Willingdon/To Metrotown Station,,1,2186038,317601,0,1
 6776,1,15230409,131 Hastings @ Gilmore,,0,2186725,317603,0,1
 6776,1,15230410,131 Hastings @ Gilmore,,0,2186726,317603,0,1
 6776,1,15230411,131 Hastings @ Gilmore,,0,2186724,317603,0,1
@@ -28267,112 +28267,112 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6675,1,15239561,214 Phibbs Exchange,,1,2187323,317764,0,1
 6675,1,15239562,214 Phibbs Exchange,,1,2187132,317764,0,1
 6675,1,15239563,214 Phibbs Exchange,,1,2187083,317763,0,1
-39305,1,15239888,222 Willingdon Express/To Phibbs Exchange,,0,2189480,318493,0,1
-39305,1,15239889,222 Willingdon Express/To Phibbs Exchange,,0,2186694,318493,0,1
-39305,1,15239890,222 Willingdon Express/To Phibbs Exchange,,0,2189604,318493,0,1
-39305,1,15239891,222 Willingdon Express/To Phibbs Exchange,,0,2187104,318493,0,1
-39305,1,15239892,222 Willingdon Express/To Phibbs Exchange,,0,2189671,318493,0,1
-39305,1,15239893,222 Willingdon Express/To Phibbs Exchange,,0,2186705,318493,0,1
-39305,1,15239894,222 Willingdon Express/To Phibbs Exchange,,0,2189482,318493,0,1
-39305,1,15239895,222 Willingdon Express/To Phibbs Exchange,,0,2186706,318493,0,1
-39305,1,15239896,222 Willingdon Express/To Phibbs Exchange,,0,2186686,318493,0,1
-39305,1,15239897,222 Willingdon Express/To Phibbs Exchange,,0,2186683,318493,0,1
-39305,1,15239898,222 Willingdon Express/To Phibbs Exchange,,0,2189375,318493,0,1
-39305,1,15239899,222 Willingdon Express/To Phibbs Exchange,,0,2189602,318493,0,1
-39305,1,15239900,222 Willingdon Express/To Phibbs Exchange,,0,2186702,318493,0,1
-39305,1,15239901,222 Willingdon Express/To Phibbs Exchange,,0,2189642,318493,0,1
-39305,1,15239902,222 Willingdon Express/To Phibbs Exchange,,0,2189677,318493,0,1
-39305,1,15239903,222 Willingdon Express/To Phibbs Exchange,,0,2186705,318493,0,1
-39305,1,15239904,222 Willingdon Express/To Phibbs Exchange,,0,2186673,318493,0,1
-39305,1,15239905,222 Willingdon Express/To Phibbs Exchange,,0,2189480,318493,0,1
-39305,1,15239906,222 Willingdon Express/To Phibbs Exchange,,0,2189605,318493,0,1
-39305,1,15239907,222 Willingdon Express/To Phibbs Exchange,,0,2189648,318493,0,1
-39305,1,15239908,222 Willingdon Express/To Phibbs Exchange,,0,2189606,318493,0,1
-39305,1,15239909,222 Willingdon Express/To Phibbs Exchange,,0,2186047,318493,0,1
-39305,1,15239910,222 Willingdon Express/To Phibbs Exchange,,0,2189671,318493,0,1
-39305,1,15239911,222 Willingdon Express/To Phibbs Exchange,,0,2186687,318493,0,1
-39305,1,15239912,222 Willingdon Express/To Phibbs Exchange,,0,2187152,318493,0,1
-39305,1,15239913,222 Willingdon Express/To Phibbs Exchange,,0,2189607,318493,0,1
-39305,1,15239914,222 Willingdon Express/To Phibbs Exchange,,0,2189670,318493,0,1
-39305,1,15239915,222 Willingdon Express/To Phibbs Exchange,,0,2189605,318493,0,1
-39305,1,15239916,222 Willingdon Express/To Phibbs Exchange,,0,2189609,318493,0,1
-39305,1,15239917,222 Willingdon Express/To Phibbs Exchange,,0,2186683,318493,0,1
-39305,1,15239918,222 Willingdon Express/To Phibbs Exchange,,0,2186673,318493,0,1
-39305,1,15239919,222 Willingdon Express/To Phibbs Exchange,,0,2189675,318493,0,1
-39305,1,15239920,222 Willingdon Express/To Phibbs Exchange,,0,2186687,318493,0,1
-39305,1,15239921,222 Willingdon Express/To Phibbs Exchange,,0,2186684,318493,0,1
-39305,1,15239922,222 Willingdon Express/To Phibbs Exchange,,0,2187152,318493,0,1
-39305,1,15239923,222 Willingdon Express/To Phibbs Exchange,,0,2189607,318493,0,1
-39305,1,15239924,222 Willingdon Express/To Phibbs Exchange,,0,2187109,318493,0,1
-39305,1,15239925,222 Willingdon Express/To Phibbs Exchange,,0,2189375,318493,0,1
-39305,1,15239926,222 Willingdon Express/To Phibbs Exchange,,0,2189673,318493,0,1
-39305,1,15239927,222 Willingdon Express/To Phibbs Exchange,,0,2189379,318493,0,1
-39305,1,15239928,222 Willingdon Express/To Phibbs Exchange,,0,2186698,318493,0,1
-39305,1,15239929,222 Willingdon Express/To Phibbs Exchange,,0,2189604,318493,0,1
-39305,1,15239930,222 Willingdon Express/To Phibbs Exchange,,0,2186707,318493,0,1
-39305,1,15239931,222 Willingdon Express/To Phibbs Exchange,,0,2186706,318493,0,1
-39305,1,15239932,222 Willingdon Express/To Phibbs Exchange,,0,2187150,318493,0,1
-39305,1,15239933,222 Willingdon Express/To Phibbs Exchange,,0,2189627,318493,0,1
-39305,1,15239934,222 Willingdon Express/To Phibbs Exchange,,0,2189606,318493,0,1
-39305,1,15239935,222 Willingdon Express/To Phibbs Exchange,,0,2189671,318493,0,1
-39305,1,15239936,222 Willingdon Express/To Phibbs Exchange,,0,2189475,318493,0,1
-39305,1,15239937,222 Willingdon Express/To Phibbs Exchange,,0,2186675,318493,0,1
-39305,1,15239938,222 Willingdon Express/To Phibbs Exchange,,0,2186684,318493,0,1
-39305,1,15239939,222 Willingdon Express/To Phibbs Exchange,,0,2189671,318493,0,1
-39305,1,15239940,222 Willingdon Express/To Phibbs Exchange,,0,2186694,318493,0,1
-39305,1,15239941,222 Willingdon Express/To Phibbs Exchange,,0,2186683,318493,0,1
-39305,1,15239942,222 Willingdon Express/To Phibbs Exchange,,0,2189480,318493,0,1
-39305,1,15239943,222 Willingdon Express/To Metrotown Station,,1,2187104,318494,0,1
-39305,1,15239944,222 Willingdon Express/To Metrotown Station,,1,2186705,318494,0,1
-39305,1,15239945,222 Willingdon Express/To Metrotown Station,,1,2186693,318494,0,1
-39305,1,15239946,222 Willingdon Express/To Metrotown Station,,1,2189480,318494,0,1
-39305,1,15239947,222 Willingdon Express/To Metrotown Station,,1,2186694,318494,0,1
-39305,1,15239948,222 Willingdon Express/To Metrotown Station,,1,2189604,318494,0,1
-39305,1,15239949,222 Willingdon Express/To Metrotown Station,,1,2189602,318494,0,1
-39305,1,15239950,222 Willingdon Express/To Metrotown Station,,1,2186675,318494,0,1
-39305,1,15239951,222 Willingdon Express/To Metrotown Station,,1,2189677,318494,0,1
-39305,1,15239952,222 Willingdon Express/To Metrotown Station,,1,2186045,318494,0,1
-39305,1,15239953,222 Willingdon Express/To Metrotown Station,,1,2186673,318494,0,1
-39305,1,15239954,222 Willingdon Express/To Metrotown Station,,1,2186686,318494,0,1
-39305,1,15239955,222 Willingdon Express/To Metrotown Station,,1,2189624,318494,0,1
-39305,1,15239956,222 Willingdon Express/To Metrotown Station,,1,2186678,318494,0,1
-39305,1,15239957,222 Willingdon Express/To Metrotown Station,,1,2189604,318494,0,1
-39305,1,15239958,222 Willingdon Express/To Metrotown Station,,1,2189602,318494,0,1
-39305,1,15239959,222 Willingdon Express/To Metrotown Station,,1,2189642,318494,0,1
-39305,1,15239960,222 Willingdon Express/To Metrotown Station,,1,2189671,318494,0,1
-39305,1,15239961,222 Willingdon Express/To Metrotown Station,,1,2189379,318494,0,1
-39305,1,15239962,222 Willingdon Express/To Metrotown Station,,1,2187150,318494,0,1
-39305,1,15239963,222 Willingdon Express/To Metrotown Station,,1,2189607,318494,0,1
-39305,1,15239964,222 Willingdon Express/To Metrotown Station,,1,2189670,318494,0,1
-39305,1,15239965,222 Willingdon Express/To Metrotown Station,,1,2189376,318494,0,1
-39305,1,15239966,222 Willingdon Express/To Metrotown Station,,1,2186039,318494,0,1
-39305,1,15239967,222 Willingdon Express/To Metrotown Station,,1,2189606,318494,0,1
-39305,101,15239968,222 Willingdon Express/To Metrotown Station,,1,2189675,318494,0,1
-39305,1,15239969,222 Willingdon Express/To Metrotown Station,,1,2186687,318494,0,1
-39305,1,15239970,222 Willingdon Express/To Metrotown Station,,1,2186679,318494,0,1
-39305,1,15239971,222 Willingdon Express/To Metrotown Station,,1,2187152,318494,0,1
-39305,1,15239972,222 Willingdon Express/To Metrotown Station,,1,2189607,318494,0,1
-39305,1,15239973,222 Willingdon Express/To Metrotown Station,,1,2187109,318494,0,1
-39305,1,15239974,222 Willingdon Express/To Metrotown Station,,1,2189375,318494,0,1
-39305,1,15239975,222 Willingdon Express/To Metrotown Station,,1,2189673,318494,0,1
-39305,1,15239976,222 Willingdon Express/To Metrotown Station,,1,2186039,318494,0,1
-39305,1,15239977,222 Willingdon Express/To Metrotown Station,,1,2189606,318494,0,1
-39305,1,15239978,222 Willingdon Express/To Metrotown Station,,1,2186047,318494,0,1
-39305,1,15239979,222 Willingdon Express/To Metrotown Station,,1,2189675,318494,0,1
-39305,1,15239980,222 Willingdon Express/To Metrotown Station,,1,2186687,318494,0,1
-39305,1,15239981,222 Willingdon Express/To Metrotown Station,,1,2189671,318494,0,1
-39305,1,15239982,222 Willingdon Express/To Metrotown Station,,1,2186698,318494,0,1
-39305,1,15239983,222 Willingdon Express/To Metrotown Station,,1,2186684,318494,0,1
-39305,1,15239984,222 Willingdon Express/To Metrotown Station,,1,2187152,318494,0,1
-39305,1,15239985,222 Willingdon Express/To Metrotown Station,,1,2186675,318494,0,1
-39305,1,15239986,222 Willingdon Express/To Metrotown Station,,1,2186047,318494,0,1
-39305,1,15239987,222 Willingdon Express/To Metrotown Station,,1,2189475,318494,0,1
-39305,1,15239988,222 Willingdon Express/To Metrotown Station,,1,2189678,318494,0,1
-39305,1,15239989,222 Willingdon Express/To Metrotown Station,,1,2189480,318494,0,1
-39305,101,15239991,222 Willingdon Express/To Metrotown Station,,1,2186696,318494,0,1
-39305,1,15239992,222 Willingdon Express/To Metrotown Station,,1,2189671,318494,0,1
-39305,1,15239994,222 Willingdon Express/To Metrotown Station,,1,2186047,318494,0,1
-39305,1,15239995,222 Willingdon Express/To Metrotown Station,,1,2189607,318494,0,1
+39305,1,15239888,222 Willingdon Express/To Phibbs Exchange,,0,2189480,317768,0,1
+39305,1,15239889,222 Willingdon Express/To Phibbs Exchange,,0,2186694,317768,0,1
+39305,1,15239890,222 Willingdon Express/To Phibbs Exchange,,0,2189604,317768,0,1
+39305,1,15239891,222 Willingdon Express/To Phibbs Exchange,,0,2187104,317768,0,1
+39305,1,15239892,222 Willingdon Express/To Phibbs Exchange,,0,2189671,317768,0,1
+39305,1,15239893,222 Willingdon Express/To Phibbs Exchange,,0,2186705,317768,0,1
+39305,1,15239894,222 Willingdon Express/To Phibbs Exchange,,0,2189482,317768,0,1
+39305,1,15239895,222 Willingdon Express/To Phibbs Exchange,,0,2186706,317768,0,1
+39305,1,15239896,222 Willingdon Express/To Phibbs Exchange,,0,2186686,317768,0,1
+39305,1,15239897,222 Willingdon Express/To Phibbs Exchange,,0,2186683,317768,0,1
+39305,1,15239898,222 Willingdon Express/To Phibbs Exchange,,0,2189375,317768,0,1
+39305,1,15239899,222 Willingdon Express/To Phibbs Exchange,,0,2189602,317768,0,1
+39305,1,15239900,222 Willingdon Express/To Phibbs Exchange,,0,2186702,317768,0,1
+39305,1,15239901,222 Willingdon Express/To Phibbs Exchange,,0,2189642,317768,0,1
+39305,1,15239902,222 Willingdon Express/To Phibbs Exchange,,0,2189677,317768,0,1
+39305,1,15239903,222 Willingdon Express/To Phibbs Exchange,,0,2186705,317768,0,1
+39305,1,15239904,222 Willingdon Express/To Phibbs Exchange,,0,2186673,317768,0,1
+39305,1,15239905,222 Willingdon Express/To Phibbs Exchange,,0,2189480,317768,0,1
+39305,1,15239906,222 Willingdon Express/To Phibbs Exchange,,0,2189605,317768,0,1
+39305,1,15239907,222 Willingdon Express/To Phibbs Exchange,,0,2189648,317768,0,1
+39305,1,15239908,222 Willingdon Express/To Phibbs Exchange,,0,2189606,317768,0,1
+39305,1,15239909,222 Willingdon Express/To Phibbs Exchange,,0,2186047,317768,0,1
+39305,1,15239910,222 Willingdon Express/To Phibbs Exchange,,0,2189671,317768,0,1
+39305,1,15239911,222 Willingdon Express/To Phibbs Exchange,,0,2186687,317768,0,1
+39305,1,15239912,222 Willingdon Express/To Phibbs Exchange,,0,2187152,317768,0,1
+39305,1,15239913,222 Willingdon Express/To Phibbs Exchange,,0,2189607,317768,0,1
+39305,1,15239914,222 Willingdon Express/To Phibbs Exchange,,0,2189670,317768,0,1
+39305,1,15239915,222 Willingdon Express/To Phibbs Exchange,,0,2189605,317768,0,1
+39305,1,15239916,222 Willingdon Express/To Phibbs Exchange,,0,2189609,317768,0,1
+39305,1,15239917,222 Willingdon Express/To Phibbs Exchange,,0,2186683,317768,0,1
+39305,1,15239918,222 Willingdon Express/To Phibbs Exchange,,0,2186673,317768,0,1
+39305,1,15239919,222 Willingdon Express/To Phibbs Exchange,,0,2189675,317768,0,1
+39305,1,15239920,222 Willingdon Express/To Phibbs Exchange,,0,2186687,317768,0,1
+39305,1,15239921,222 Willingdon Express/To Phibbs Exchange,,0,2186684,317768,0,1
+39305,1,15239922,222 Willingdon Express/To Phibbs Exchange,,0,2187152,317768,0,1
+39305,1,15239923,222 Willingdon Express/To Phibbs Exchange,,0,2189607,317768,0,1
+39305,1,15239924,222 Willingdon Express/To Phibbs Exchange,,0,2187109,317768,0,1
+39305,1,15239925,222 Willingdon Express/To Phibbs Exchange,,0,2189375,317768,0,1
+39305,1,15239926,222 Willingdon Express/To Phibbs Exchange,,0,2189673,317768,0,1
+39305,1,15239927,222 Willingdon Express/To Phibbs Exchange,,0,2189379,317768,0,1
+39305,1,15239928,222 Willingdon Express/To Phibbs Exchange,,0,2186698,317768,0,1
+39305,1,15239929,222 Willingdon Express/To Phibbs Exchange,,0,2189604,317768,0,1
+39305,1,15239930,222 Willingdon Express/To Phibbs Exchange,,0,2186707,317768,0,1
+39305,1,15239931,222 Willingdon Express/To Phibbs Exchange,,0,2186706,317768,0,1
+39305,1,15239932,222 Willingdon Express/To Phibbs Exchange,,0,2187150,317768,0,1
+39305,1,15239933,222 Willingdon Express/To Phibbs Exchange,,0,2189627,317768,0,1
+39305,1,15239934,222 Willingdon Express/To Phibbs Exchange,,0,2189606,317768,0,1
+39305,1,15239935,222 Willingdon Express/To Phibbs Exchange,,0,2189671,317768,0,1
+39305,1,15239936,222 Willingdon Express/To Phibbs Exchange,,0,2189475,317768,0,1
+39305,1,15239937,222 Willingdon Express/To Phibbs Exchange,,0,2186675,317768,0,1
+39305,1,15239938,222 Willingdon Express/To Phibbs Exchange,,0,2186684,317768,0,1
+39305,1,15239939,222 Willingdon Express/To Phibbs Exchange,,0,2189671,317768,0,1
+39305,1,15239940,222 Willingdon Express/To Phibbs Exchange,,0,2186694,317768,0,1
+39305,1,15239941,222 Willingdon Express/To Phibbs Exchange,,0,2186683,317768,0,1
+39305,1,15239942,222 Willingdon Express/To Phibbs Exchange,,0,2189480,317768,0,1
+39305,1,15239943,222 Willingdon Express/To Metrotown Station,,1,2187104,317769,0,1
+39305,1,15239944,222 Willingdon Express/To Metrotown Station,,1,2186705,317769,0,1
+39305,1,15239945,222 Willingdon Express/To Metrotown Station,,1,2186693,317769,0,1
+39305,1,15239946,222 Willingdon Express/To Metrotown Station,,1,2189480,317769,0,1
+39305,1,15239947,222 Willingdon Express/To Metrotown Station,,1,2186694,317769,0,1
+39305,1,15239948,222 Willingdon Express/To Metrotown Station,,1,2189604,317769,0,1
+39305,1,15239949,222 Willingdon Express/To Metrotown Station,,1,2189602,317769,0,1
+39305,1,15239950,222 Willingdon Express/To Metrotown Station,,1,2186675,317769,0,1
+39305,1,15239951,222 Willingdon Express/To Metrotown Station,,1,2189677,317769,0,1
+39305,1,15239952,222 Willingdon Express/To Metrotown Station,,1,2186045,317769,0,1
+39305,1,15239953,222 Willingdon Express/To Metrotown Station,,1,2186673,317769,0,1
+39305,1,15239954,222 Willingdon Express/To Metrotown Station,,1,2186686,317769,0,1
+39305,1,15239955,222 Willingdon Express/To Metrotown Station,,1,2189624,317769,0,1
+39305,1,15239956,222 Willingdon Express/To Metrotown Station,,1,2186678,317769,0,1
+39305,1,15239957,222 Willingdon Express/To Metrotown Station,,1,2189604,317769,0,1
+39305,1,15239958,222 Willingdon Express/To Metrotown Station,,1,2189602,317769,0,1
+39305,1,15239959,222 Willingdon Express/To Metrotown Station,,1,2189642,317769,0,1
+39305,1,15239960,222 Willingdon Express/To Metrotown Station,,1,2189671,317769,0,1
+39305,1,15239961,222 Willingdon Express/To Metrotown Station,,1,2189379,317769,0,1
+39305,1,15239962,222 Willingdon Express/To Metrotown Station,,1,2187150,317769,0,1
+39305,1,15239963,222 Willingdon Express/To Metrotown Station,,1,2189607,317769,0,1
+39305,1,15239964,222 Willingdon Express/To Metrotown Station,,1,2189670,317769,0,1
+39305,1,15239965,222 Willingdon Express/To Metrotown Station,,1,2189376,317769,0,1
+39305,1,15239966,222 Willingdon Express/To Metrotown Station,,1,2186039,317769,0,1
+39305,1,15239967,222 Willingdon Express/To Metrotown Station,,1,2189606,317769,0,1
+39305,101,15239968,222 Willingdon Express/To Metrotown Station,,1,2189675,317769,0,1
+39305,1,15239969,222 Willingdon Express/To Metrotown Station,,1,2186687,317769,0,1
+39305,1,15239970,222 Willingdon Express/To Metrotown Station,,1,2186679,317769,0,1
+39305,1,15239971,222 Willingdon Express/To Metrotown Station,,1,2187152,317769,0,1
+39305,1,15239972,222 Willingdon Express/To Metrotown Station,,1,2189607,317769,0,1
+39305,1,15239973,222 Willingdon Express/To Metrotown Station,,1,2187109,317769,0,1
+39305,1,15239974,222 Willingdon Express/To Metrotown Station,,1,2189375,317769,0,1
+39305,1,15239975,222 Willingdon Express/To Metrotown Station,,1,2189673,317769,0,1
+39305,1,15239976,222 Willingdon Express/To Metrotown Station,,1,2186039,317769,0,1
+39305,1,15239977,222 Willingdon Express/To Metrotown Station,,1,2189606,317769,0,1
+39305,1,15239978,222 Willingdon Express/To Metrotown Station,,1,2186047,317769,0,1
+39305,1,15239979,222 Willingdon Express/To Metrotown Station,,1,2189675,317769,0,1
+39305,1,15239980,222 Willingdon Express/To Metrotown Station,,1,2186687,317769,0,1
+39305,1,15239981,222 Willingdon Express/To Metrotown Station,,1,2189671,317769,0,1
+39305,1,15239982,222 Willingdon Express/To Metrotown Station,,1,2186698,317769,0,1
+39305,1,15239983,222 Willingdon Express/To Metrotown Station,,1,2186684,317769,0,1
+39305,1,15239984,222 Willingdon Express/To Metrotown Station,,1,2187152,317769,0,1
+39305,1,15239985,222 Willingdon Express/To Metrotown Station,,1,2186675,317769,0,1
+39305,1,15239986,222 Willingdon Express/To Metrotown Station,,1,2186047,317769,0,1
+39305,1,15239987,222 Willingdon Express/To Metrotown Station,,1,2189475,317769,0,1
+39305,1,15239988,222 Willingdon Express/To Metrotown Station,,1,2189678,317769,0,1
+39305,1,15239989,222 Willingdon Express/To Metrotown Station,,1,2189480,317769,0,1
+39305,101,15239991,222 Willingdon Express/To Metrotown Station,,1,2186696,317769,0,1
+39305,1,15239992,222 Willingdon Express/To Metrotown Station,,1,2189671,317769,0,1
+39305,1,15239994,222 Willingdon Express/To Metrotown Station,,1,2186047,317769,0,1
+39305,1,15239995,222 Willingdon Express/To Metrotown Station,,1,2189607,317769,0,1
 6676,1,15240160,228 Grand Blvd/To Lynn Valley,,0,2187156,317777,0,1
 6676,1,15240161,228 Grand Blvd/To Lynn Valley,,0,2187156,317777,0,1
 6676,1,15240162,228 Grand Blvd/To Lynn Valley,,0,2187158,317777,0,1
@@ -59974,100 +59974,100 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6614,3,15273929,4 UBC Exchange,,1,2189351,317249,0,1
 6614,3,15273930,4 UBC Exchange,,1,2189358,317249,0,1
 6614,3,15273931,4 UBC Exchange,,1,2189352,317250,0,1
-6630,3,15273932,28 Boundary/To Phibbs Exchange,,0,2187123,318483,0,1
-6630,3,15273933,28 Boundary/To Phibbs Exchange,,0,2187121,318483,0,1
-6630,3,15273934,28 Boundary/To Phibbs Exchange,,0,2189388,318483,0,1
-6630,3,15273935,28 Boundary/To Phibbs Exchange,,0,2186033,318483,0,1
-6630,3,15273936,28 Boundary/To Phibbs Exchange,,0,2186030,318483,0,1
-6630,3,15273937,28 Boundary/To Phibbs Exchange,,0,2189416,318483,0,1
-6630,3,15273938,28 Boundary/To Phibbs Exchange,,0,2186036,318485,0,1
-6630,3,15273939,28 Boundary/To Phibbs Exchange,,0,2186038,318483,0,1
-6630,3,15273940,28 Boundary/To Phibbs Exchange,,0,2186723,318483,0,1
-6630,3,15273941,28 Boundary/To Phibbs Exchange,,0,2189859,318483,0,1
-6630,3,15273942,28 Boundary/To Phibbs Exchange,,0,2187060,318483,0,1
-6630,3,15273943,28 Boundary/To Phibbs Exchange,,0,2186037,318483,0,1
-6630,3,15273944,28 Boundary/To Phibbs Exchange,,0,2189861,318483,0,1
-6630,3,15273945,28 Boundary/To Phibbs Exchange,,0,2186722,318483,0,1
-6630,3,15273946,28 Boundary/To Phibbs Exchange,,0,2186723,318483,0,1
-6630,3,15273947,28 Boundary/To Phibbs Exchange,,0,2186032,318483,0,1
-6630,3,15273948,28 Boundary/To Phibbs Exchange,,0,2186038,318483,0,1
-6630,3,15273949,28 Boundary/To Phibbs Exchange,,0,2186037,318483,0,1
-6630,3,15273950,28 Boundary/To Phibbs Exchange,,0,2186036,318483,0,1
-6630,3,15273951,28 Boundary/To Phibbs Exchange,,0,2186031,318483,0,1
-6630,3,15273952,28 Boundary/To Phibbs Exchange,,0,2189859,318483,0,1
-6630,3,15273953,28 Boundary/To Phibbs Exchange,,0,2189416,318483,0,1
-6630,3,15273954,28 Boundary/To Phibbs Exchange,,0,2186033,318483,0,1
-6630,3,15273955,28 Boundary/To Phibbs Exchange,,0,2189861,318483,0,1
-6630,3,15273956,28 Boundary/To Phibbs Exchange,,0,2186722,318483,0,1
-6630,3,15273957,28 Boundary/To Phibbs Exchange,,0,2186720,318483,0,1
-6630,3,15273958,28 Boundary/To Phibbs Exchange,,0,2186032,318483,0,1
-6630,3,15273959,28 Boundary/To Phibbs Exchange,,0,2186038,318483,0,1
-6630,3,15273960,28 Boundary/To Phibbs Exchange,,0,2186723,318483,0,1
-6630,3,15273961,28 Boundary/To Phibbs Exchange,,0,2186036,318483,0,1
-6630,3,15273962,28 Boundary/To Phibbs Exchange,,0,2186031,318483,0,1
-6630,3,15273963,28 Boundary/To Phibbs Exchange,,0,2187176,318483,0,1
-6630,3,15273964,28 Boundary/To Phibbs Exchange,,0,2187122,318483,0,1
-6630,3,15273965,28 Boundary/To Phibbs Exchange,,0,2186721,318483,0,1
-6630,3,15273966,28 Boundary/To Phibbs Exchange,,0,2186028,318483,0,1
-6630,3,15273967,28 Boundary/To Phibbs Exchange,,0,2187123,318483,0,1
-6630,3,15273968,28 Boundary/To Phibbs Exchange,,0,2189398,318483,0,1
-6630,3,15273969,28 Boundary/To Phibbs Exchange,,0,2186031,318483,0,1
-6630,3,15273970,28 Boundary/To Phibbs Exchange,,0,2186032,318483,0,1
-6630,3,15273971,28 Boundary/To Phibbs Exchange,,0,2186030,318483,0,1
-6630,3,15273972,28 Boundary/To Phibbs Exchange,,0,2186031,318483,0,1
-6630,3,15273973,28 Boundary/To Phibbs Exchange,,0,2186032,318483,0,1
-6630,3,15273974,28 Boundary/To Phibbs Exchange,,0,2186030,318483,0,1
+6630,3,15273932,28 Boundary/To Phibbs Exchange,,0,2187123,317474,0,1
+6630,3,15273933,28 Boundary/To Phibbs Exchange,,0,2187121,317474,0,1
+6630,3,15273934,28 Boundary/To Phibbs Exchange,,0,2189388,317474,0,1
+6630,3,15273935,28 Boundary/To Phibbs Exchange,,0,2186033,317474,0,1
+6630,3,15273936,28 Boundary/To Phibbs Exchange,,0,2186030,317474,0,1
+6630,3,15273937,28 Boundary/To Phibbs Exchange,,0,2189416,317474,0,1
+6630,3,15273938,28 Boundary/To Phibbs Exchange,,0,2186036,317473,0,1
+6630,3,15273939,28 Boundary/To Phibbs Exchange,,0,2186038,317474,0,1
+6630,3,15273940,28 Boundary/To Phibbs Exchange,,0,2186723,317474,0,1
+6630,3,15273941,28 Boundary/To Phibbs Exchange,,0,2189859,317474,0,1
+6630,3,15273942,28 Boundary/To Phibbs Exchange,,0,2187060,317474,0,1
+6630,3,15273943,28 Boundary/To Phibbs Exchange,,0,2186037,317474,0,1
+6630,3,15273944,28 Boundary/To Phibbs Exchange,,0,2189861,317474,0,1
+6630,3,15273945,28 Boundary/To Phibbs Exchange,,0,2186722,317474,0,1
+6630,3,15273946,28 Boundary/To Phibbs Exchange,,0,2186723,317474,0,1
+6630,3,15273947,28 Boundary/To Phibbs Exchange,,0,2186032,317474,0,1
+6630,3,15273948,28 Boundary/To Phibbs Exchange,,0,2186038,317474,0,1
+6630,3,15273949,28 Boundary/To Phibbs Exchange,,0,2186037,317474,0,1
+6630,3,15273950,28 Boundary/To Phibbs Exchange,,0,2186036,317474,0,1
+6630,3,15273951,28 Boundary/To Phibbs Exchange,,0,2186031,317474,0,1
+6630,3,15273952,28 Boundary/To Phibbs Exchange,,0,2189859,317474,0,1
+6630,3,15273953,28 Boundary/To Phibbs Exchange,,0,2189416,317474,0,1
+6630,3,15273954,28 Boundary/To Phibbs Exchange,,0,2186033,317474,0,1
+6630,3,15273955,28 Boundary/To Phibbs Exchange,,0,2189861,317474,0,1
+6630,3,15273956,28 Boundary/To Phibbs Exchange,,0,2186722,317474,0,1
+6630,3,15273957,28 Boundary/To Phibbs Exchange,,0,2186720,317474,0,1
+6630,3,15273958,28 Boundary/To Phibbs Exchange,,0,2186032,317474,0,1
+6630,3,15273959,28 Boundary/To Phibbs Exchange,,0,2186038,317474,0,1
+6630,3,15273960,28 Boundary/To Phibbs Exchange,,0,2186723,317474,0,1
+6630,3,15273961,28 Boundary/To Phibbs Exchange,,0,2186036,317474,0,1
+6630,3,15273962,28 Boundary/To Phibbs Exchange,,0,2186031,317474,0,1
+6630,3,15273963,28 Boundary/To Phibbs Exchange,,0,2187176,317474,0,1
+6630,3,15273964,28 Boundary/To Phibbs Exchange,,0,2187122,317474,0,1
+6630,3,15273965,28 Boundary/To Phibbs Exchange,,0,2186721,317474,0,1
+6630,3,15273966,28 Boundary/To Phibbs Exchange,,0,2186028,317474,0,1
+6630,3,15273967,28 Boundary/To Phibbs Exchange,,0,2187123,317474,0,1
+6630,3,15273968,28 Boundary/To Phibbs Exchange,,0,2189398,317474,0,1
+6630,3,15273969,28 Boundary/To Phibbs Exchange,,0,2186031,317474,0,1
+6630,3,15273970,28 Boundary/To Phibbs Exchange,,0,2186032,317474,0,1
+6630,3,15273971,28 Boundary/To Phibbs Exchange,,0,2186030,317474,0,1
+6630,3,15273972,28 Boundary/To Phibbs Exchange,,0,2186031,317474,0,1
+6630,3,15273973,28 Boundary/To Phibbs Exchange,,0,2186032,317474,0,1
+6630,3,15273974,28 Boundary/To Phibbs Exchange,,0,2186030,317474,0,1
 6630,3,15273975,28 Boundary/To Kootenay Loop,,0,2187060,317471,0,1
-6630,3,15273976,28 Boundary/To Phibbs Exchange,,0,2189388,318485,0,1
-6630,3,15273977,28 Boundary/To Phibbs Exchange,,0,2186038,318485,0,1
-6630,3,15273978,28 Boundary/To Phibbs Exchange,,0,2186057,318483,0,1
-6630,3,15273979,28 Boundary/To Phibbs Exchange,,0,2186056,318485,0,1
-6630,3,15273980,28 Boundary/To Phibbs Exchange,,0,2186057,318485,0,1
-6630,3,15273981,28 Boundary/To Joyce Station,,1,2189388,318484,0,1
-6630,3,15273982,28 Boundary/To Joyce Station,,1,2186038,318484,0,1
-6630,3,15273983,28 Boundary/To Joyce Station,,1,2186033,318484,0,1
-6630,3,15273984,28 Boundary/To Joyce Station,,1,2186034,318484,0,1
-6630,3,15273985,28 Boundary/To Joyce Station,,1,2186032,318484,0,1
-6630,3,15273986,28 Boundary/To Joyce Station,,1,2187060,318484,0,1
-6630,3,15273987,28 Boundary/To Joyce Station,,1,2186717,318484,0,1
-6630,3,15273988,28 Boundary/To Joyce Station,,1,2186722,318484,0,1
-6630,3,15273989,28 Boundary/To Joyce Station,,1,2186037,318484,0,1
-6630,3,15273990,28 Boundary/To Joyce Station,,1,2186036,318484,0,1
-6630,3,15273991,28 Boundary/To Joyce Station,,1,2186038,318484,0,1
-6630,3,15273992,28 Boundary/To Joyce Station,,1,2186723,318484,0,1
-6630,3,15273993,28 Boundary/To Joyce Station,,1,2189416,318484,0,1
-6630,3,15273994,28 Boundary/To Joyce Station,,1,2186031,318484,0,1
-6630,3,15273995,28 Boundary/To Joyce Station,,1,2186037,318484,0,1
-6630,3,15273996,28 Boundary/To Joyce Station,,1,2186030,318484,0,1
-6630,3,15273997,28 Boundary/To Joyce Station,,1,2186033,318484,0,1
-6630,3,15273998,28 Boundary/To Joyce Station,,1,2189859,318484,0,1
-6630,3,15273999,28 Boundary/To Joyce Station,,1,2187060,318484,0,1
-6630,3,15274000,28 Boundary/To Joyce Station,,1,2186720,318484,0,1
-6630,3,15274001,28 Boundary/To Joyce Station,,1,2189861,318484,0,1
-6630,3,15274002,28 Boundary/To Joyce Station,,1,2186722,318484,0,1
-6630,3,15274003,28 Boundary/To Joyce Station,,1,2186723,318484,0,1
-6630,3,15274004,28 Boundary/To Joyce Station,,1,2186032,318484,0,1
-6630,3,15274005,28 Boundary/To Joyce Station,,1,2186038,318484,0,1
-6630,3,15274006,28 Boundary/To Joyce Station,,1,2186028,318484,0,1
-6630,3,15274007,28 Boundary/To Joyce Station,,1,2186036,318484,0,1
-6630,3,15274008,28 Boundary/To Joyce Station,,1,2186031,318484,0,1
-6630,3,15274009,28 Boundary/To Joyce Station,,1,2189859,318484,0,1
-6630,3,15274010,28 Boundary/To Joyce Station,,1,2187176,318484,0,1
-6630,3,15274011,28 Boundary/To Joyce Station,,1,2187122,318484,0,1
-6630,3,15274012,28 Boundary/To Joyce Station,,1,2186721,318484,0,1
-6630,3,15274013,28 Boundary/To Joyce Station,,1,2186032,318484,0,1
-6630,3,15274014,28 Boundary/To Joyce Station,,1,2187123,318484,0,1
-6630,3,15274015,28 Boundary/To Joyce Station,,1,2189398,318484,0,1
-6630,3,15274016,28 Boundary/To Joyce Station,,1,2186031,318484,0,1
-6630,3,15274017,28 Boundary/To Joyce Station,,1,2187123,318484,0,1
-6630,3,15274018,28 Boundary/To Joyce Station,,1,2186722,318484,0,1
-6630,3,15274019,28 Boundary/To Joyce Station,,1,2186031,318484,0,1
-6630,3,15274020,28 Boundary/To Joyce Station,,1,2186032,318484,0,1
-6630,3,15274021,28 Boundary/To Joyce Station,,1,2186030,318484,0,1
-6630,3,15274022,28 Boundary/To Joyce Station,,1,2186031,318484,0,1
-6630,3,15274023,28 Boundary/To Joyce Station,,1,2186032,318484,0,1
-6630,3,15274024,28 Boundary/To Kootenay Loop,,1,2186030,318487,0,1
-6630,3,15274025,28 Boundary/To Joyce Station,,1,2186057,318484,0,1
+6630,3,15273976,28 Boundary/To Phibbs Exchange,,0,2189388,317473,0,1
+6630,3,15273977,28 Boundary/To Phibbs Exchange,,0,2186038,317473,0,1
+6630,3,15273978,28 Boundary/To Phibbs Exchange,,0,2186057,317474,0,1
+6630,3,15273979,28 Boundary/To Phibbs Exchange,,0,2186056,317473,0,1
+6630,3,15273980,28 Boundary/To Phibbs Exchange,,0,2186057,317473,0,1
+6630,3,15273981,28 Boundary/To Joyce Station,,1,2189388,317478,0,1
+6630,3,15273982,28 Boundary/To Joyce Station,,1,2186038,317478,0,1
+6630,3,15273983,28 Boundary/To Joyce Station,,1,2186033,317478,0,1
+6630,3,15273984,28 Boundary/To Joyce Station,,1,2186034,317478,0,1
+6630,3,15273985,28 Boundary/To Joyce Station,,1,2186032,317478,0,1
+6630,3,15273986,28 Boundary/To Joyce Station,,1,2187060,317478,0,1
+6630,3,15273987,28 Boundary/To Joyce Station,,1,2186717,317478,0,1
+6630,3,15273988,28 Boundary/To Joyce Station,,1,2186722,317478,0,1
+6630,3,15273989,28 Boundary/To Joyce Station,,1,2186037,317478,0,1
+6630,3,15273990,28 Boundary/To Joyce Station,,1,2186036,317478,0,1
+6630,3,15273991,28 Boundary/To Joyce Station,,1,2186038,317478,0,1
+6630,3,15273992,28 Boundary/To Joyce Station,,1,2186723,317478,0,1
+6630,3,15273993,28 Boundary/To Joyce Station,,1,2189416,317478,0,1
+6630,3,15273994,28 Boundary/To Joyce Station,,1,2186031,317478,0,1
+6630,3,15273995,28 Boundary/To Joyce Station,,1,2186037,317478,0,1
+6630,3,15273996,28 Boundary/To Joyce Station,,1,2186030,317478,0,1
+6630,3,15273997,28 Boundary/To Joyce Station,,1,2186033,317478,0,1
+6630,3,15273998,28 Boundary/To Joyce Station,,1,2189859,317478,0,1
+6630,3,15273999,28 Boundary/To Joyce Station,,1,2187060,317478,0,1
+6630,3,15274000,28 Boundary/To Joyce Station,,1,2186720,317478,0,1
+6630,3,15274001,28 Boundary/To Joyce Station,,1,2189861,317478,0,1
+6630,3,15274002,28 Boundary/To Joyce Station,,1,2186722,317478,0,1
+6630,3,15274003,28 Boundary/To Joyce Station,,1,2186723,317478,0,1
+6630,3,15274004,28 Boundary/To Joyce Station,,1,2186032,317478,0,1
+6630,3,15274005,28 Boundary/To Joyce Station,,1,2186038,317478,0,1
+6630,3,15274006,28 Boundary/To Joyce Station,,1,2186028,317478,0,1
+6630,3,15274007,28 Boundary/To Joyce Station,,1,2186036,317478,0,1
+6630,3,15274008,28 Boundary/To Joyce Station,,1,2186031,317478,0,1
+6630,3,15274009,28 Boundary/To Joyce Station,,1,2189859,317478,0,1
+6630,3,15274010,28 Boundary/To Joyce Station,,1,2187176,317478,0,1
+6630,3,15274011,28 Boundary/To Joyce Station,,1,2187122,317478,0,1
+6630,3,15274012,28 Boundary/To Joyce Station,,1,2186721,317478,0,1
+6630,3,15274013,28 Boundary/To Joyce Station,,1,2186032,317478,0,1
+6630,3,15274014,28 Boundary/To Joyce Station,,1,2187123,317478,0,1
+6630,3,15274015,28 Boundary/To Joyce Station,,1,2189398,317478,0,1
+6630,3,15274016,28 Boundary/To Joyce Station,,1,2186031,317478,0,1
+6630,3,15274017,28 Boundary/To Joyce Station,,1,2187123,317478,0,1
+6630,3,15274018,28 Boundary/To Joyce Station,,1,2186722,317478,0,1
+6630,3,15274019,28 Boundary/To Joyce Station,,1,2186031,317478,0,1
+6630,3,15274020,28 Boundary/To Joyce Station,,1,2186032,317478,0,1
+6630,3,15274021,28 Boundary/To Joyce Station,,1,2186030,317478,0,1
+6630,3,15274022,28 Boundary/To Joyce Station,,1,2186031,317478,0,1
+6630,3,15274023,28 Boundary/To Joyce Station,,1,2186032,317478,0,1
+6630,3,15274024,28 Boundary/To Kootenay Loop,,1,2186030,317476,0,1
+6630,3,15274025,28 Boundary/To Joyce Station,,1,2186057,317478,0,1
 6613,3,15274026,3 Main/To Waterfront Station,,0,2189360,317234,0,1
 6613,3,15274027,3 Main/To Waterfront Station,,0,2189361,317234,0,1
 6613,3,15274028,3 Main/To Waterfront Station,,0,2189362,317234,0,1
@@ -60216,184 +60216,184 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6613,3,15274171,3 Main/To Marine Dr Station,,1,2189364,317235,0,1
 6613,3,15274172,3 Main/To Marine Dr Station,,1,2189362,317235,0,1
 6613,3,15274173,3 Main/To Marine Dr Station,,1,2189360,317235,0,1
-6630,1,15274174,28 Boundary/To Phibbs Exchange,,0,2189678,318483,0,1
-6630,1,15274175,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274176,28 Boundary/To Phibbs Exchange,,0,2187101,318483,0,1
-6630,1,15274177,28 Boundary/To Phibbs Exchange,,0,2189624,318483,0,1
-6630,1,15274178,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274179,28 Boundary/To Phibbs Exchange,,0,2189475,318483,0,1
-6630,1,15274180,28 Boundary/To Phibbs Exchange,,0,2189599,318483,0,1
-6630,1,15274181,28 Boundary/To Phibbs Exchange,,0,2189678,318483,0,1
-6630,1,15274182,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274183,28 Boundary/To Phibbs Exchange,,0,2189482,318483,0,1
-6630,1,15274184,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
-6630,1,15274185,28 Boundary/To Phibbs Exchange,,0,2186683,318483,0,1
-6630,1,15274186,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274187,28 Boundary/To Phibbs Exchange,,0,2189475,318483,0,1
-6630,1,15274188,28 Boundary/To Phibbs Exchange,,0,2189599,318483,0,1
-6630,1,15274189,28 Boundary/To Phibbs Exchange,,0,2189678,318483,0,1
-6630,1,15274190,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274191,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274192,28 Boundary/To Phibbs Exchange,,0,2189482,318483,0,1
-6630,1,15274193,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
-6630,1,15274194,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274195,28 Boundary/To Phibbs Exchange,,0,2189475,318483,0,1
-6630,1,15274196,28 Boundary/To Phibbs Exchange,,0,2189599,318483,0,1
-6630,1,15274197,28 Boundary/To Phibbs Exchange,,0,2189678,318483,0,1
-6630,1,15274198,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274199,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274200,28 Boundary/To Phibbs Exchange,,0,2189482,318483,0,1
-6630,1,15274201,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
-6630,1,15274202,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274203,28 Boundary/To Phibbs Exchange,,0,2189475,318483,0,1
-6630,1,15274204,28 Boundary/To Phibbs Exchange,,0,2189599,318483,0,1
-6630,1,15274205,28 Boundary/To Phibbs Exchange,,0,2189678,318483,0,1
-6630,1,15274206,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274207,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274208,28 Boundary/To Phibbs Exchange,,0,2189482,318483,0,1
-6630,1,15274209,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
-6630,1,15274210,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274211,28 Boundary/To Phibbs Exchange,,0,2189475,318483,0,1
-6630,1,15274212,28 Boundary/To Phibbs Exchange,,0,2189599,318483,0,1
-6630,1,15274213,28 Boundary/To Phibbs Exchange,,0,2189678,318483,0,1
-6630,1,15274214,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274215,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274216,28 Boundary/To Phibbs Exchange,,0,2189482,318483,0,1
-6630,1,15274217,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
-6630,1,15274218,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274219,28 Boundary/To Phibbs Exchange,,0,2189670,318483,0,1
-6630,1,15274220,28 Boundary/To Phibbs Exchange,,0,2189599,318483,0,1
-6630,1,15274221,28 Boundary/To Phibbs Exchange,,0,2186683,318483,0,1
-6630,1,15274222,28 Boundary/To Phibbs Exchange,,0,2189476,318483,0,1
-6630,1,15274223,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274224,28 Boundary/To Phibbs Exchange,,0,2189482,318483,0,1
+6630,1,15274174,28 Boundary/To Phibbs Exchange,,0,2189678,317474,0,1
+6630,1,15274175,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274176,28 Boundary/To Phibbs Exchange,,0,2187101,317474,0,1
+6630,1,15274177,28 Boundary/To Phibbs Exchange,,0,2189624,317474,0,1
+6630,1,15274178,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274179,28 Boundary/To Phibbs Exchange,,0,2189475,317474,0,1
+6630,1,15274180,28 Boundary/To Phibbs Exchange,,0,2189599,317474,0,1
+6630,1,15274181,28 Boundary/To Phibbs Exchange,,0,2189678,317474,0,1
+6630,1,15274182,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274183,28 Boundary/To Phibbs Exchange,,0,2189482,317474,0,1
+6630,1,15274184,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
+6630,1,15274185,28 Boundary/To Phibbs Exchange,,0,2186683,317474,0,1
+6630,1,15274186,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274187,28 Boundary/To Phibbs Exchange,,0,2189475,317474,0,1
+6630,1,15274188,28 Boundary/To Phibbs Exchange,,0,2189599,317474,0,1
+6630,1,15274189,28 Boundary/To Phibbs Exchange,,0,2189678,317474,0,1
+6630,1,15274190,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274191,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274192,28 Boundary/To Phibbs Exchange,,0,2189482,317474,0,1
+6630,1,15274193,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
+6630,1,15274194,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274195,28 Boundary/To Phibbs Exchange,,0,2189475,317474,0,1
+6630,1,15274196,28 Boundary/To Phibbs Exchange,,0,2189599,317474,0,1
+6630,1,15274197,28 Boundary/To Phibbs Exchange,,0,2189678,317474,0,1
+6630,1,15274198,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274199,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274200,28 Boundary/To Phibbs Exchange,,0,2189482,317474,0,1
+6630,1,15274201,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
+6630,1,15274202,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274203,28 Boundary/To Phibbs Exchange,,0,2189475,317474,0,1
+6630,1,15274204,28 Boundary/To Phibbs Exchange,,0,2189599,317474,0,1
+6630,1,15274205,28 Boundary/To Phibbs Exchange,,0,2189678,317474,0,1
+6630,1,15274206,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274207,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274208,28 Boundary/To Phibbs Exchange,,0,2189482,317474,0,1
+6630,1,15274209,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
+6630,1,15274210,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274211,28 Boundary/To Phibbs Exchange,,0,2189475,317474,0,1
+6630,1,15274212,28 Boundary/To Phibbs Exchange,,0,2189599,317474,0,1
+6630,1,15274213,28 Boundary/To Phibbs Exchange,,0,2189678,317474,0,1
+6630,1,15274214,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274215,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274216,28 Boundary/To Phibbs Exchange,,0,2189482,317474,0,1
+6630,1,15274217,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
+6630,1,15274218,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274219,28 Boundary/To Phibbs Exchange,,0,2189670,317474,0,1
+6630,1,15274220,28 Boundary/To Phibbs Exchange,,0,2189599,317474,0,1
+6630,1,15274221,28 Boundary/To Phibbs Exchange,,0,2186683,317474,0,1
+6630,1,15274222,28 Boundary/To Phibbs Exchange,,0,2189476,317474,0,1
+6630,1,15274223,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274224,28 Boundary/To Phibbs Exchange,,0,2189482,317474,0,1
 6630,1,15274225,28 Boundary/To Phibbs Exchange,,0,2189476,317473,0,1
-6630,1,15274226,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
-6630,1,15274227,28 Boundary/To Phibbs Exchange,,0,2189475,318483,0,1
-6630,1,15274228,28 Boundary/To Phibbs Exchange,,0,2189376,318483,0,1
-6630,1,15274229,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274230,28 Boundary/To Phibbs Exchange,,0,2189605,318483,0,1
-6630,1,15274231,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274232,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274233,28 Boundary/To Phibbs Exchange,,0,2189605,318483,0,1
-6630,1,15274234,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274235,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
-6630,1,15274236,28 Boundary/To Phibbs Exchange,,0,2189605,318483,0,1
-6630,1,15274237,28 Boundary/To Phibbs Exchange,,0,2189480,318483,0,1
-6630,1,15274238,28 Boundary/To Phibbs Exchange,,0,2189679,318483,0,1
+6630,1,15274226,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
+6630,1,15274227,28 Boundary/To Phibbs Exchange,,0,2189475,317474,0,1
+6630,1,15274228,28 Boundary/To Phibbs Exchange,,0,2189376,317474,0,1
+6630,1,15274229,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274230,28 Boundary/To Phibbs Exchange,,0,2189605,317474,0,1
+6630,1,15274231,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274232,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274233,28 Boundary/To Phibbs Exchange,,0,2189605,317474,0,1
+6630,1,15274234,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274235,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
+6630,1,15274236,28 Boundary/To Phibbs Exchange,,0,2189605,317474,0,1
+6630,1,15274237,28 Boundary/To Phibbs Exchange,,0,2189480,317474,0,1
+6630,1,15274238,28 Boundary/To Phibbs Exchange,,0,2189679,317474,0,1
 6630,1,15274239,28 Boundary/To Kootenay Loop,,0,2189605,317471,0,1
-6630,1,15274240,28 Boundary/To Phibbs Exchange,,0,2189602,318483,0,1
+6630,1,15274240,28 Boundary/To Phibbs Exchange,,0,2189602,317474,0,1
 6630,1,15274241,28 Boundary/To Phibbs Exchange,,0,2186705,317473,0,1
 6630,1,15274242,28 Boundary/To Phibbs Exchange,,0,2189678,317473,0,1
-6630,1,15274243,28 Boundary/To Phibbs Exchange,,0,2189481,318483,0,1
+6630,1,15274243,28 Boundary/To Phibbs Exchange,,0,2189481,317474,0,1
 6630,1,15274244,28 Boundary/To Phibbs Exchange,,0,2186044,317473,0,1
-6630,1,15274245,28 Boundary/To Phibbs Exchange,,0,2186043,318483,0,1
-6630,1,15274247,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274248,28 Boundary/To Joyce Station,,1,2187101,318484,0,1
-6630,1,15274249,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274250,28 Boundary/To Joyce Station,,1,2189475,318484,0,1
-6630,1,15274251,28 Boundary/To Joyce Station,,1,2189599,318484,0,1
-6630,1,15274252,28 Boundary/To Joyce Station,,1,2189678,318484,0,1
-6630,1,15274253,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274254,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274255,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
-6630,1,15274256,28 Boundary/To Joyce Station,,1,2186683,318484,0,1
-6630,1,15274257,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274258,28 Boundary/To Joyce Station,,1,2189475,318484,0,1
-6630,1,15274259,28 Boundary/To Joyce Station,,1,2189599,318484,0,1
-6630,1,15274260,28 Boundary/To Joyce Station,,1,2189678,318484,0,1
-6630,1,15274261,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274262,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274263,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274264,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
-6630,1,15274265,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274266,28 Boundary/To Joyce Station,,1,2189475,318484,0,1
-6630,1,15274267,28 Boundary/To Joyce Station,,1,2189599,318484,0,1
-6630,1,15274268,28 Boundary/To Joyce Station,,1,2189678,318484,0,1
-6630,1,15274269,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274270,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274271,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274272,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
-6630,1,15274273,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274274,28 Boundary/To Joyce Station,,1,2189475,318484,0,1
-6630,1,15274275,28 Boundary/To Joyce Station,,1,2189599,318484,0,1
-6630,1,15274276,28 Boundary/To Joyce Station,,1,2189678,318484,0,1
-6630,1,15274277,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274278,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274279,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274280,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
-6630,1,15274281,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274282,28 Boundary/To Joyce Station,,1,2189475,318484,0,1
-6630,1,15274283,28 Boundary/To Joyce Station,,1,2189599,318484,0,1
-6630,1,15274284,28 Boundary/To Joyce Station,,1,2189678,318484,0,1
-6630,1,15274285,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274286,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274287,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274288,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
-6630,1,15274289,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274290,28 Boundary/To Joyce Station,,1,2189670,318484,0,1
-6630,1,15274291,28 Boundary/To Joyce Station,,1,2189599,318484,0,1
-6630,1,15274292,28 Boundary/To Joyce Station,,1,2186683,318484,0,1
-6630,1,15274293,28 Boundary/To Joyce Station,,1,2189476,318484,0,1
-6630,1,15274294,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274295,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274296,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
-6630,1,15274297,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274298,28 Boundary/To Joyce Station,,1,2189605,318484,0,1
-6630,1,15274299,28 Boundary/To Joyce Station,,1,2186683,318484,0,1
-6630,1,15274300,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274301,28 Boundary/To Joyce Station,,1,2189482,318484,0,1
-6630,1,15274302,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274303,28 Boundary/To Joyce Station,,1,2189605,318484,0,1
-6630,1,15274304,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274305,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274306,28 Boundary/To Joyce Station,,1,2189605,318484,0,1
-6630,1,15274307,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274308,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274309,28 Boundary/To Joyce Station,,1,2189605,318484,0,1
-6630,1,15274310,28 Boundary/To Joyce Station,,1,2189480,318484,0,1
-6630,1,15274311,28 Boundary/To Joyce Station,,1,2189679,318484,0,1
-6630,1,15274312,28 Boundary/To Joyce Station,,1,2189481,318484,0,1
+6630,1,15274245,28 Boundary/To Phibbs Exchange,,0,2186043,317474,0,1
+6630,1,15274247,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274248,28 Boundary/To Joyce Station,,1,2187101,317478,0,1
+6630,1,15274249,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274250,28 Boundary/To Joyce Station,,1,2189475,317478,0,1
+6630,1,15274251,28 Boundary/To Joyce Station,,1,2189599,317478,0,1
+6630,1,15274252,28 Boundary/To Joyce Station,,1,2189678,317478,0,1
+6630,1,15274253,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274254,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274255,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
+6630,1,15274256,28 Boundary/To Joyce Station,,1,2186683,317478,0,1
+6630,1,15274257,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274258,28 Boundary/To Joyce Station,,1,2189475,317478,0,1
+6630,1,15274259,28 Boundary/To Joyce Station,,1,2189599,317478,0,1
+6630,1,15274260,28 Boundary/To Joyce Station,,1,2189678,317478,0,1
+6630,1,15274261,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274262,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274263,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274264,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
+6630,1,15274265,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274266,28 Boundary/To Joyce Station,,1,2189475,317478,0,1
+6630,1,15274267,28 Boundary/To Joyce Station,,1,2189599,317478,0,1
+6630,1,15274268,28 Boundary/To Joyce Station,,1,2189678,317478,0,1
+6630,1,15274269,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274270,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274271,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274272,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
+6630,1,15274273,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274274,28 Boundary/To Joyce Station,,1,2189475,317478,0,1
+6630,1,15274275,28 Boundary/To Joyce Station,,1,2189599,317478,0,1
+6630,1,15274276,28 Boundary/To Joyce Station,,1,2189678,317478,0,1
+6630,1,15274277,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274278,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274279,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274280,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
+6630,1,15274281,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274282,28 Boundary/To Joyce Station,,1,2189475,317478,0,1
+6630,1,15274283,28 Boundary/To Joyce Station,,1,2189599,317478,0,1
+6630,1,15274284,28 Boundary/To Joyce Station,,1,2189678,317478,0,1
+6630,1,15274285,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274286,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274287,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274288,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
+6630,1,15274289,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274290,28 Boundary/To Joyce Station,,1,2189670,317478,0,1
+6630,1,15274291,28 Boundary/To Joyce Station,,1,2189599,317478,0,1
+6630,1,15274292,28 Boundary/To Joyce Station,,1,2186683,317478,0,1
+6630,1,15274293,28 Boundary/To Joyce Station,,1,2189476,317478,0,1
+6630,1,15274294,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274295,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274296,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
+6630,1,15274297,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274298,28 Boundary/To Joyce Station,,1,2189605,317478,0,1
+6630,1,15274299,28 Boundary/To Joyce Station,,1,2186683,317478,0,1
+6630,1,15274300,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274301,28 Boundary/To Joyce Station,,1,2189482,317478,0,1
+6630,1,15274302,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274303,28 Boundary/To Joyce Station,,1,2189605,317478,0,1
+6630,1,15274304,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274305,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274306,28 Boundary/To Joyce Station,,1,2189605,317478,0,1
+6630,1,15274307,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274308,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274309,28 Boundary/To Joyce Station,,1,2189605,317478,0,1
+6630,1,15274310,28 Boundary/To Joyce Station,,1,2189480,317478,0,1
+6630,1,15274311,28 Boundary/To Joyce Station,,1,2189679,317478,0,1
+6630,1,15274312,28 Boundary/To Joyce Station,,1,2189481,317478,0,1
 6630,1,15274313,28 Boundary/To Joyce Station,,1,2189475,317475,0,1
-6630,1,15274314,28 Boundary/To Joyce Station,,1,2189602,318484,0,1
-6630,1,15274315,28 Boundary/To Joyce Station,,1,2189678,318484,0,1
-6630,1,15274316,28 Boundary/To Joyce Station,,1,2186679,318484,0,1
-6630,1,15274317,28 Boundary/To Joyce Station,,1,2186043,318484,0,1
+6630,1,15274314,28 Boundary/To Joyce Station,,1,2189602,317478,0,1
+6630,1,15274315,28 Boundary/To Joyce Station,,1,2189678,317478,0,1
+6630,1,15274316,28 Boundary/To Joyce Station,,1,2186679,317478,0,1
+6630,1,15274317,28 Boundary/To Joyce Station,,1,2186043,317478,0,1
 6630,1,15274318,28 Boundary/To Kootenay Loop,,1,2186054,317476,0,1
-6651,1,15274319,130 Willingdon/To Phibbs Exchange,,0,2186675,318491,0,1
+6651,1,15274319,130 Willingdon/To Phibbs Exchange,,0,2186675,317596,0,1
 6651,1,15274320,130 Willingdon/To Kootenay Loop,,0,2189648,317595,0,1
-6651,1,15274321,130 Willingdon/To Phibbs Exchange,,0,2186673,318491,0,1
+6651,1,15274321,130 Willingdon/To Phibbs Exchange,,0,2186673,317596,0,1
 6651,1,15274322,130 Willingdon/To Kootenay Loop,,0,2186693,317595,0,1
-6651,1,15274323,130 Willingdon/To Phibbs Exchange,,0,2189481,318491,0,1
+6651,1,15274323,130 Willingdon/To Phibbs Exchange,,0,2189481,317596,0,1
 6651,1,15274324,130 Willingdon/To Kootenay Loop,,0,2186672,317595,0,1
-6651,1,15274325,130 Willingdon/To Phibbs Exchange,,0,2186678,318491,0,1
+6651,1,15274325,130 Willingdon/To Phibbs Exchange,,0,2186678,317596,0,1
 6651,1,15274326,130 Willingdon/To Kootenay Loop,,0,2186694,317595,0,1
 6651,1,15274327,130 Willingdon/To Kootenay Loop,,0,2186046,317595,0,1
-6651,1,15274328,130 Willingdon/To Phibbs Exchange,,0,2189376,318491,0,1
+6651,1,15274328,130 Willingdon/To Phibbs Exchange,,0,2189376,317596,0,1
 6651,1,15274329,130 Willingdon/To Kootenay Loop,,0,2189648,317595,0,1
-6651,1,15274330,130 Willingdon/To Phibbs Exchange,,0,2186675,318491,0,1
+6651,1,15274330,130 Willingdon/To Phibbs Exchange,,0,2186675,317596,0,1
 6651,1,15274331,130 Willingdon/To Kootenay Loop,,0,2189377,317595,0,1
 6651,1,15274332,130 Willingdon/To Kootenay Loop,,0,2186685,317595,0,1
-6651,1,15274333,130 Willingdon/To Phibbs Exchange,,0,2186693,318491,0,1
+6651,1,15274333,130 Willingdon/To Phibbs Exchange,,0,2186693,317596,0,1
 6651,1,15274334,130 Willingdon/To Kootenay Loop,,0,2186045,317595,0,1
-6651,1,15274335,130 Willingdon/To Phibbs Exchange,,0,2186672,318491,0,1
+6651,1,15274335,130 Willingdon/To Phibbs Exchange,,0,2186672,317596,0,1
 6651,1,15274336,130 Willingdon/To Kootenay Loop,,0,2189627,317595,0,1
-6651,1,15274337,130 Willingdon/To Phibbs Exchange,,0,2186698,318491,0,1
+6651,1,15274337,130 Willingdon/To Phibbs Exchange,,0,2186698,317596,0,1
 6651,1,15274338,130 Willingdon/To Kootenay Loop,,0,2186046,317595,0,1
-6651,1,15274339,130 Willingdon/To Phibbs Exchange,,0,2186686,318491,0,1
+6651,1,15274339,130 Willingdon/To Phibbs Exchange,,0,2186686,317596,0,1
 6651,1,15274340,130 Willingdon/To Kootenay Loop,,0,2189624,317595,0,1
 6651,1,15274341,130 Willingdon/To Kootenay Loop,,0,2186678,317593,0,1
-6651,1,15274342,130 Willingdon/To Phibbs Exchange,,0,2186673,318491,0,1
-6651,1,15274343,130 Willingdon/To Phibbs Exchange,,0,2189675,318491,0,1
-6651,1,15274344,130 Willingdon/To Phibbs Exchange,,0,2189608,318491,0,1
-6651,1,15274345,130 Willingdon/To Phibbs Exchange,,0,2187152,318491,0,1
-6651,1,15274346,130 Willingdon/To Phibbs Exchange,,0,2189376,318491,0,1
-6651,1,15274347,130 Willingdon/To Phibbs Exchange,,0,2189375,318491,0,1
-6651,1,15274348,130 Willingdon/To Phibbs Exchange,,0,2189611,318491,0,1
-6651,1,15274349,130 Willingdon/To Phibbs Exchange,,0,2189599,318491,0,1
-6651,1,15274350,130 Willingdon/To Phibbs Exchange,,0,2189679,318491,0,1
+6651,1,15274342,130 Willingdon/To Phibbs Exchange,,0,2186673,317596,0,1
+6651,1,15274343,130 Willingdon/To Phibbs Exchange,,0,2189675,317596,0,1
+6651,1,15274344,130 Willingdon/To Phibbs Exchange,,0,2189608,317596,0,1
+6651,1,15274345,130 Willingdon/To Phibbs Exchange,,0,2187152,317596,0,1
+6651,1,15274346,130 Willingdon/To Phibbs Exchange,,0,2189376,317596,0,1
+6651,1,15274347,130 Willingdon/To Phibbs Exchange,,0,2189375,317596,0,1
+6651,1,15274348,130 Willingdon/To Phibbs Exchange,,0,2189611,317596,0,1
+6651,1,15274349,130 Willingdon/To Phibbs Exchange,,0,2189599,317596,0,1
+6651,1,15274350,130 Willingdon/To Phibbs Exchange,,0,2189679,317596,0,1
 6651,1,15274351,130 Willingdon/To Kootenay Loop,,0,2186678,317595,0,1
-6651,1,15274352,130 Willingdon/To Phibbs Exchange,,0,2186685,318491,0,1
+6651,1,15274352,130 Willingdon/To Phibbs Exchange,,0,2186685,317596,0,1
 6651,1,15274353,130 Willingdon/To Kootenay Loop,,0,2186684,317593,0,1
 6651,1,15274354,130 Willingdon/To Kootenay Loop,,0,2186673,317595,0,1
 6651,1,15274355,130 Willingdon/To Kootenay Loop,,0,2189611,317595,0,1
@@ -60402,196 +60402,196 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6651,1,15274358,130 Willingdon/To Kootenay Loop,,0,2189611,317595,0,1
 6651,1,15274359,130 Willingdon/To Kootenay Loop,,0,2189611,317595,0,1
 6651,1,15274360,130 Willingdon/To Kootenay Loop,,0,2189376,317595,0,1
-6651,1,15274361,130 Willingdon/To Phibbs Exchange,,0,2186045,318491,0,1
+6651,1,15274361,130 Willingdon/To Phibbs Exchange,,0,2186045,317596,0,1
 6651,1,15274362,130 Willingdon/To Kootenay Loop,,0,2186675,317595,0,1
-6651,1,15274363,130 Willingdon/To Phibbs Exchange,,0,2189627,318491,0,1
-6651,1,15274364,130 Willingdon/To Phibbs Exchange,,0,2189671,318491,0,1
-6651,1,15274365,130 Willingdon/To Phibbs Exchange,,0,2186046,318491,0,1
-6651,1,15274366,130 Willingdon/To Phibbs Exchange,,0,2186673,318491,0,1
-6651,1,15274367,130 Willingdon/To Phibbs Exchange,,0,2186678,318491,0,1
-6651,1,15274368,130 Willingdon/To Phibbs Exchange,,0,2186684,318491,0,1
-6651,1,15274369,130 Willingdon/To Phibbs Exchange,,0,2189605,318491,0,1
-6651,1,15274370,130 Willingdon/To Phibbs Exchange,,0,2189376,318491,0,1
-6651,1,15274371,130 Willingdon/To Phibbs Exchange,,0,2186675,318491,0,1
-6651,1,15274372,130 Willingdon/To Phibbs Exchange,,0,2189375,318491,0,1
-6651,1,15274373,130 Willingdon/To Phibbs Exchange,,0,2189604,318491,0,1
-6651,1,15274374,130 Willingdon/To Phibbs Exchange,,0,2186683,318491,0,1
-6651,1,15274375,130 Willingdon/To Phibbs Exchange,,0,2186045,318491,0,1
-6651,1,15274376,130 Willingdon/To Phibbs Exchange,,0,2189627,318491,0,1
-6651,1,15274377,130 Willingdon/To Phibbs Exchange,,0,2189671,318491,0,1
-6651,1,15274378,130 Willingdon/To Phibbs Exchange,,0,2186046,318491,0,1
-6651,1,15274379,130 Willingdon/To Phibbs Exchange,,0,2186673,318491,0,1
-6651,1,15274380,130 Willingdon/To Phibbs Exchange,,0,2186678,318491,0,1
-6651,1,15274381,130 Willingdon/To Phibbs Exchange,,0,2186684,318491,0,1
-6651,1,15274382,130 Willingdon/To Phibbs Exchange,,0,2189605,318491,0,1
-6651,1,15274383,130 Willingdon/To Phibbs Exchange,,0,2189376,318491,0,1
-6651,1,15274384,130 Willingdon/To Phibbs Exchange,,0,2186675,318491,0,1
-6651,1,15274385,130 Willingdon/To Phibbs Exchange,,0,2189375,318491,0,1
-6651,1,15274386,130 Willingdon/To Phibbs Exchange,,0,2189604,318491,0,1
-6651,1,15274387,130 Willingdon/To Phibbs Exchange,,0,2186683,318491,0,1
-6651,1,15274388,130 Willingdon/To Phibbs Exchange,,0,2186045,318491,0,1
+6651,1,15274363,130 Willingdon/To Phibbs Exchange,,0,2189627,317596,0,1
+6651,1,15274364,130 Willingdon/To Phibbs Exchange,,0,2189671,317596,0,1
+6651,1,15274365,130 Willingdon/To Phibbs Exchange,,0,2186046,317596,0,1
+6651,1,15274366,130 Willingdon/To Phibbs Exchange,,0,2186673,317596,0,1
+6651,1,15274367,130 Willingdon/To Phibbs Exchange,,0,2186678,317596,0,1
+6651,1,15274368,130 Willingdon/To Phibbs Exchange,,0,2186684,317596,0,1
+6651,1,15274369,130 Willingdon/To Phibbs Exchange,,0,2189605,317596,0,1
+6651,1,15274370,130 Willingdon/To Phibbs Exchange,,0,2189376,317596,0,1
+6651,1,15274371,130 Willingdon/To Phibbs Exchange,,0,2186675,317596,0,1
+6651,1,15274372,130 Willingdon/To Phibbs Exchange,,0,2189375,317596,0,1
+6651,1,15274373,130 Willingdon/To Phibbs Exchange,,0,2189604,317596,0,1
+6651,1,15274374,130 Willingdon/To Phibbs Exchange,,0,2186683,317596,0,1
+6651,1,15274375,130 Willingdon/To Phibbs Exchange,,0,2186045,317596,0,1
+6651,1,15274376,130 Willingdon/To Phibbs Exchange,,0,2189627,317596,0,1
+6651,1,15274377,130 Willingdon/To Phibbs Exchange,,0,2189671,317596,0,1
+6651,1,15274378,130 Willingdon/To Phibbs Exchange,,0,2186046,317596,0,1
+6651,1,15274379,130 Willingdon/To Phibbs Exchange,,0,2186673,317596,0,1
+6651,1,15274380,130 Willingdon/To Phibbs Exchange,,0,2186678,317596,0,1
+6651,1,15274381,130 Willingdon/To Phibbs Exchange,,0,2186684,317596,0,1
+6651,1,15274382,130 Willingdon/To Phibbs Exchange,,0,2189605,317596,0,1
+6651,1,15274383,130 Willingdon/To Phibbs Exchange,,0,2189376,317596,0,1
+6651,1,15274384,130 Willingdon/To Phibbs Exchange,,0,2186675,317596,0,1
+6651,1,15274385,130 Willingdon/To Phibbs Exchange,,0,2189375,317596,0,1
+6651,1,15274386,130 Willingdon/To Phibbs Exchange,,0,2189604,317596,0,1
+6651,1,15274387,130 Willingdon/To Phibbs Exchange,,0,2186683,317596,0,1
+6651,1,15274388,130 Willingdon/To Phibbs Exchange,,0,2186045,317596,0,1
 6651,1,15274389,130 Willingdon/To Kootenay Loop,,0,2189627,317595,0,1
-6651,1,15274390,130 Willingdon/To Phibbs Exchange,,0,2189671,318491,0,1
-6651,1,15274391,130 Willingdon/To Phibbs Exchange,,0,2189379,318491,0,1
+6651,1,15274390,130 Willingdon/To Phibbs Exchange,,0,2189671,317596,0,1
+6651,1,15274391,130 Willingdon/To Phibbs Exchange,,0,2189379,317596,0,1
 6651,1,15274392,130 Willingdon/To Kootenay Loop,,0,2186673,317595,0,1
-6651,1,15274393,130 Willingdon/To Phibbs Exchange,,0,2186046,318491,0,1
+6651,1,15274393,130 Willingdon/To Phibbs Exchange,,0,2186046,317596,0,1
 6651,1,15274394,130 Willingdon/To Kootenay Loop,,0,2186678,317595,0,1
-6651,1,15274395,130 Willingdon/To Phibbs Exchange,,0,2189605,318491,0,1
+6651,1,15274395,130 Willingdon/To Phibbs Exchange,,0,2189605,317596,0,1
 6651,1,15274396,130 Willingdon/To Kootenay Loop,,0,2186684,317595,0,1
-6651,1,15274397,130 Willingdon/To Phibbs Exchange,,0,2189376,318491,0,1
-6651,1,15274398,130 Willingdon/To Phibbs Exchange,,0,2186039,318491,0,1
+6651,1,15274397,130 Willingdon/To Phibbs Exchange,,0,2189376,317596,0,1
+6651,1,15274398,130 Willingdon/To Phibbs Exchange,,0,2186039,317596,0,1
 6651,1,15274399,130 Willingdon/To Kootenay Loop,,0,2189375,317595,0,1
 6651,1,15274400,130 Willingdon/To Kootenay Loop,,0,2189627,317595,0,1
-6651,1,15274401,130 Willingdon/To Phibbs Exchange,,0,2189604,318491,0,1
+6651,1,15274401,130 Willingdon/To Phibbs Exchange,,0,2189604,317596,0,1
 6651,1,15274402,130 Willingdon/To Kootenay Loop,,0,2186683,317595,0,1
 6651,1,15274403,130 Willingdon/To Kootenay Loop,,0,2186673,317595,0,1
-6651,1,15274404,130 Willingdon/To Phibbs Exchange,,0,2186045,318491,0,1
+6651,1,15274404,130 Willingdon/To Phibbs Exchange,,0,2186045,317596,0,1
 6651,1,15274405,130 Willingdon/To Kootenay Loop,,0,2189379,317595,0,1
 6651,1,15274406,130 Willingdon/To Kootenay Loop,,0,2186678,317595,0,1
-6651,1,15274407,130 Willingdon/To Phibbs Exchange,,0,2189608,318491,0,1
+6651,1,15274407,130 Willingdon/To Phibbs Exchange,,0,2189608,317596,0,1
 6651,1,15274408,130 Willingdon/To Kootenay Loop,,0,2186684,317595,0,1
 6651,1,15274409,130 Willingdon/To Kootenay Loop,,0,2186046,317595,0,1
-6651,1,15274410,130 Willingdon/To Phibbs Exchange,,0,2189375,318491,0,1
+6651,1,15274410,130 Willingdon/To Phibbs Exchange,,0,2189375,317596,0,1
 6651,1,15274411,130 Willingdon/To Kootenay Loop,,0,2189376,317595,0,1
 6651,1,15274412,130 Willingdon/To Kootenay Loop,,0,2186675,317595,0,1
-6651,1,15274413,130 Willingdon/To Phibbs Exchange,,0,2186039,318491,0,1
+6651,1,15274413,130 Willingdon/To Phibbs Exchange,,0,2186039,317596,0,1
 6651,1,15274414,130 Willingdon/To Kootenay Loop,,0,2186696,317595,0,1
 6651,1,15274415,130 Willingdon/To Kootenay Loop,,0,2189611,317595,0,1
-6651,1,15274416,130 Willingdon/To Phibbs Exchange,,0,2186047,318491,0,1
+6651,1,15274416,130 Willingdon/To Phibbs Exchange,,0,2186047,317596,0,1
 6651,1,15274417,130 Willingdon/To Kootenay Loop,,0,2189379,317595,0,1
 6651,1,15274418,130 Willingdon/To Kootenay Loop,,0,2189604,317595,0,1
 6651,1,15274419,130 Willingdon/To Kootenay Loop,,0,2186678,317595,0,1
-6651,1,15274420,130 Willingdon/To Phibbs Exchange,,0,2186679,318491,0,1
+6651,1,15274420,130 Willingdon/To Phibbs Exchange,,0,2186679,317596,0,1
 6651,1,15274421,130 Willingdon/To Kootenay Loop,,0,2186045,317595,0,1
 6651,1,15274422,130 Willingdon/To Kootenay Loop,,0,2186046,317595,0,1
-6651,1,15274423,130 Willingdon/To Phibbs Exchange,,0,2189376,318491,0,1
+6651,1,15274423,130 Willingdon/To Phibbs Exchange,,0,2189376,317596,0,1
 6651,1,15274424,130 Willingdon/To Kootenay Loop,,0,2189608,317595,0,1
 6651,1,15274425,130 Willingdon/To Kootenay Loop,,0,2186696,317593,0,1
-6651,1,15274426,130 Willingdon/To Phibbs Exchange,,0,2189611,318491,0,1
-6651,1,15274427,130 Willingdon/To Phibbs Exchange,,0,2189605,318491,0,1
-6651,1,15274428,130 Willingdon/To Phibbs Exchange,,0,2189678,318491,0,1
+6651,1,15274426,130 Willingdon/To Phibbs Exchange,,0,2189611,317596,0,1
+6651,1,15274427,130 Willingdon/To Phibbs Exchange,,0,2189605,317596,0,1
+6651,1,15274428,130 Willingdon/To Phibbs Exchange,,0,2189678,317596,0,1
 6651,1,15274429,130 Willingdon/To Kootenay Loop,,0,2186039,317595,0,1
-6651,1,15274430,130 Willingdon/To Phibbs Exchange,,0,2189606,318491,0,1
-6651,1,15274431,130 Willingdon/To Phibbs Exchange,,0,2186047,318491,0,1
+6651,1,15274430,130 Willingdon/To Phibbs Exchange,,0,2189606,317596,0,1
+6651,1,15274431,130 Willingdon/To Phibbs Exchange,,0,2186047,317596,0,1
 6651,1,15274432,130 Willingdon/To Kootenay Loop,,0,2189606,317595,0,1
 6651,1,15274433,130 Willingdon/To Kootenay Loop,,0,2189606,317595,0,1
 6651,1,15274434,130 Willingdon/To Kootenay Loop,,0,2189606,317595,0,1
 6651,1,15274435,130 Willingdon/To Kootenay Loop,,0,2189606,317595,0,1
-6651,1,15274436,130 Willingdon/To Phibbs Exchange,,0,2186688,318491,0,1
-6651,1,15274437,130 Willingdon/To Phibbs Exchange,,0,2186699,318491,0,1
-6651,1,15274438,130 Willingdon/To Phibbs Exchange,,0,2187083,318491,0,1
-6651,1,15274439,130 Willingdon/To Phibbs Exchange,,0,2189604,318491,0,1
-6651,1,15274440,130 Willingdon/To Phibbs Exchange,,0,2189606,318491,0,1
-6651,1,15274441,130 Willingdon/To Phibbs Exchange,,0,2189375,318491,0,1
+6651,1,15274436,130 Willingdon/To Phibbs Exchange,,0,2186688,317596,0,1
+6651,1,15274437,130 Willingdon/To Phibbs Exchange,,0,2186699,317596,0,1
+6651,1,15274438,130 Willingdon/To Phibbs Exchange,,0,2187083,317596,0,1
+6651,1,15274439,130 Willingdon/To Phibbs Exchange,,0,2189604,317596,0,1
+6651,1,15274440,130 Willingdon/To Phibbs Exchange,,0,2189606,317596,0,1
+6651,1,15274441,130 Willingdon/To Phibbs Exchange,,0,2189375,317596,0,1
 6651,1,15274442,130 Willingdon/To Metrotown Station,,1,2186675,317600,0,1
 6651,1,15274443,130 Willingdon/To Metrotown Station,,1,2189648,317600,0,1
 6651,1,15274444,130 Willingdon/To Metrotown Station,,1,2186673,317599,0,1
 6651,1,15274445,130 Willingdon/To Metrotown Station,,1,2189482,317600,0,1
 6651,1,15274446,130 Willingdon/To Metrotown Station,,1,2186706,317599,0,1
-6651,1,15274447,130 Willingdon/To Metrotown Station,,1,2189481,318492,0,1
+6651,1,15274447,130 Willingdon/To Metrotown Station,,1,2189481,317601,0,1
 6651,1,15274448,130 Willingdon/To Metrotown Station,,1,2186672,317599,0,1
 6651,1,15274449,130 Willingdon/To Metrotown Station,,1,2186678,317600,0,1
-6651,1,15274450,130 Willingdon/To Metrotown Station,,1,2186683,318492,0,1
+6651,1,15274450,130 Willingdon/To Metrotown Station,,1,2186683,317601,0,1
 6651,1,15274451,130 Willingdon/To Metrotown Station,,1,2189375,317599,0,1
 6651,1,15274452,130 Willingdon/To Metrotown Station,,1,2186684,317599,0,1
 6651,1,15274453,130 Willingdon/To Metrotown Station,,1,2186046,317599,0,1
-6651,1,15274454,130 Willingdon/To Metrotown Station,,1,2189376,318492,0,1
+6651,1,15274454,130 Willingdon/To Metrotown Station,,1,2189376,317601,0,1
 6651,1,15274455,130 Willingdon/To Metrotown Station,,1,2189648,317600,0,1
 6651,1,15274456,130 Willingdon/To Metrotown Station,,1,2186702,317599,0,1
 6651,1,15274457,130 Willingdon/To Metrotown Station,,1,2189377,317599,0,1
 6651,1,15274458,130 Willingdon/To Metrotown Station,,1,2186685,317599,0,1
 6651,1,15274459,130 Willingdon/To Metrotown Station,,1,2189627,317600,0,1
-6651,1,15274460,130 Willingdon/To Metrotown Station,,1,2189605,318492,0,1
+6651,1,15274460,130 Willingdon/To Metrotown Station,,1,2189605,317601,0,1
 6651,101,15274461,130 Willingdon/To Metrotown Station,,1,2189609,317600,0,1
 6651,201,15274462,130 Willingdon/To Metrotown Station,,1,2189609,317600,0,1
 6651,1,15274463,130 Willingdon/To Metrotown Station,,1,2186683,317600,0,1
-6651,1,15274464,130 Willingdon/To Metrotown Station,,1,2189611,318492,0,1
+6651,1,15274464,130 Willingdon/To Metrotown Station,,1,2189611,317601,0,1
 6651,1,15274465,130 Willingdon/To Metrotown Station,,1,2186673,317600,0,1
 6651,1,15274466,130 Willingdon/To Metrotown Station,,1,2189379,317600,0,1
-6651,1,15274467,130 Willingdon/To Metrotown Station,,1,2189604,318492,0,1
+6651,1,15274467,130 Willingdon/To Metrotown Station,,1,2189604,317601,0,1
 6651,1,15274468,130 Willingdon/To Metrotown Station,,1,2186678,317600,0,1
 6651,1,15274469,130 Willingdon/To Metrotown Station,,1,2186684,317600,0,1
-6651,1,15274470,130 Willingdon/To Metrotown Station,,1,2186045,318492,0,1
+6651,1,15274470,130 Willingdon/To Metrotown Station,,1,2186045,317601,0,1
 6651,1,15274471,130 Willingdon/To Metrotown Station,,1,2186046,317600,0,1
 6651,1,15274472,130 Willingdon/To Metrotown Station,,1,2189376,317600,0,1
-6651,1,15274473,130 Willingdon/To Metrotown Station,,1,2189608,318492,0,1
+6651,1,15274473,130 Willingdon/To Metrotown Station,,1,2189608,317601,0,1
 6651,1,15274474,130 Willingdon/To Metrotown Station,,1,2186696,317600,0,1
 6651,1,15274475,130 Willingdon/To Metrotown Station,,1,2189611,317600,0,1
-6651,1,15274476,130 Willingdon/To Metrotown Station,,1,2189605,318492,0,1
+6651,1,15274476,130 Willingdon/To Metrotown Station,,1,2189605,317601,0,1
 6651,1,15274477,130 Willingdon/To Metrotown Station,,1,2189379,317600,0,1
 6651,1,15274478,130 Willingdon/To Metrotown Station,,1,2186678,317600,0,1
-6651,1,15274479,130 Willingdon/To Metrotown Station,,1,2186673,318492,0,1
+6651,1,15274479,130 Willingdon/To Metrotown Station,,1,2186673,317601,0,1
 6651,1,15274480,130 Willingdon/To Metrotown Station,,1,2186045,317600,0,1
 6651,1,15274481,130 Willingdon/To Metrotown Station,,1,2189608,317600,0,1
-6651,1,15274482,130 Willingdon/To Metrotown Station,,1,2187152,318492,0,1
-6651,1,15274483,130 Willingdon/To Metrotown Station,,1,2189376,318492,0,1
-6651,1,15274484,130 Willingdon/To Metrotown Station,,1,2187109,318492,0,1
-6651,1,15274485,130 Willingdon/To Metrotown Station,,1,2189375,318492,0,1
-6651,1,15274486,130 Willingdon/To Metrotown Station,,1,2189611,318492,0,1
-6651,1,15274487,130 Willingdon/To Metrotown Station,,1,2189599,318492,0,1
+6651,1,15274482,130 Willingdon/To Metrotown Station,,1,2187152,317601,0,1
+6651,1,15274483,130 Willingdon/To Metrotown Station,,1,2189376,317601,0,1
+6651,1,15274484,130 Willingdon/To Metrotown Station,,1,2187109,317601,0,1
+6651,1,15274485,130 Willingdon/To Metrotown Station,,1,2189375,317601,0,1
+6651,1,15274486,130 Willingdon/To Metrotown Station,,1,2189611,317601,0,1
+6651,1,15274487,130 Willingdon/To Metrotown Station,,1,2189599,317601,0,1
 6651,1,15274488,130 Willingdon/To Metrotown Station,,1,2186685,317600,0,1
-6651,1,15274489,130 Willingdon/To Metrotown Station,,1,2189376,318492,0,1
+6651,1,15274489,130 Willingdon/To Metrotown Station,,1,2189376,317601,0,1
 6651,1,15274490,130 Willingdon/To Metrotown Station,,1,2186045,317600,0,1
-6651,1,15274491,130 Willingdon/To Metrotown Station,,1,2186675,318492,0,1
+6651,1,15274491,130 Willingdon/To Metrotown Station,,1,2186675,317601,0,1
 6651,1,15274492,130 Willingdon/To Metrotown Station,,1,2189627,317600,0,1
-6651,1,15274493,130 Willingdon/To Metrotown Station,,1,2189671,318492,0,1
+6651,1,15274493,130 Willingdon/To Metrotown Station,,1,2189671,317601,0,1
 6651,1,15274494,130 Willingdon/To Metrotown Station,,1,2186046,317600,0,1
-6651,1,15274495,130 Willingdon/To Metrotown Station,,1,2186673,318492,0,1
+6651,1,15274495,130 Willingdon/To Metrotown Station,,1,2186673,317601,0,1
 6651,1,15274496,130 Willingdon/To Metrotown Station,,1,2186678,317600,0,1
 6651,1,15274497,130 Willingdon/To Metrotown Station,,1,2186684,317600,0,1
-6651,1,15274498,130 Willingdon/To Metrotown Station,,1,2189605,318492,0,1
+6651,1,15274498,130 Willingdon/To Metrotown Station,,1,2189605,317601,0,1
 6651,1,15274499,130 Willingdon/To Metrotown Station,,1,2189376,317600,0,1
 6651,1,15274500,130 Willingdon/To Metrotown Station,,1,2186675,317600,0,1
-6651,1,15274501,130 Willingdon/To Metrotown Station,,1,2189375,318492,0,1
-6651,1,15274502,130 Willingdon/To Metrotown Station,,1,2189604,318492,0,1
-6651,1,15274503,130 Willingdon/To Metrotown Station,,1,2186683,318492,0,1
-6651,1,15274504,130 Willingdon/To Metrotown Station,,1,2186045,318492,0,1
-6651,1,15274505,130 Willingdon/To Metrotown Station,,1,2189627,318492,0,1
-6651,1,15274506,130 Willingdon/To Metrotown Station,,1,2189671,318492,0,1
-6651,1,15274507,130 Willingdon/To Metrotown Station,,1,2186046,318492,0,1
-6651,1,15274508,130 Willingdon/To Metrotown Station,,1,2186673,318492,0,1
-6651,1,15274509,130 Willingdon/To Metrotown Station,,1,2186678,318492,0,1
-6651,1,15274510,130 Willingdon/To Metrotown Station,,1,2186684,318492,0,1
-6651,1,15274511,130 Willingdon/To Metrotown Station,,1,2189605,318492,0,1
-6651,1,15274512,130 Willingdon/To Metrotown Station,,1,2189376,318492,0,1
-6651,1,15274513,130 Willingdon/To Metrotown Station,,1,2186675,318492,0,1
-6651,1,15274514,130 Willingdon/To Metrotown Station,,1,2189375,318492,0,1
-6651,1,15274515,130 Willingdon/To Metrotown Station,,1,2189604,318492,0,1
-6651,1,15274516,130 Willingdon/To Metrotown Station,,1,2186683,318492,0,1
-6651,1,15274517,130 Willingdon/To Metrotown Station,,1,2186045,318492,0,1
-6651,1,15274518,130 Willingdon/To Metrotown Station,,1,2189627,318492,0,1
-6651,1,15274519,130 Willingdon/To Metrotown Station,,1,2189671,318492,0,1
-6651,1,15274520,130 Willingdon/To Metrotown Station,,1,2186046,318492,0,1
-6651,1,15274521,130 Willingdon/To Metrotown Station,,1,2186673,318492,0,1
-6651,1,15274522,130 Willingdon/To Metrotown Station,,1,2186678,318492,0,1
-6651,1,15274523,130 Willingdon/To Metrotown Station,,1,2186684,318492,0,1
-6651,1,15274524,130 Willingdon/To Metrotown Station,,1,2189605,318492,0,1
-6651,1,15274525,130 Willingdon/To Metrotown Station,,1,2189376,318492,0,1
-6651,1,15274526,130 Willingdon/To Metrotown Station,,1,2186675,318492,0,1
-6651,1,15274527,130 Willingdon/To Metrotown Station,,1,2189375,318492,0,1
+6651,1,15274501,130 Willingdon/To Metrotown Station,,1,2189375,317601,0,1
+6651,1,15274502,130 Willingdon/To Metrotown Station,,1,2189604,317601,0,1
+6651,1,15274503,130 Willingdon/To Metrotown Station,,1,2186683,317601,0,1
+6651,1,15274504,130 Willingdon/To Metrotown Station,,1,2186045,317601,0,1
+6651,1,15274505,130 Willingdon/To Metrotown Station,,1,2189627,317601,0,1
+6651,1,15274506,130 Willingdon/To Metrotown Station,,1,2189671,317601,0,1
+6651,1,15274507,130 Willingdon/To Metrotown Station,,1,2186046,317601,0,1
+6651,1,15274508,130 Willingdon/To Metrotown Station,,1,2186673,317601,0,1
+6651,1,15274509,130 Willingdon/To Metrotown Station,,1,2186678,317601,0,1
+6651,1,15274510,130 Willingdon/To Metrotown Station,,1,2186684,317601,0,1
+6651,1,15274511,130 Willingdon/To Metrotown Station,,1,2189605,317601,0,1
+6651,1,15274512,130 Willingdon/To Metrotown Station,,1,2189376,317601,0,1
+6651,1,15274513,130 Willingdon/To Metrotown Station,,1,2186675,317601,0,1
+6651,1,15274514,130 Willingdon/To Metrotown Station,,1,2189375,317601,0,1
+6651,1,15274515,130 Willingdon/To Metrotown Station,,1,2189604,317601,0,1
+6651,1,15274516,130 Willingdon/To Metrotown Station,,1,2186683,317601,0,1
+6651,1,15274517,130 Willingdon/To Metrotown Station,,1,2186045,317601,0,1
+6651,1,15274518,130 Willingdon/To Metrotown Station,,1,2189627,317601,0,1
+6651,1,15274519,130 Willingdon/To Metrotown Station,,1,2189671,317601,0,1
+6651,1,15274520,130 Willingdon/To Metrotown Station,,1,2186046,317601,0,1
+6651,1,15274521,130 Willingdon/To Metrotown Station,,1,2186673,317601,0,1
+6651,1,15274522,130 Willingdon/To Metrotown Station,,1,2186678,317601,0,1
+6651,1,15274523,130 Willingdon/To Metrotown Station,,1,2186684,317601,0,1
+6651,1,15274524,130 Willingdon/To Metrotown Station,,1,2189605,317601,0,1
+6651,1,15274525,130 Willingdon/To Metrotown Station,,1,2189376,317601,0,1
+6651,1,15274526,130 Willingdon/To Metrotown Station,,1,2186675,317601,0,1
+6651,1,15274527,130 Willingdon/To Metrotown Station,,1,2189375,317601,0,1
 6651,1,15274528,130 Willingdon/To Metrotown Station,,1,2189627,317600,0,1
-6651,1,15274529,130 Willingdon/To Metrotown Station,,1,2189604,318492,0,1
-6651,1,15274530,130 Willingdon/To Metrotown Station,,1,2186683,318492,0,1
+6651,1,15274529,130 Willingdon/To Metrotown Station,,1,2189604,317601,0,1
+6651,1,15274530,130 Willingdon/To Metrotown Station,,1,2186683,317601,0,1
 6651,1,15274531,130 Willingdon/To Metrotown Station,,1,2186673,317600,0,1
-6651,1,15274532,130 Willingdon/To Metrotown Station,,1,2186045,318492,0,1
-6651,1,15274533,130 Willingdon/To Metrotown Station,,1,2186687,318492,0,1
+6651,1,15274532,130 Willingdon/To Metrotown Station,,1,2186045,317601,0,1
+6651,1,15274533,130 Willingdon/To Metrotown Station,,1,2186687,317601,0,1
 6651,1,15274534,130 Willingdon/To Metrotown Station,,1,2186678,317600,0,1
-6651,1,15274535,130 Willingdon/To Metrotown Station,,1,2189608,318492,0,1
+6651,1,15274535,130 Willingdon/To Metrotown Station,,1,2189608,317601,0,1
 6651,1,15274536,130 Willingdon/To Metrotown Station,,1,2186684,317600,0,1
-6651,1,15274537,130 Willingdon/To Metrotown Station,,1,2186046,318492,0,1
+6651,1,15274537,130 Willingdon/To Metrotown Station,,1,2186046,317601,0,1
 6651,1,15274538,130 Willingdon/To Metrotown Station,,1,2186693,317600,0,1
-6651,1,15274539,130 Willingdon/To Metrotown Station,,1,2186705,318492,0,1
+6651,1,15274539,130 Willingdon/To Metrotown Station,,1,2186705,317601,0,1
 6651,1,15274540,130 Willingdon/To Metrotown Station,,1,2186672,317600,0,1
 6651,1,15274541,130 Willingdon/To Metrotown Station,,1,2186694,317600,0,1
-6651,1,15274542,130 Willingdon/To Metrotown Station,,1,2186706,318492,0,1
+6651,1,15274542,130 Willingdon/To Metrotown Station,,1,2186706,317601,0,1
 6651,1,15274543,130 Willingdon/To Metrotown Station,,1,2186046,317600,0,1
 6651,1,15274544,130 Willingdon/To Metrotown Station,,1,2189679,317600,0,1
 6651,1,15274545,130 Willingdon/To Metrotown Station,,1,2189648,317600,0,1
 6651,1,15274546,130 Willingdon/To Metrotown Station,,1,2189375,317600,0,1
-6651,1,15274547,130 Willingdon/To Metrotown Station,,1,2186673,318492,0,1
-6651,1,15274548,130 Willingdon/To Metrotown Station,,1,2189375,318492,0,1
-6651,1,15274549,130 Willingdon/To Metrotown Station,,1,2189611,318492,0,1
-6651,1,15274550,130 Willingdon/To Metrotown Station,,1,2189481,318492,0,1
+6651,1,15274547,130 Willingdon/To Metrotown Station,,1,2186673,317601,0,1
+6651,1,15274548,130 Willingdon/To Metrotown Station,,1,2189375,317601,0,1
+6651,1,15274549,130 Willingdon/To Metrotown Station,,1,2189611,317601,0,1
+6651,1,15274550,130 Willingdon/To Metrotown Station,,1,2189481,317601,0,1
 6651,1,15274551,130 Willingdon/To Metrotown Station,,1,2189611,317600,0,1
 6651,1,15274552,130 Willingdon/To Metrotown Station,,1,2189611,317600,0,1
 6651,1,15274553,130 Willingdon/To Metrotown Station,,1,2189611,317600,0,1
@@ -60599,18 +60599,18 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6651,1,15274555,130 Willingdon/To Metrotown Station,,1,2189606,317600,0,1
 6651,1,15274556,130 Willingdon/To Metrotown Station,,1,2189606,317600,0,1
 6651,1,15274557,130 Willingdon/To Metrotown Station,,1,2189606,317600,0,1
-6651,1,15274558,130 Willingdon/To Metrotown Station,,1,2187083,318492,0,1
-6651,1,15274559,130 Willingdon/To Metrotown Station,,1,2189599,318492,0,1
-6651,1,15274560,130 Willingdon/To Metrotown Station,,1,2189606,318492,0,1
-6651,1,15274561,130 Willingdon/To Metrotown Station,,1,2186675,318492,0,1
-6651,1,15274562,130 Willingdon/To Metrotown Station,,1,2186688,318492,0,1
-6651,1,15274563,130 Willingdon/To Metrotown Station,,1,2186699,318492,0,1
+6651,1,15274558,130 Willingdon/To Metrotown Station,,1,2187083,317601,0,1
+6651,1,15274559,130 Willingdon/To Metrotown Station,,1,2189599,317601,0,1
+6651,1,15274560,130 Willingdon/To Metrotown Station,,1,2189606,317601,0,1
+6651,1,15274561,130 Willingdon/To Metrotown Station,,1,2186675,317601,0,1
+6651,1,15274562,130 Willingdon/To Metrotown Station,,1,2186688,317601,0,1
+6651,1,15274563,130 Willingdon/To Metrotown Station,,1,2186699,317601,0,1
 6651,101,15274564,130 Willingdon/To Metrotown Station,,1,2186700,317598,0,1
-6651,1,15274565,130 Willingdon/To Metrotown Station,,1,2189375,318492,0,1
+6651,1,15274565,130 Willingdon/To Metrotown Station,,1,2189375,317601,0,1
 6651,1,15274566,130 Willingdon/To Metrotown Station,,1,2186694,317600,0,1
-6651,1,15274567,130 Willingdon/To Metrotown Station,,1,2189605,318492,0,1
-6651,1,15274568,130 Willingdon/To Metrotown Station,,1,2189606,318492,0,1
-6651,1,15274569,130 Willingdon/To Metrotown Station,,1,2186707,318492,0,1
+6651,1,15274567,130 Willingdon/To Metrotown Station,,1,2189605,317601,0,1
+6651,1,15274568,130 Willingdon/To Metrotown Station,,1,2189606,317601,0,1
+6651,1,15274569,130 Willingdon/To Metrotown Station,,1,2186707,317601,0,1
 6651,101,15274570,130 Willingdon/To Metrotown Station,,1,2186701,317598,0,1
 6614,1,15274571,4 Powell,,0,2185363,318518,0,1
 6614,1,15274572,4 UBC Exchange,,1,2185371,318524,0,1
@@ -63063,7 +63063,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 30055,1,15278616,23 Pacific/To Main St Station,,0,2189613,317450,0,1
 30055,1,15278617,23 Pacific/To Main St Station,,0,2189612,317450,0,1
 30055,1,15278618,23 Pacific/To Main St Station,,0,2185921,317450,0,1
-39305,201,15278619,222 Willingdon Express/To Metrotown Station,,1,2186696,318494,0,1
+39305,201,15278619,222 Willingdon Express/To Metrotown Station,,1,2186696,317769,0,1
 16718,291101,15278620,14 Hastings,,0,2189614,318499,0,1
 16718,291101,15278621,14 Hastings,,0,2189615,318499,0,1
 16718,291101,15278622,14 Hastings,,0,2189616,318499,0,1
@@ -63644,7 +63644,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6624,291703,15279202,19 Pender To Broadway,,0,2189668,318503,0,1
 6624,291703,15279203,19 Pender To Broadway,,0,2189669,318503,0,1
 6624,291703,15279204,19 Pender To Broadway,,0,2189667,318503,0,1
-39305,201,15279205,222 Willingdon Express/To Metrotown Station,,1,2189675,318494,0,1
+39305,201,15279205,222 Willingdon Express/To Metrotown Station,,1,2189675,317769,0,1
 6673,2,15279206,211 Burrard Station,,1,2187085,317751,0,1
 6673,2,15279207,211 Burrard Station,,1,2189692,317751,0,1
 6673,2,15279208,211 Burrard Station,,1,2187085,317751,0,1
@@ -68867,22 +68867,22 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6771,292303,15379873,SeaBus Southbound To Waterfront,,1,2195739,318419,0,1
 6771,292303,15379874,SeaBus Southbound To Waterfront,,1,2195739,318419,0,1
 6771,292303,15379875,SeaBus Southbound To Waterfront,,1,2195739,318419,0,1
-6771,292301,15379876,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379877,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379878,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379879,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379880,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379881,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379882,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379883,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
-6771,292301,15379884,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379885,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379886,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379887,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379888,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379889,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379890,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
-6771,292301,15379891,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379876,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379877,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379878,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379879,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379880,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379881,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379882,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379883,SeaBus Northbound To Lonsdale Quay,,0,2195749,318418,0,1
+6771,1201,15379884,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379885,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379886,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379887,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379888,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379889,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379890,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
+6771,1201,15379891,SeaBus Southbound To Waterfront,,1,2195749,318419,0,1
 6771,292501,15379893,SeaBus Northbound To Lonsdale Quay,,0,2195752,318418,0,1
 6771,292501,15379894,SeaBus Northbound To Lonsdale Quay,,0,2195754,318418,0,1
 6771,292501,15379895,SeaBus Northbound To Lonsdale Quay,,0,2195753,318418,0,1
