@@ -375,6 +375,8 @@
 531,1,White Rock Centre,1
 555,0,Carvolth Exchange,0
 555,1,Lougheed Station,1
+556,0,Gloucester,0
+556,1,Langley Centre,1
 560,0,Murrayville,0
 560,1,Langley Centre,1
 561,0,Brookswood,0
@@ -488,8 +490,8 @@ SeaBus,0,Lonsdale Quay,0
 SeaBus,1,Waterfront,1
 R1,0,King George Blvd to Guildford,0
 R1,1,King George Blvd to Newton Exchange,1
-R2,0,Marine Drive to Phibbs Exchange,0
-R2,1,Marine Drive to Park Royal,1
+R2,0,Metrotown Station,0
+R2,1,Park Royal,1
 R3,0,Lougheed Hwy to Haney Place,0
 R3,1,Lougheed Hwy to Coq Ctrl Station,1
 R4,0,41st Ave to Joyce Station,0
