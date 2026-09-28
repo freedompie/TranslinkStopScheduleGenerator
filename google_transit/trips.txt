@@ -26104,7 +26104,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6700,1,15482696,312 112 Street/To Scott Rd Station,,0,2201854,321882,0,1
 6700,1,15482697,312 112 Street/To Scott Rd Station,,0,2201853,321882,0,1
 6700,1,15482698,312 112 Street/To Scott Rd Station,,0,2201852,321882,0,1
-6700,101,15482699,312 112 Street/To Scott Rd Station,,0,2201870,321882,0,1
+6700,1,15482699,312 112 Street/To Scott Rd Station,,0,2201870,321882,0,1
 6700,1,15482701,312 112 Street/To Scottsdale,,1,2201853,321886,0,1
 6700,1,15482702,312 112 Street/To Scottsdale,,1,2204572,321885,0,1
 6700,1,15482703,312 112 Street/To Scottsdale,,1,2201859,321885,0,1
@@ -26153,7 +26153,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6700,1,15482746,312 112 Street/To Scottsdale,,1,2201857,321885,0,1
 6700,1,15482747,312 112 Street/To Scottsdale,,1,2201871,321885,0,1
 6700,1,15482748,312 112 Street/To Scottsdale,,1,2201857,321885,0,1
-6700,101,15482749,312 112 Street/To Scottsdale,,1,2201870,321884,0,1
+6700,1,15482749,312 112 Street/To Scottsdale,,1,2201870,321884,0,1
 6700,1,15482750,312 112 Street/To Scottsdale,,1,2201860,321885,0,1
 6700,1,15482751,312 112 Street/To Scottsdale,,1,2201860,321885,0,1
 6700,2,15482752,312 112 Street/To Scott Rd Station,,0,2201881,321883,0,1
@@ -60083,7 +60083,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 20667,1,15525334,555 Port Mann Exp/To Lougheed Station,,1,2202827,322167,0,1
 20667,1,15525335,555 Port Mann Exp/To Lougheed Station,,1,2202825,322167,0,1
 20667,1,15525336,555 Port Mann Exp/To Lougheed Station,,1,2202829,322167,0,1
-6700,201,15525337,312 112 Street/To Scottsdale,,1,2201870,321884,0,1
 31820,1,15525338,372 Langley Centre,,0,2202473,322026,0,1
 30037,1,15525339,171 Coquitlam Central Station,,1,2201320,321648,0,1
 30038,1,15525340,172 Riverside,,0,2201320,321650,0,1
@@ -63020,4 +63019,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6687,201,15726061,250 Vancouver,,0,2201651,321814,0,1
 6687,1,15726062,250 Dundarave To 25th & Marine,,1,2201651,321821,0,1
 6673,101,15726404,211 Seymour,,0,2201437,321714,0,1
+30038,401,15731134,172 Riverside,,0,2218924,321650,0,1
+30037,401,15731135,171 Coquitlam Central Station,,1,2218924,321648,0,1
 HD,-999,48441,,,0,NA,4484,2,0
