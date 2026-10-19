@@ -1,85 +1,85 @@
 ﻿route_name,direction_id,direction_name,direction_do
-1,0,Downtown South Circulator to Yaletown,0
-1,1,Downtown South Circulator to Downtown,1
+1,0,Yaletown Station,0
+1,1,Downtown,1
 2,0,Burrard Station,0
-2,1,Dunbar Loop/Macdonald-16th Ave,1
+2,1,16th Ave/Dunbar Loop,1
 3,0,Waterfront Station,0
-3,1,Main-Marine Drive Station,1
+3,1,Marine Drive Station,1
 4,0,Downtown/Powell,0
-4,1,UBC,1
+4,1,UBC Exchange,1
 5,0,Downtown,0
-5,1,Robson,1
+5,1,English Bay,1
 6,0,Downtown,0
-6,1,Davie,1
+6,1,English Bay,1
 7,0,Nanaimo Station,0
 7,1,Dunbar,1
-8,0,Fraser/SE Marine Dr,0
+8,0,SE Marine Drive,0
 8,1,Waterfront Station,1
-9,0,Commercial-Broadway Station/Boundary,0
-9,1,Granville/Alma/UBC,1
+9,0,Boundary Loop,0
+9,1,Granville St/Alma St/UBC Exchange,1
 10,0,Waterfront Station,0
-10,1,Granville/Marine Dr Station,1
-11,0,FIFA Fan Festival Express,0
-11,1,29th Ave Stn Express,1
+10,1,Marine Drive Station,1
+11,0,FIFA Fan Festival,0
+11,1,29th Avenue Station,1
 14,0,Downtown/Hastings,0
-14,1,UBC,1
+14,1,UBC Exchange,1
 15,0,Olympic Village Station,0
-15,1,Cambie,1
-16,0,29th Ave Station,0
+15,1,Marine Drive Station,1
+16,0,29th Avenue Station,0
 16,1,Arbutus,1
 17,0,Downtown,0
-17,1,Oak,1
+17,1,Marine Drive Station,1
 19,0,Metrotown Station,0
 19,1,Stanley Park,1
-20,0,Downtown/Victoria to 41st Ave,0
-20,1,Victoria/ Victoria to 41st Ave/Victoria to 54th Ave,1
-22,0,Knight,0
-22,1,Downtown,1
+20,0,Downtown,0
+20,1,SE Marine Drive,1
+22,0,SE Marine Drive,0
+22,1,Burrard Station,1
 23,0,Main Street Station,0
 23,1,English Bay,1
 25,0,Brentwood Station,0
-25,1,UBC,1
+25,1,UBC Exchange,1
 26,0,Joyce Station,0
-26,1,29th Ave Station,1
+26,1,29th Avenue Station,1
 27,0,Kootenay Loop,0
-27,1,Joyce Station/To Kingsway,1
-28,0,Phibbs Exchange/Kootenay Loop,0
-28,1,Joyce Station/Kootenay Loop,1
-29,0,29th Ave Station,0
+27,1,Joyce Station,1
+28,0,Phibbs Exchange,0
+28,1,Joyce Station,1
+29,0,29th Avenue Station,0
 29,1,Elliott,1
 31,0,Metrotown Station,0
 31,1,River District,1
 32,0,Downtown,0
 32,1,Dunbar,1
-33,0,29th Ave Station,0
-33,1,UBC,1
-41,0,Joyce Station/To Granville St,0
-41,1,Crown/To Granville St/Oak St,1
+33,0,29th Avenue Station,0
+33,1,UBC Exchange,1
+41,0,Joyce Station,0
+41,1,Crown St,1
 42,0,Alma,0
 42,1,Spanish Banks,1
-44,0,Downtown/Dundrave Express,0
-44,1,UBC,1
+44,0,Downtown/Dundarave,0
+44,1,UBC Exchange,1
 49,0,Metrotown Station,0
-49,1,UBC,1
+49,1,UBC Exchange,1
 50,0,Waterfront Station,0
 50,1,False Creek South,1
 68,0,UBC Exchange,0
 68,1,Wesbrook Village,1
 80,0,River District,0
 80,1,Marine Drive Station,1
-84,0,VCC-Clark Station,0
-84,1,UBC,1
-99,0,Commercial-Broadway Station B-Line/To Boundary B-Line,0
-99,1,UBC B-Line,1
-100,0,22nd St Station/22nd St Station via Trapp,0
-100,1,Marpole/Marpole via Trapp,1
+84,0,VCC—Clark Station,0
+84,1,UBC Exchange,1
+99,0,Commercial—Broadway Station/Boundary Loop,0
+99,1,UBC Exchange,1
+100,0,22nd Street Station,0
+100,1,Marpole Loop,1
 101,0,Lougheed Station,0
-101,1,22nd St Station,1
+101,1,22nd Street Station,1
 102,0,Victoria Hill,0
 102,1,New Westminster Station,1
 103,0,New Westminster Station,0
 103,1,Quayside,1
-104,0,22nd St Station,0
+104,0,22nd Street Station,0
 104,1,Annacis Island,1
 105,0,Uptown,0
 105,1,New Westminster Station,1
@@ -98,7 +98,7 @@
 123,0,New Westminster Station,0
 123,1,Brentwood Station,1
 128,0,Braid Station,0
-128,1,22nd St Station,1
+128,1,22nd Street Station,1
 129,0,Holdom Station,0
 129,1,Patterson Station,1
 130,0,Kootenay Loop/Phibbs Exchange,0
@@ -114,10 +114,10 @@
 136,0,Lougheed Station,0
 136,1,Brentwood Station,1
 143,0,Burquitlam Station,0
-143,1,SFU,1
-144,0,SFU,0
+143,1,SFU Exchange,1
+144,0,SFU Exchange,0
 144,1,Metrotown Station,1
-145,0,SFU,0
+145,0,SFU Exchange,0
 145,1,Production Station,1
 146,0,Metrotown Station,0
 146,1,Suncrest,1
@@ -177,7 +177,7 @@
 187,1,Coquitlam Central Station,1
 188,0,Port Coquitlam Station,0
 188,1,Coquitlam Central Station,1
-189,0,Lafarge,0
+189,0,Lafarge Park,0
 189,1,Coquitlam Central Station,1
 191,0,Princeton,0
 191,1,Coquitlam Central Station,1
@@ -240,8 +240,8 @@
 257,0,Vancouver,0
 257,1,Horseshoe Bay,1
 258,0,West Vancouver,0
-258,1,UBC,1
-262,0,Lions Bay/Brunswick,0
+258,1,UBC Exchange,1
+262,0,Lions Bay—Brunswick,0
 262,1,Caulfeild,1
 280,0,Snug Cove,0
 280,1,Bluewater,1
@@ -258,15 +258,15 @@
 312,0,Scott Road Station,0
 312,1,Scottsdale,1
 314,0,Surrey Central Station,0
-314,1,Scott & 96/Sunbury,1
+314,1,Scott & 96 Ave/Sunbury,1
 316,0,Surrey Central Station,0
 316,1,Scottsdale,1
 319,0,Scott Road Station,0
 319,1,Newton Exchange,1
 320,0,Fleetwood/Langley Centre,0
 320,1,Surrey Central Station,1
-321,0,Surrey Central Station,0
-321,1,Newton Exchange/White Rock Centre/White Rock South,1
+321,0,Surrey Central Station/Scott Road Station,0
+321,1,White Rock Centre/White Rock South,1
 322,0,Newton Exchange,0
 322,1,Scottsdale,1
 323,0,Surrey Central Station,0
@@ -286,7 +286,7 @@
 338,0,East Fraser Heights,0
 338,1,Guildford,1
 340,0,Scottsdale,0
-340,1,22nd St Station,1
+340,1,22nd Street Station,1
 341,0,Guildford,0
 341,1,Newton Exchange,1
 342,0,Langley Centre,0
@@ -298,7 +298,7 @@
 351,0,Bridgeport Station,0
 351,1,White Rock Centre,1
 352,0,Bridgeport Station,0
-352,1,Ocean Park,1
+352,1,White Rock Centre,1
 354,0,Bridgeport Station,0
 354,1,White Rock South,1
 360,0,Peace Arch Hospital,0
@@ -322,7 +322,7 @@
 375,0,Guildford,0
 375,1,White Rock South,1
 388,0,Carvolth Exchange,0
-388,1,22nd St Station,1
+388,1,22nd Street Station,1
 391,0,Scott Road Station,0
 391,1,Scottsdale,1
 393,0,Surrey Central Station,0
@@ -347,7 +347,7 @@
 407,1,Gilbert,1
 408,0,Ironwood/Riverport,0
 408,1,Brighouse Station,1
-410,0,22nd St Station,0
+410,0,22nd Street Station,0
 410,1,Brighouse Station,1
 412,0,Bridgeport Station,0
 412,1,Sea Island South,1
@@ -357,12 +357,12 @@
 414,1,Richmond Oval,1
 416,0,East Cambie,0
 416,1,Brighouse Station,1
-418,0,22nd St Station,0
+418,0,22nd Street Station,0
 418,1,Kingswood,1
 430,0,Metrotown Station,0
 430,1,Brighouse Station,1
 480,0,Bridgeport Station,0
-480,1,UBC,1
+480,1,UBC Exchange,1
 501,0,Surrey Central Station,0
 501,1,Langley Centre,1
 502,0,Langley Centre,0
@@ -389,20 +389,20 @@
 564,1,Langley Centre,1
 566,0,Langley Centre,0
 566,1,Campbell Valley,1
-595,0,Maple Meadows Station,0
+595,0,Maple Meadows Station/Dewdney Trunk Rd,0
 595,1,Langley Centre,1
 601,0,Bridgeport Station,0
-601,1,South Delta/Boundary Bay/Ladner Exchange/South Delta Exchange,1
+601,1,South Delta,1
 602,0,Bridgeport Station,0
 602,1,Tsawwassen Heights,1
 603,0,South Delta Exchange/Bridgeport Station,0
 603,1,Beach Grove,1
 604,0,Bridgeport Station,0
 604,1,English Bluff,1
-606,0,Ladner Ring to Ladner Exchange,0
-606,1,Ladner Ring to West Ladner,1
-608,0,Ladner Ring to Ladner Exchange,0
-608,1,Ladner Ring to West Ladner,1
+606,0,Ladner Exchange,0
+606,1,West Ladner,1
+608,0,Ladner Exchange,0
+608,1,West Ladner,1
 609,0,Ladner Exchange,0
 609,1,South Delta Exchange,1
 614,0,South Delta Exchange,0
@@ -458,26 +458,26 @@
 881,1,Pemberton Heights,1
 894,0,Surrey Central Station,0
 894,1,King George Station,1
-N10,0,YVR-Downtown NightBus,0
-N10,1,YVR-Brighouse Station NightBus,1
-N15,0,Downtown NightBus,0
-N15,1,Cambie NightBus,1
-N17,0,Downtown NightBus,0
-N17,1,UBC NightBus,1
-N19,0,Surrey Central Station NightBus,0
-N19,1,Downtown NightBus,1
-N20,0,Downtown NightBus,0
-N20,1,Victoria NightBus,1
-N22,0,Downtown NightBus,0
-N22,1,Macdonald NightBus,1
-N24,0,Lynn Valley NightBus,0
-N24,1,Downtown NightBus,1
-N35,0,SFU NightBus,0
-N35,1,Downtown NightBus,1
-N8,0,Fraser NightBus,0
-N8,1,Downtown NightBus,1
-N9,0,Coquitlam Central Station NightBus,0
-N9,1,Downtown NightBus,1
+N10,0,Downtown,0
+N10,1,Brighouse Station,1
+N15,0,Downtown,0
+N15,1,Marine Drive Station,1
+N17,0,Downtown,0
+N17,1,UBC Exchange,1
+N19,0,Surrey Central Station,0
+N19,1,Downtown,1
+N20,0,Downtown,0
+N20,1,Marine Drive Station,1
+N22,0,Downtown,0
+N22,1,Dunbar Loop,1
+N24,0,Lynn Valley,0
+N24,1,Downtown,1
+N35,0,SFU Exchange,0
+N35,1,Downtown,1
+N8,0,Marine Drive Station,0
+N8,1,Downtown,1
+N9,0,Coquitlam Central Station,0
+N9,1,Downtown,1
 Canada Line,0,Northbound,0
 Canada Line,1,Southbound,1
 Expo Line,0,Eastbound,0
@@ -488,17 +488,17 @@ WCE,0,Mission City,0
 WCE,1,Waterfront,1
 SeaBus,0,Lonsdale Quay,0
 SeaBus,1,Waterfront,1
-R1,0,King George Blvd to Guildford,0
-R1,1,King George Blvd to Newton Exchange,1
+R1,0,Guildford,0
+R1,1,Newton Exchange,1
 R2,0,Metrotown Station,0
 R2,1,Park Royal,1
-R3,0,Lougheed Hwy to Haney Place,0
-R3,1,Lougheed Hwy to Coq Ctrl Station,1
-R4,0,41st Ave to Joyce Station,0
-R4,1,41st Ave to UBC,1
-R5,0,Hastings St to SFU,0
-R5,1,Hastings St to Burrard Station,1
-R6,0,Scott Rd to Scott Road Station,0
-R6,1,Scott Rd to Newton Exchange,1
-900,0,Bike Bus to Bridgeport Station,0
-900,1,Bike Bus to Tsawwassen Ferry,1
+R3,0,Haney Place,0
+R3,1,Coquitlam Central Station,1
+R4,0,Joyce Station,0
+R4,1,UBC Exchange,1
+R5,0,SFU Exchange,0
+R5,1,Burrard Station,1
+R6,0,Scott Road Station,0
+R6,1,Newton Exchange,1
+900,0,Bridgeport Station,0
+900,1,Tsawwassen Ferry,1
