@@ -62987,4 +62987,6 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6673,101,15726404,211 Seymour,,0,2201437,321714,0,1
 30038,401,15731134,172 Riverside,,0,2218924,321650,0,1
 30037,401,15731135,171 Coquitlam Central Station,,1,2218924,321648,0,1
+6770,92402,15732451,West Coast Express Train To Mission,,0,2219134,322383,0,1
+6770,92402,15732452,West Coast Express Train To Waterfront,,1,2219133,322384,0,1
 HD,-999,48441,,,0,NA,4484,2,0

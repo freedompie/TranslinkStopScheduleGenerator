@@ -67,9 +67,9 @@
 68,1,Wesbrook Village,1
 80,0,River District,0
 80,1,Marine Drive Station,1
-84,0,VCC—Clark Station,0
+84,0,VCC-Clark Station,0
 84,1,UBC Exchange,1
-99,0,Commercial—Broadway Station/Boundary Loop,0
+99,0,Commercial-Broadway Station/Boundary Loop,0
 99,1,UBC Exchange,1
 100,0,22nd Street Station,0
 100,1,Marpole Loop,1
@@ -241,7 +241,7 @@
 257,1,Horseshoe Bay,1
 258,0,West Vancouver,0
 258,1,UBC Exchange,1
-262,0,Lions Bay—Brunswick,0
+262,0,Lions Bay-Brunswick,0
 262,1,Caulfeild,1
 280,0,Snug Cove,0
 280,1,Bluewater,1
