@@ -42549,84 +42549,84 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 6749,701,15499333,701 Maple Ridge E.via Arch. Carney,,0,2204642,322249,0,1
 6749,101,15499334,701 Maple Ridge East,,0,2202942,322247,0,1
 6749,1,15499335,701 Coquitlam Central Station,,1,2201208,322255,0,1
-6749,101,15499336,701 Coquitlam Central Station,,1,2201256,322255,0,1
-6749,1,15499337,701 Coquitlam Central Station,,1,2201210,322255,0,1
-6749,1,15499338,701 Coquitlam Central Station,,1,2201210,322255,0,1
+6749,101,15499336,701 Coquitlam Central Station,,1,2201256,326315,0,1
+6749,1,15499337,701 Coquitlam Central Station,,1,2201210,326315,0,1
+6749,1,15499338,701 Coquitlam Central Station,,1,2201210,326315,0,1
 6749,1,15499339,701 Coquitlam Central Station,,1,2201210,322255,0,1
 6749,1,15499340,701 Coquitlam Central Station,,1,2201210,322255,0,1
-6749,1,15499341,701 Coquitlam Central Station,,1,2201218,322255,0,1
+6749,1,15499341,701 Coquitlam Central Station,,1,2201218,326315,0,1
 6749,1,15499342,701 Coquitlam Central Station,,1,2204667,322255,0,1
-6749,101,15499343,701 Coquitlam Central Station,,1,2204669,322256,0,1
-6749,1,15499344,701 Coquitlam Central Station,,1,2204662,322255,0,1
-6749,1,15499345,701 Coquitlam Central Station,,1,2204662,322255,0,1
-6749,1,15499346,701 Coquitlam Central Station,,1,2204674,322255,0,1
+6749,101,15499343,701 Coquitlam Central Station,,1,2204669,326316,0,1
+6749,1,15499344,701 Coquitlam Central Station,,1,2204662,326315,0,1
+6749,1,15499345,701 Coquitlam Central Station,,1,2204662,326315,0,1
+6749,1,15499346,701 Coquitlam Central Station,,1,2204674,326315,0,1
 6749,1,15499347,701 Coquitlam Central Station,,1,2202946,322255,0,1
 6749,1,15499348,701 Coquitlam Central Station,,1,2204636,322256,0,1
 6749,1,15499349,701 Coquitlam Central Station,,1,2204669,322253,0,1
-6749,1,15499350,701 Coquitlam Central Station,,1,2204669,322255,0,1
-6749,1,15499351,701 Coquitlam Central Station,,1,2204669,322255,0,1
-6749,1,15499352,701 Coquitlam Central Station,,1,2205251,322255,0,1
-6749,1,15499353,701 Coquitlam Central Station,,1,2201019,322255,0,1
-6749,1,15499354,701 Coquitlam Central Station,,1,2202946,322255,0,1
-6749,1,15499355,701 Coquitlam Central Station,,1,2201220,322255,0,1
-6749,1,15499356,701 Coquitlam Central Station,,1,2202945,322255,0,1
-6749,1,15499357,701 Coquitlam Central Station,,1,2201192,322255,0,1
-6749,1,15499358,701 Coquitlam Central Station,,1,2202946,322255,0,1
+6749,1,15499350,701 Coquitlam Central Station,,1,2204669,326315,0,1
+6749,1,15499351,701 Coquitlam Central Station,,1,2204669,326315,0,1
+6749,1,15499352,701 Coquitlam Central Station,,1,2205251,326315,0,1
+6749,1,15499353,701 Coquitlam Central Station,,1,2201019,326315,0,1
+6749,1,15499354,701 Coquitlam Central Station,,1,2202946,326315,0,1
+6749,1,15499355,701 Coquitlam Central Station,,1,2201220,326315,0,1
+6749,1,15499356,701 Coquitlam Central Station,,1,2202945,326315,0,1
+6749,1,15499357,701 Coquitlam Central Station,,1,2201192,326315,0,1
+6749,1,15499358,701 Coquitlam Central Station,,1,2202946,326315,0,1
 6749,1,15499359,701 Coquitlam Central Station,,1,2202945,322255,0,1
 6749,1,15499360,701 Coquitlam Central Station,,1,2201220,322253,0,1
 6749,1,15499361,701 Coquitlam Central Station,,1,2202946,322255,0,1
 6749,1,15499362,701 Coquitlam Central Station,,1,2202945,322255,0,1
 6749,1,15499363,701 Coquitlam Central Station,,1,2201192,322255,0,1
-6749,1,15499364,701 Coquitlam Central Station,,1,2201190,322255,0,1
+6749,1,15499364,701 Coquitlam Central Station,,1,2201190,326315,0,1
 6749,1,15499365,701 Coquitlam Central Station,,1,2201192,322255,0,1
 6749,1,15499366,701 Coquitlam Central Station,,1,2202945,322256,0,1
 6749,1,15499367,701 Coquitlam Central Station,,1,2201257,322255,0,1
 6749,1,15499368,701 Coquitlam Central Station,,1,2201161,322255,0,1
-6749,1,15499369,701 Coquitlam Central Station,,1,2204678,322255,0,1
-6749,101,15499370,701 Coquitlam Central Station,,1,2205251,322255,0,1
-6749,1,15499371,701 Coquitlam Central Station,,1,2201192,322253,0,1
-6749,1,15499372,701 Coquitlam Central Station,,1,2201019,322255,0,1
-6749,1,15499373,701 Coquitlam Central Station,,1,2202946,322255,0,1
-6749,1,15499374,701 Coquitlam Central Station,,1,2201220,322255,0,1
-6749,1,15499375,701 Coquitlam Central Station,,1,2202945,322255,0,1
-6749,1,15499376,701 Coquitlam Central Station,,1,2201257,322255,0,1
+6749,1,15499369,701 Coquitlam Central Station,,1,2204678,326315,0,1
+6749,101,15499370,701 Coquitlam Central Station,,1,2205251,326315,0,1
+6749,1,15499371,701 Coquitlam Central Station,,1,2201192,326317,0,1
+6749,1,15499372,701 Coquitlam Central Station,,1,2201019,326315,0,1
+6749,1,15499373,701 Coquitlam Central Station,,1,2202946,326315,0,1
+6749,1,15499374,701 Coquitlam Central Station,,1,2201220,326315,0,1
+6749,1,15499375,701 Coquitlam Central Station,,1,2202945,326315,0,1
+6749,1,15499376,701 Coquitlam Central Station,,1,2201257,326315,0,1
 6749,1,15499377,701 Coquitlam Central Station,,1,2201161,322256,0,1
 6749,1,15499378,701 Coquitlam Central Station,,1,2202945,322255,0,1
 6749,1,15499379,701 Coquitlam Central Station,,1,2204642,322255,0,1
 6749,1,15499380,701 Coquitlam Central Station,,1,2204647,322256,0,1
 6749,1,15499381,701 Coquitlam Central Station,,1,2201399,322256,0,1
-6749,1,15499382,701 Coquitlam Central Station,,1,2201161,322255,0,1
-6749,1,15499383,701 Coquitlam Central Station,,1,2202945,322255,0,1
-6749,1,15499384,701 Coquitlam Central Station,,1,2202944,322255,0,1
-6749,1,15499385,701 Coquitlam Central Station,,1,2204642,322255,0,1
-6749,1,15499386,701 Coquitlam Central Station,,1,2201253,322255,0,1
-6749,1,15499387,701 Coquitlam Central Station,,1,2202946,322255,0,1
-6749,1,15499388,701 Coquitlam Central Station,,1,2201159,322255,0,1
-6749,1,15499389,701 Coquitlam Central Station,,1,2202945,322256,0,1
-6749,1,15499390,701 Coquitlam Central Station,,1,2201161,322255,0,1
-6749,1,15499391,701 Coquitlam Central Station,,1,2201192,322255,0,1
-6749,1,15499392,701 Coquitlam Central Station,,1,2204642,322256,0,1
-6749,1,15499393,701 Coquitlam Central Station,,1,2202946,322256,0,1
-6749,1,15499394,701 Coquitlam Central Station,,1,2201220,322255,0,1
-6749,1,15499395,701 Coquitlam Central Station,,1,2202945,322256,0,1
-6749,1,15499396,701 Coquitlam Central Station,,1,2201159,322255,0,1
-6749,1,15499397,701 Coquitlam Central Station,,1,2201192,322256,0,1
-6749,1,15499398,701 Coquitlam Central Station,,1,2201161,322255,0,1
-6749,1,15499399,701 Coquitlam Central Station,,1,2201019,322253,0,1
-6749,1,15499400,701 Coquitlam Central Station,,1,2204642,322255,0,1
-6749,1,15499401,701 Coquitlam Central Station,,1,2201220,322256,0,1
-6749,1,15499402,701 Coquitlam Central Station,,1,2202946,322255,0,1
-6749,1,15499403,701 Coquitlam Central Station,,1,2201257,322256,0,1
-6749,1,15499404,701 Coquitlam Central Station,,1,2202945,322255,0,1
-6749,1,15499405,701 Coquitlam Central Station,,1,2201161,322256,0,1
-6749,1,15499406,701 Coquitlam Central Station,,1,2201192,322255,0,1
-6749,1,15499407,701 Coquitlam Central Station,,1,2204642,322256,0,1
-6749,1,15499408,701 Coquitlam Central Station,,1,2201019,322255,0,1
+6749,1,15499382,701 Coquitlam Central Station,,1,2201161,326315,0,1
+6749,1,15499383,701 Coquitlam Central Station,,1,2202945,326315,0,1
+6749,1,15499384,701 Coquitlam Central Station,,1,2202944,326315,0,1
+6749,1,15499385,701 Coquitlam Central Station,,1,2204642,326315,0,1
+6749,1,15499386,701 Coquitlam Central Station,,1,2201253,326315,0,1
+6749,1,15499387,701 Coquitlam Central Station,,1,2202946,326315,0,1
+6749,1,15499388,701 Coquitlam Central Station,,1,2201159,326315,0,1
+6749,1,15499389,701 Coquitlam Central Station,,1,2202945,326316,0,1
+6749,1,15499390,701 Coquitlam Central Station,,1,2201161,326315,0,1
+6749,1,15499391,701 Coquitlam Central Station,,1,2201192,326315,0,1
+6749,1,15499392,701 Coquitlam Central Station,,1,2204642,326316,0,1
+6749,1,15499393,701 Coquitlam Central Station,,1,2202946,326316,0,1
+6749,1,15499394,701 Coquitlam Central Station,,1,2201220,326315,0,1
+6749,1,15499395,701 Coquitlam Central Station,,1,2202945,326316,0,1
+6749,1,15499396,701 Coquitlam Central Station,,1,2201159,326315,0,1
+6749,1,15499397,701 Coquitlam Central Station,,1,2201192,326316,0,1
+6749,1,15499398,701 Coquitlam Central Station,,1,2201161,326315,0,1
+6749,1,15499399,701 Coquitlam Central Station,,1,2201019,326317,0,1
+6749,1,15499400,701 Coquitlam Central Station,,1,2204642,326315,0,1
+6749,1,15499401,701 Coquitlam Central Station,,1,2201220,326316,0,1
+6749,1,15499402,701 Coquitlam Central Station,,1,2202946,326315,0,1
+6749,1,15499403,701 Coquitlam Central Station,,1,2201257,326316,0,1
+6749,1,15499404,701 Coquitlam Central Station,,1,2202945,326315,0,1
+6749,1,15499405,701 Coquitlam Central Station,,1,2201161,326316,0,1
+6749,1,15499406,701 Coquitlam Central Station,,1,2201192,326315,0,1
+6749,1,15499407,701 Coquitlam Central Station,,1,2204642,326316,0,1
+6749,1,15499408,701 Coquitlam Central Station,,1,2201019,326315,0,1
 6749,1,15499409,701 Coquitlam Central Station,,1,2202946,322256,0,1
 6749,1,15499410,701 Coquitlam Central Station,,1,2201220,322255,0,1
 6749,1,15499411,701 Coquitlam Central Station,,1,2202945,322255,0,1
-6749,201,15499412,701 Coquitlam Central Station,,1,2201256,322255,0,1
-6749,201,15499413,701 Coquitlam Central Station,,1,2204669,322256,0,1
+6749,201,15499412,701 Coquitlam Central Station,,1,2201256,326315,0,1
+6749,201,15499413,701 Coquitlam Central Station,,1,2204669,326316,0,1
 6749,101,15499414,701 Haney Place,,1,2202947,322254,0,1
 6749,2,15499415,701 Haney Place,,0,2201263,322250,0,1
 6749,2,15499416,701 Haney Place,,0,2202950,322250,0,1
@@ -46629,497 +46629,497 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 37808,3,15507976,R1 King George Blvd/To Newton Exchange,,1,2203565,322460,0,1
 37808,3,15507977,R1 King George Blvd/To Newton Exchange,,1,2203560,322460,0,1
 37808,3,15507978,R1 King George Blvd/To Newton Exchange,,1,2203563,322460,0,1
-37809,1,15508536,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508537,R3 Lougheed Hwy To Haney Place,,0,2203599,322429,0,1
-37809,1,15508538,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508539,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508540,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508541,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508542,R3 Lougheed Hwy To Haney Place,,0,2203598,322429,0,1
-37809,1,15508543,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508544,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508545,R3 Lougheed Hwy To Haney Place,,0,2203599,322429,0,1
-37809,1,15508546,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508547,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508548,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508549,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508550,R3 Lougheed Hwy To Haney Place,,0,2203598,322429,0,1
-37809,1,15508551,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508552,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508553,R3 Lougheed Hwy To Haney Place,,0,2203599,322429,0,1
-37809,1,15508554,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508555,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508556,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508557,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508558,R3 Lougheed Hwy To Haney Place,,0,2203598,322429,0,1
-37809,1,15508559,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508560,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508561,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508562,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508563,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508564,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508565,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508566,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508567,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508568,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508569,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508570,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508571,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508572,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508573,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508574,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508575,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508576,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508577,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508578,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508579,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508580,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508581,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508582,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508583,R3 Lougheed Hwy To Haney Place,,0,2203595,322429,0,1
-37809,1,15508584,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508585,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508586,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508587,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508588,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508589,R3 Lougheed Hwy To Haney Place,,0,2202947,322429,0,1
-37809,1,15508590,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508591,R3 Lougheed Hwy To Haney Place,,0,2203595,322429,0,1
-37809,1,15508592,R3 Lougheed Hwy To Haney Place,,0,2204642,322429,0,1
-37809,1,15508593,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508594,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508595,R3 Lougheed Hwy To Haney Place,,0,2203597,322429,0,1
-37809,1,15508596,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508597,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508598,R3 Lougheed Hwy To Haney Place,,0,2203596,322429,0,1
-37809,1,15508599,R3 Lougheed Hwy To Haney Place,,0,2202947,322429,0,1
-37809,1,15508600,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508601,R3 Lougheed Hwy To Haney Place,,0,2203595,322429,0,1
-37809,1,15508602,R3 Lougheed Hwy To Haney Place,,0,2204642,322429,0,1
-37809,1,15508603,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508604,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508605,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508606,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508607,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508608,R3 Lougheed Hwy To Haney Place,,0,2204642,322429,0,1
-37809,1,15508609,R3 Lougheed Hwy To Haney Place,,0,2203594,322429,0,1
-37809,1,15508610,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508611,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508612,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508613,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508614,R3 Lougheed Hwy To Haney Place,,0,2204642,322429,0,1
-37809,1,15508615,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508616,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508617,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508618,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508619,R3 Lougheed Hwy To Haney Place,,0,2204642,322429,0,1
-37809,1,15508620,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508621,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508622,R3 Lougheed Hwy To Haney Place,,0,2203528,322429,0,1
-37809,1,15508623,R3 Lougheed Hwy To Haney Place,,0,2203593,322429,0,1
-37809,1,15508624,R3 Lougheed Hwy To Haney Place,,0,2204642,322429,0,1
-37809,1,15508625,R3 Lougheed Hwy To Haney Place,,0,2203591,322429,0,1
-37809,1,15508626,R3 Lougheed Hwy To Haney Place,,0,2203590,322429,0,1
-37809,1,15508627,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508628,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508629,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508630,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508631,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508632,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203599,322430,0,1
-37809,1,15508633,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508634,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508635,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508636,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508637,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203598,322430,0,1
-37809,1,15508638,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508639,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508640,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203599,322430,0,1
-37809,1,15508641,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508642,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508643,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508644,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508645,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203598,322430,0,1
-37809,1,15508646,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508647,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508648,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203599,322430,0,1
-37809,1,15508649,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508650,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508651,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508652,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508653,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508654,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508655,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508656,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508657,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508658,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508659,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508660,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508661,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508662,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508663,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508664,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508665,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508666,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508667,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508668,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508669,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508670,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508671,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508672,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508673,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508674,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508675,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508676,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508677,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203595,322430,0,1
-37809,1,15508678,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508679,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508680,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203597,322430,0,1
-37809,1,15508681,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508682,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508683,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203596,322430,0,1
-37809,1,15508684,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202947,322430,0,1
-37809,1,15508685,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508686,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203595,322430,0,1
-37809,1,15508687,R3 Lougheed Hwy To Coquitlam Central Station,,1,2204642,322430,0,1
-37809,1,15508688,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508689,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508690,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203597,322430,0,1
-37809,1,15508691,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508692,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508693,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508694,R3 Lougheed Hwy To Coquitlam Central Station,,1,2204642,322430,0,1
-37809,1,15508695,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508696,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508697,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508698,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508699,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508700,R3 Lougheed Hwy To Coquitlam Central Station,,1,2204642,322430,0,1
-37809,1,15508701,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203594,322430,0,1
-37809,1,15508702,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508703,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508704,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508705,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508706,R3 Lougheed Hwy To Coquitlam Central Station,,1,2204642,322430,0,1
-37809,1,15508707,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508708,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508709,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508710,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508711,R3 Lougheed Hwy To Coquitlam Central Station,,1,2204642,322430,0,1
-37809,1,15508712,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203591,322430,0,1
-37809,1,15508713,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203590,322430,0,1
-37809,1,15508714,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203528,322430,0,1
-37809,1,15508715,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203593,322430,0,1
-37809,1,15508716,R3 Lougheed Hwy To Coquitlam Central Station,,1,2204642,322430,0,1
-37809,201,15508717,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202947,322430,0,1
-37809,101,15508718,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202947,322430,0,1
-37809,2,15508719,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508720,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508721,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508722,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508723,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508724,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508725,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508726,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508727,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508728,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508729,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508730,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508731,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508732,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508733,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508734,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508735,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508736,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508737,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508738,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508739,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508740,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508741,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508742,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508743,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508744,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508745,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508746,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508747,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508748,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508749,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508750,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508751,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508752,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508753,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508754,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508755,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508756,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508757,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508758,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508759,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508760,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508761,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508762,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508763,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508764,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508765,R3 Lougheed Hwy To Haney Place,,0,2203605,322429,0,1
-37809,2,15508766,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508767,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508768,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508769,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508770,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508771,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508772,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508773,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508774,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508775,R3 Lougheed Hwy To Haney Place,,0,2203604,322429,0,1
-37809,2,15508776,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508777,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508778,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508779,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508780,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508781,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508782,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508783,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508784,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508785,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508786,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508787,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508788,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508789,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508790,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508791,R3 Lougheed Hwy To Haney Place,,0,2203529,322429,0,1
-37809,2,15508792,R3 Lougheed Hwy To Haney Place,,0,2203603,322429,0,1
-37809,2,15508793,R3 Lougheed Hwy To Haney Place,,0,2203602,322429,0,1
-37809,2,15508794,R3 Lougheed Hwy To Haney Place,,0,2203601,322429,0,1
-37809,2,15508795,R3 Lougheed Hwy To Haney Place,,0,2203600,322429,0,1
-37809,2,15508796,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508797,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508798,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508799,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508800,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508801,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508802,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508803,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508804,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508805,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508806,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508807,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508808,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508809,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508810,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508811,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508812,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508813,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508814,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508815,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508816,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508817,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508818,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508819,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508820,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508821,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508822,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508823,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508824,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508825,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508826,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508827,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508828,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508829,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508830,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508831,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508832,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508833,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508834,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508835,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508836,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508837,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508838,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508839,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508840,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508841,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508842,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508843,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508844,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508845,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203605,322430,0,1
-37809,2,15508846,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508847,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508848,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508849,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203604,322430,0,1
-37809,2,15508850,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508851,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508852,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508853,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508854,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508855,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508856,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508857,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508858,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508859,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508860,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508861,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508862,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508863,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508864,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508865,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508866,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508867,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,2,15508868,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203601,322430,0,1
-37809,2,15508869,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203600,322430,0,1
-37809,2,15508870,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203529,322430,0,1
-37809,2,15508871,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203603,322430,0,1
-37809,2,15508872,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203602,322430,0,1
-37809,3,15508873,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508874,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508875,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508876,R3 Lougheed Hwy To Haney Place,,0,2203608,322429,0,1
-37809,3,15508877,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508878,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508879,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508880,R3 Lougheed Hwy To Haney Place,,0,2203608,322429,0,1
-37809,3,15508881,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508882,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508883,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508884,R3 Lougheed Hwy To Haney Place,,0,2203608,322429,0,1
-37809,3,15508885,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508886,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508887,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508888,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508889,R3 Lougheed Hwy To Haney Place,,0,2203608,322429,0,1
-37809,3,15508890,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508891,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508892,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508893,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508894,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508895,R3 Lougheed Hwy To Haney Place,,0,2203608,322429,0,1
-37809,3,15508896,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508897,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508898,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508899,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508900,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508901,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508902,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508903,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508904,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508905,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508906,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508907,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508908,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508909,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508910,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508911,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508912,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508913,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508914,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508915,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508916,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508917,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508918,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508919,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508920,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508921,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508922,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508923,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508924,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508925,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508926,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508927,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508928,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508929,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508930,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508931,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508932,R3 Lougheed Hwy To Haney Place,,0,2203610,322429,0,1
-37809,3,15508933,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508934,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508935,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508936,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508937,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508938,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508939,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508940,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508941,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508942,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508943,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508944,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508945,R3 Lougheed Hwy To Haney Place,,0,2203609,322429,0,1
-37809,3,15508946,R3 Lougheed Hwy To Haney Place,,0,2203530,322429,0,1
-37809,3,15508947,R3 Lougheed Hwy To Haney Place,,0,2202961,322429,0,1
-37809,3,15508948,R3 Lougheed Hwy To Haney Place,,0,2203607,322429,0,1
-37809,3,15508949,R3 Lougheed Hwy To Haney Place,,0,2203606,322429,0,1
-37809,3,15508950,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508951,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203608,322430,0,1
-37809,3,15508952,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508953,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508954,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508955,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203608,322430,0,1
-37809,3,15508956,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508957,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508958,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508959,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203608,322430,0,1
-37809,3,15508960,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508961,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508962,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508963,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203608,322430,0,1
-37809,3,15508964,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15508965,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508966,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508967,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508968,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15508969,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203608,322430,0,1
-37809,3,15508970,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15508971,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508972,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508973,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508974,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15508975,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15508976,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15508977,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508978,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508979,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508980,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15508981,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15508982,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15508983,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508984,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508985,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508986,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15508987,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15508988,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15508989,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508990,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508991,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508992,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15508993,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15508994,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15508995,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15508996,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15508997,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15508998,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15508999,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15509000,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15509001,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15509002,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15509003,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15509004,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15509005,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15509006,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203610,322430,0,1
-37809,3,15509007,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15509008,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15509009,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15509010,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15509011,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15509012,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15509013,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15509014,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15509015,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15509016,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15509017,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15509018,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15509019,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15509020,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15509021,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
-37809,3,15509022,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203607,322430,0,1
-37809,3,15509023,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203606,322430,0,1
-37809,3,15509024,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203609,322430,0,1
-37809,3,15509025,R3 Lougheed Hwy To Coquitlam Central Station,,1,2203530,322430,0,1
-37809,3,15509026,R3 Lougheed Hwy To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,1,15508536,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508537,R3 Lougheed Hwy/To Haney Place,,0,2203599,322429,0,1
+37809,1,15508538,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508539,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508540,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508541,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508542,R3 Lougheed Hwy/To Haney Place,,0,2203598,322429,0,1
+37809,1,15508543,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508544,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508545,R3 Lougheed Hwy/To Haney Place,,0,2203599,322429,0,1
+37809,1,15508546,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508547,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508548,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508549,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508550,R3 Lougheed Hwy/To Haney Place,,0,2203598,322429,0,1
+37809,1,15508551,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508552,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508553,R3 Lougheed Hwy/To Haney Place,,0,2203599,322429,0,1
+37809,1,15508554,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508555,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508556,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508557,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508558,R3 Lougheed Hwy/To Haney Place,,0,2203598,322429,0,1
+37809,1,15508559,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508560,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508561,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508562,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508563,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508564,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508565,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508566,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508567,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508568,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508569,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508570,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508571,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508572,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508573,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508574,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508575,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508576,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508577,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508578,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508579,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508580,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508581,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508582,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508583,R3 Lougheed Hwy/To Haney Place,,0,2203595,322429,0,1
+37809,1,15508584,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508585,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508586,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508587,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508588,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508589,R3 Lougheed Hwy/To Haney Place,,0,2202947,322429,0,1
+37809,1,15508590,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508591,R3 Lougheed Hwy/To Haney Place,,0,2203595,322429,0,1
+37809,1,15508592,R3 Lougheed Hwy/To Haney Place,,0,2204642,322429,0,1
+37809,1,15508593,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508594,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508595,R3 Lougheed Hwy/To Haney Place,,0,2203597,322429,0,1
+37809,1,15508596,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508597,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508598,R3 Lougheed Hwy/To Haney Place,,0,2203596,322429,0,1
+37809,1,15508599,R3 Lougheed Hwy/To Haney Place,,0,2202947,322429,0,1
+37809,1,15508600,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508601,R3 Lougheed Hwy/To Haney Place,,0,2203595,322429,0,1
+37809,1,15508602,R3 Lougheed Hwy/To Haney Place,,0,2204642,322429,0,1
+37809,1,15508603,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508604,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508605,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508606,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508607,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508608,R3 Lougheed Hwy/To Haney Place,,0,2204642,322429,0,1
+37809,1,15508609,R3 Lougheed Hwy/To Haney Place,,0,2203594,322429,0,1
+37809,1,15508610,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508611,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508612,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508613,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508614,R3 Lougheed Hwy/To Haney Place,,0,2204642,322429,0,1
+37809,1,15508615,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508616,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508617,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508618,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508619,R3 Lougheed Hwy/To Haney Place,,0,2204642,322429,0,1
+37809,1,15508620,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508621,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508622,R3 Lougheed Hwy/To Haney Place,,0,2203528,322429,0,1
+37809,1,15508623,R3 Lougheed Hwy/To Haney Place,,0,2203593,322429,0,1
+37809,1,15508624,R3 Lougheed Hwy/To Haney Place,,0,2204642,322429,0,1
+37809,1,15508625,R3 Lougheed Hwy/To Haney Place,,0,2203591,322429,0,1
+37809,1,15508626,R3 Lougheed Hwy/To Haney Place,,0,2203590,322429,0,1
+37809,1,15508627,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508628,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508629,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508630,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508631,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508632,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203599,322430,0,1
+37809,1,15508633,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508634,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508635,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508636,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508637,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203598,322430,0,1
+37809,1,15508638,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508639,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508640,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203599,322430,0,1
+37809,1,15508641,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508642,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508643,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508644,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508645,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203598,322430,0,1
+37809,1,15508646,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508647,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508648,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203599,322430,0,1
+37809,1,15508649,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508650,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508651,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508652,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508653,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508654,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508655,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508656,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508657,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508658,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508659,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508660,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508661,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508662,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508663,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508664,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508665,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508666,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508667,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508668,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508669,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508670,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508671,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508672,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508673,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508674,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508675,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508676,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508677,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203595,322430,0,1
+37809,1,15508678,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508679,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508680,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203597,322430,0,1
+37809,1,15508681,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508682,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508683,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203596,322430,0,1
+37809,1,15508684,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202947,322430,0,1
+37809,1,15508685,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508686,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203595,322430,0,1
+37809,1,15508687,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2204642,322430,0,1
+37809,1,15508688,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508689,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508690,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203597,322430,0,1
+37809,1,15508691,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508692,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508693,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508694,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2204642,322430,0,1
+37809,1,15508695,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508696,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508697,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508698,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508699,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508700,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2204642,322430,0,1
+37809,1,15508701,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203594,322430,0,1
+37809,1,15508702,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508703,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508704,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508705,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508706,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2204642,322430,0,1
+37809,1,15508707,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508708,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508709,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508710,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508711,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2204642,322430,0,1
+37809,1,15508712,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203591,322430,0,1
+37809,1,15508713,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203590,322430,0,1
+37809,1,15508714,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203528,322430,0,1
+37809,1,15508715,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203593,322430,0,1
+37809,1,15508716,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2204642,322430,0,1
+37809,201,15508717,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202947,322430,0,1
+37809,101,15508718,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202947,322430,0,1
+37809,2,15508719,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508720,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508721,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508722,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508723,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508724,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508725,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508726,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508727,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508728,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508729,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508730,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508731,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508732,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508733,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508734,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508735,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508736,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508737,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508738,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508739,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508740,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508741,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508742,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508743,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508744,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508745,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508746,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508747,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508748,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508749,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508750,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508751,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508752,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508753,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508754,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508755,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508756,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508757,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508758,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508759,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508760,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508761,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508762,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508763,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508764,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508765,R3 Lougheed Hwy/To Haney Place,,0,2203605,322429,0,1
+37809,2,15508766,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508767,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508768,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508769,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508770,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508771,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508772,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508773,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508774,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508775,R3 Lougheed Hwy/To Haney Place,,0,2203604,322429,0,1
+37809,2,15508776,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508777,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508778,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508779,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508780,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508781,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508782,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508783,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508784,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508785,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508786,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508787,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508788,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508789,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508790,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508791,R3 Lougheed Hwy/To Haney Place,,0,2203529,322429,0,1
+37809,2,15508792,R3 Lougheed Hwy/To Haney Place,,0,2203603,322429,0,1
+37809,2,15508793,R3 Lougheed Hwy/To Haney Place,,0,2203602,322429,0,1
+37809,2,15508794,R3 Lougheed Hwy/To Haney Place,,0,2203601,322429,0,1
+37809,2,15508795,R3 Lougheed Hwy/To Haney Place,,0,2203600,322429,0,1
+37809,2,15508796,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508797,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508798,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508799,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508800,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508801,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508802,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508803,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508804,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508805,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508806,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508807,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508808,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508809,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508810,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508811,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508812,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508813,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508814,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508815,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508816,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508817,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508818,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508819,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508820,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508821,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508822,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508823,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508824,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508825,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508826,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508827,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508828,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508829,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508830,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508831,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508832,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508833,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508834,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508835,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508836,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508837,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508838,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508839,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508840,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508841,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508842,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508843,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508844,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508845,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203605,322430,0,1
+37809,2,15508846,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508847,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508848,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508849,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203604,322430,0,1
+37809,2,15508850,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508851,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508852,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508853,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508854,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508855,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508856,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508857,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508858,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508859,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508860,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508861,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508862,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508863,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508864,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508865,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508866,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508867,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,2,15508868,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203601,322430,0,1
+37809,2,15508869,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203600,322430,0,1
+37809,2,15508870,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203529,322430,0,1
+37809,2,15508871,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203603,322430,0,1
+37809,2,15508872,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203602,322430,0,1
+37809,3,15508873,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508874,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508875,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508876,R3 Lougheed Hwy/To Haney Place,,0,2203608,322429,0,1
+37809,3,15508877,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508878,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508879,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508880,R3 Lougheed Hwy/To Haney Place,,0,2203608,322429,0,1
+37809,3,15508881,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508882,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508883,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508884,R3 Lougheed Hwy/To Haney Place,,0,2203608,322429,0,1
+37809,3,15508885,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508886,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508887,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508888,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508889,R3 Lougheed Hwy/To Haney Place,,0,2203608,322429,0,1
+37809,3,15508890,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508891,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508892,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508893,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508894,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508895,R3 Lougheed Hwy/To Haney Place,,0,2203608,322429,0,1
+37809,3,15508896,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508897,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508898,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508899,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508900,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508901,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508902,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508903,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508904,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508905,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508906,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508907,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508908,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508909,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508910,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508911,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508912,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508913,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508914,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508915,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508916,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508917,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508918,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508919,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508920,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508921,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508922,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508923,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508924,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508925,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508926,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508927,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508928,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508929,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508930,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508931,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508932,R3 Lougheed Hwy/To Haney Place,,0,2203610,322429,0,1
+37809,3,15508933,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508934,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508935,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508936,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508937,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508938,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508939,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508940,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508941,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508942,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508943,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508944,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508945,R3 Lougheed Hwy/To Haney Place,,0,2203609,322429,0,1
+37809,3,15508946,R3 Lougheed Hwy/To Haney Place,,0,2203530,322429,0,1
+37809,3,15508947,R3 Lougheed Hwy/To Haney Place,,0,2202961,322429,0,1
+37809,3,15508948,R3 Lougheed Hwy/To Haney Place,,0,2203607,322429,0,1
+37809,3,15508949,R3 Lougheed Hwy/To Haney Place,,0,2203606,322429,0,1
+37809,3,15508950,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508951,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203608,322430,0,1
+37809,3,15508952,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508953,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508954,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508955,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203608,322430,0,1
+37809,3,15508956,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508957,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508958,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508959,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203608,322430,0,1
+37809,3,15508960,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508961,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508962,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508963,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203608,322430,0,1
+37809,3,15508964,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15508965,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508966,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508967,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508968,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15508969,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203608,322430,0,1
+37809,3,15508970,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15508971,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508972,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508973,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508974,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15508975,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15508976,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15508977,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508978,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508979,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508980,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15508981,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15508982,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15508983,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508984,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508985,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508986,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15508987,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15508988,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15508989,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508990,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508991,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508992,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15508993,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15508994,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15508995,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15508996,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15508997,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15508998,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15508999,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15509000,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15509001,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15509002,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15509003,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15509004,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15509005,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15509006,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203610,322430,0,1
+37809,3,15509007,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15509008,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15509009,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15509010,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15509011,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15509012,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15509013,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15509014,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15509015,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15509016,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15509017,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15509018,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15509019,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15509020,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15509021,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
+37809,3,15509022,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203607,322430,0,1
+37809,3,15509023,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203606,322430,0,1
+37809,3,15509024,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203609,322430,0,1
+37809,3,15509025,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2203530,322430,0,1
+37809,3,15509026,R3 Lougheed Hwy/To Coquitlam Central Station,,1,2202961,322430,0,1
 37810,1,15509027,R4 41st Avenue/To Joyce Station,,0,2203661,322431,0,1
 37810,1,15509028,R4 41st Avenue/To Joyce Station,,0,2203638,322431,0,1
 37810,1,15509029,R4 41st Avenue/To Joyce Station,,0,2203663,322431,0,1
@@ -60054,7 +60054,7 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 30038,1,15525340,172 Riverside,,0,2201320,321650,0,1
 30046,201,15525341,183 Moody Centre Station,,1,2201158,321682,0,1
 6662,201,15525342,128 8th Avenue/To Braid Station,,0,2201008,321556,0,1
-6749,201,15525343,701 Coquitlam Central Station,,1,2205251,322255,0,1
+6749,201,15525343,701 Coquitlam Central Station,,1,2205251,326315,0,1
 34043,1,15525344,746 Albion,,0,2202974,322289,0,1
 34043,1,15525345,746 Haney Place via Port Haney Station,,1,2202987,322294,0,1
 34042,1,15525346,745 Haney Place,,1,2202974,322287,0,1
